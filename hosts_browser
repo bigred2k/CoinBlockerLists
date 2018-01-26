@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 24 01 2018 16:00
+# Last modified: 26 01 2018 23:54
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 1beb2a44.space
@@ -154,6 +154,14 @@
 0.0.0.0 cryptonoter.com
 0.0.0.0 csgocpu.com
 0.0.0.0 ctrb.jscdndel.com
+0.0.0.0 cvp1.asvoxod.ru
+0.0.0.0 cvp2.asvoxod.ru
+0.0.0.0 cvp3.asvoxod.ru
+0.0.0.0 cvp4.asvoxod.ru
+0.0.0.0 cvp5.asvoxod.ru
+0.0.0.0 cvp6.asvoxod.ru
+0.0.0.0 cvp7.asvoxod.ru
+0.0.0.0 cvp8.asvoxod.ru
 0.0.0.0 d1e1rbybdt265x.cloudfront.net
 0.0.0.0 d3ahinqqx1dy5v.cloudfront.net
 0.0.0.0 d3iz6lralvg77g.cloudfront.net
@@ -168,6 +176,12 @@
 0.0.0.0 dmdamedia.hu
 0.0.0.0 dmg.crypto.csgocpu.com
 0.0.0.0 do69ifsly4.me
+0.0.0.0 doubleclick1.xyz
+0.0.0.0 doubleclick2.xyz
+0.0.0.0 doubleclick3.xyz
+0.0.0.0 doubleclick4.xyz
+0.0.0.0 doubleclick5.xyz
+0.0.0.0 doubleclick6.xyz
 0.0.0.0 earncoins.club
 0.0.0.0 edgeno.de
 0.0.0.0 eeme7j.win
@@ -251,6 +265,7 @@
 0.0.0.0 load.jsecoin.com
 0.0.0.0 london01.monero.hashvault.pro
 0.0.0.0 losangeles01.monero.hashvault.pro
+0.0.0.0 m.anyfiles.ovh
 0.0.0.0 m.pr0gramm.com
 0.0.0.0 mail.coinhive-manager.com
 0.0.0.0 mail.cookiescript.info
@@ -269,6 +284,7 @@
 0.0.0.0 minekitten.io
 0.0.0.0 minemytraffic.com
 0.0.0.0 miner.cryptobara.com
+0.0.0.0 miner.nablabee.com
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 minerclaim.net
 0.0.0.0 minero-proxy-01.now.sh
@@ -789,4 +805,5 @@
 0.0.0.0 xy.nullrefexcep.com
 0.0.0.0 youporn.sexy
 0.0.0.0 zgdfz6h7po.me
+0.0.0.0 zjemch.ru
 0.0.0.0 zxc1-ustokyyneikyfasnm.stackpathdns.com

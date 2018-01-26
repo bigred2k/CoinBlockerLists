@@ -150,6 +150,14 @@ cryptoloot.pro
 cryptonoter.com
 csgocpu.com
 ctrb.jscdndel.com
+cvp1.asvoxod.ru
+cvp2.asvoxod.ru
+cvp3.asvoxod.ru
+cvp4.asvoxod.ru
+cvp5.asvoxod.ru
+cvp6.asvoxod.ru
+cvp7.asvoxod.ru
+cvp8.asvoxod.ru
 d1e1rbybdt265x.cloudfront.net
 d3ahinqqx1dy5v.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
@@ -164,6 +172,12 @@ digxmr.com
 dmdamedia.hu
 dmg.crypto.csgocpu.com
 do69ifsly4.me
+doubleclick1.xyz
+doubleclick2.xyz
+doubleclick3.xyz
+doubleclick4.xyz
+doubleclick5.xyz
+doubleclick6.xyz
 earncoins.club
 edgeno.de
 eeme7j.win
@@ -247,6 +261,7 @@ lmodr.biz
 load.jsecoin.com
 london01.monero.hashvault.pro
 losangeles01.monero.hashvault.pro
+m.anyfiles.ovh
 m.pr0gramm.com
 mail.coinhive-manager.com
 mail.cookiescript.info
@@ -265,6 +280,7 @@ minecrunch.co
 minekitten.io
 minemytraffic.com
 miner.cryptobara.com
+miner.nablabee.com
 miner.pr0gramm.com
 minerclaim.net
 minero-proxy-01.now.sh
@@ -784,4 +800,5 @@ xmrpool.net
 xy.nullrefexcep.com
 youporn.sexy
 zgdfz6h7po.me
+zjemch.ru
 zxc1-ustokyyneikyfasnm.stackpathdns.com
