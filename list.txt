@@ -23,6 +23,7 @@
 6tsbe1zs.me
 8jd2lfsq.me
 Internetresearch.is
+a.pool.ml
 a.proxy4.nullrefexcep.com
 a.proxy5.nullrefexcep.com
 a37ubfu6nmjxzcff.onion
@@ -202,6 +203,7 @@ autodiscover.ditcoin.io
 avatar.pr0gramm.com
 avualrhg9p.bid
 azvjudwr.info
+b.pool.gq
 b.proxy4.nullrefexcep.com
 back4.2giga.link
 baiduccdn1.com
@@ -525,6 +527,7 @@ cryptonoter.com
 cryptopay.me
 cryptoserb.com
 cryptoxpool.com
+cryweb.github.io
 cs.minergate.com
 csc.suprnova.cc
 csgocpu.com
@@ -863,6 +866,7 @@ exrno.org
 extensionsapiversion.space
 extremeool.org
 extremepool.org
+f.pooling.cf
 f.sunnyjuly.gq
 f1.deepbit.net
 f2.deepbit.net
@@ -1676,6 +1680,7 @@ pool.cryptonoter.com
 pool.electroneum.hashvault.pro
 pool.eth.pp.ua
 pool.etn.spacepools.org
+pool.gq
 pool.hashrefinery.com
 pool.intense.hashvault.pro
 pool.kosmoplovci.org
@@ -1683,6 +1688,7 @@ pool.minemonero.pro
 pool.miners.pro
 pool.minexmr.com
 pool.miningspeed.com
+pool.ml
 pool.monero.hashvault.pro
 pool.moneropool.com
 pool.moneropool.nl
@@ -1699,6 +1705,7 @@ pool1.us.multipool.us
 pool2.coinimp.com
 poolcn.btcchina.com
 pooldd.com
+pooling.cf
 poolmin.com
 poolmining.org
 pools.tugae2.com

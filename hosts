@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 26 01 2018 23:54
+# Last modified: 27 01 2018 01:53
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
@@ -25,6 +25,7 @@
 0.0.0.0 6tsbe1zs.me
 0.0.0.0 8jd2lfsq.me
 0.0.0.0 Internetresearch.is
+0.0.0.0 a.pool.ml
 0.0.0.0 a.proxy4.nullrefexcep.com
 0.0.0.0 a.proxy5.nullrefexcep.com
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -204,6 +205,7 @@
 0.0.0.0 avatar.pr0gramm.com
 0.0.0.0 avualrhg9p.bid
 0.0.0.0 azvjudwr.info
+0.0.0.0 b.pool.gq
 0.0.0.0 b.proxy4.nullrefexcep.com
 0.0.0.0 back4.2giga.link
 0.0.0.0 baiduccdn1.com
@@ -527,6 +529,7 @@
 0.0.0.0 cryptopay.me
 0.0.0.0 cryptoserb.com
 0.0.0.0 cryptoxpool.com
+0.0.0.0 cryweb.github.io
 0.0.0.0 cs.minergate.com
 0.0.0.0 csc.suprnova.cc
 0.0.0.0 csgocpu.com
@@ -865,6 +868,7 @@
 0.0.0.0 extensionsapiversion.space
 0.0.0.0 extremeool.org
 0.0.0.0 extremepool.org
+0.0.0.0 f.pooling.cf
 0.0.0.0 f.sunnyjuly.gq
 0.0.0.0 f1.deepbit.net
 0.0.0.0 f2.deepbit.net
@@ -1678,6 +1682,7 @@
 0.0.0.0 pool.electroneum.hashvault.pro
 0.0.0.0 pool.eth.pp.ua
 0.0.0.0 pool.etn.spacepools.org
+0.0.0.0 pool.gq
 0.0.0.0 pool.hashrefinery.com
 0.0.0.0 pool.intense.hashvault.pro
 0.0.0.0 pool.kosmoplovci.org
@@ -1685,6 +1690,7 @@
 0.0.0.0 pool.miners.pro
 0.0.0.0 pool.minexmr.com
 0.0.0.0 pool.miningspeed.com
+0.0.0.0 pool.ml
 0.0.0.0 pool.monero.hashvault.pro
 0.0.0.0 pool.moneropool.com
 0.0.0.0 pool.moneropool.nl
@@ -1701,6 +1707,7 @@
 0.0.0.0 pool2.coinimp.com
 0.0.0.0 poolcn.btcchina.com
 0.0.0.0 pooldd.com
+0.0.0.0 pooling.cf
 0.0.0.0 poolmin.com
 0.0.0.0 poolmining.org
 0.0.0.0 pools.tugae2.com
