@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 28 01 2018 15:14
+# Last modified: 28 01 2018 17:54
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 1beb2a44.space
@@ -20,6 +20,7 @@
 0.0.0.0 64uq73u7ug.webcam
 0.0.0.0 6ow9rhxtolls.gq
 0.0.0.0 6tsbe1zs.me
+0.0.0.0 8000plus.si
 0.0.0.0 8jd2lfsq.me
 0.0.0.0 a.proxy4.nullrefexcep.com
 0.0.0.0 a.proxy5.nullrefexcep.com
@@ -176,6 +177,7 @@
 0.0.0.0 de.cookiescript.info
 0.0.0.0 de.moneroocean.stream
 0.0.0.0 deepc.cc
+0.0.0.0 demo.webxmr.com
 0.0.0.0 dev.coinlab.biz
 0.0.0.0 dev.cryptobara.com
 0.0.0.0 digger.cryptobara.com
@@ -214,6 +216,7 @@
 0.0.0.0 full.pr0gramm.com
 0.0.0.0 g-content.bid
 0.0.0.0 gemius.pl
+0.0.0.0 get.webxmr.com
 0.0.0.0 global.crypto.csgocpu.com
 0.0.0.0 go.megabanners.cf
 0.0.0.0 goldnova.crypto.csgocpu.com
@@ -264,6 +267,7 @@
 0.0.0.0 kissdoujin.com
 0.0.0.0 kisshentai.net
 0.0.0.0 kiwifarms.net
+0.0.0.0 krb.devphp.org.ua
 0.0.0.0 kunay.nullrefexcep.com
 0.0.0.0 l-shop.nullrefexcep.com
 0.0.0.0 l33tsite.info
@@ -302,6 +306,7 @@
 0.0.0.0 minero-proxy-03.now.sh
 0.0.0.0 minero.pw
 0.0.0.0 minexmr.com
+0.0.0.0 mining.best
 0.0.0.0 mining.freebitco.in
 0.0.0.0 minr.browsermine.com
 0.0.0.0 minr.nullrefexcep.com
@@ -326,6 +331,7 @@
 0.0.0.0 myfhology.sbhmn-miner.com
 0.0.0.0 new.minr.pw
 0.0.0.0 newark01.monero.hashvault.pro
+0.0.0.0 nfwebminer.com
 0.0.0.0 nitsche.top
 0.0.0.0 nl.cookiescript.info
 0.0.0.0 noblock.pro
@@ -400,16 +406,19 @@
 0.0.0.0 smectapop12.pl
 0.0.0.0 smurf.crypto.csgocpu.com
 0.0.0.0 spacepools.org
+0.0.0.0 sparechange.io
 0.0.0.0 sparnove.com
 0.0.0.0 sr.cookiescript.info
 0.0.0.0 srv01.bitcoiner.win
 0.0.0.0 srv02.bitcoiner.win
 0.0.0.0 st.kjli.fi
+0.0.0.0 staging.webxmr.com
 0.0.0.0 static-02.flu.cc
 0.0.0.0 static-cnt.bid
 0.0.0.0 static-net.nut.cc
 0.0.0.0 static.hk.rs
 0.0.0.0 static.reasedoper.pw
+0.0.0.0 static.sparechange.io
 0.0.0.0 static1.freebitco.in
 0.0.0.0 static2.freebitco.in
 0.0.0.0 static3.freebitco.in
@@ -437,6 +446,7 @@
 0.0.0.0 test.cryptonoter.com
 0.0.0.0 test.minr.pw
 0.0.0.0 testnet-api.xmrpool.net
+0.0.0.0 testnet.webxmr.com
 0.0.0.0 thumb.pr0gramm.com
 0.0.0.0 todogecoin.biz
 0.0.0.0 tokyodrift.ga
@@ -472,6 +482,7 @@
 0.0.0.0 webminer.pro
 0.0.0.0 webminerpool.com
 0.0.0.0 webmining.co
+0.0.0.0 webxmr.com
 0.0.0.0 wemine.pro
 0.0.0.0 whchsvlxch.site
 0.0.0.0 wijzeman.sbhmn-miner.com
@@ -800,9 +811,11 @@
 0.0.0.0 x.browsermine.com
 0.0.0.0 xbasfbno.info
 0.0.0.0 xgmc6lu8fs.me
+0.0.0.0 xml.mining.best
 0.0.0.0 xmr.coinlab.biz
 0.0.0.0 xmr.crypto-pool.fr
 0.0.0.0 xmr.cryptonoter.com
+0.0.0.0 xmr.mining.best
 0.0.0.0 xmr1.crypto-pool.fr
 0.0.0.0 xmr10.crypto-pool.fr
 0.0.0.0 xmr3.crypto-pool.fr
