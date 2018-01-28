@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 26 01 2018 23:54
+# Last modified: 28 01 2018 15:14
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 1beb2a44.space
@@ -51,6 +51,7 @@
 0.0.0.0 api.coinhive.com
 0.0.0.0 api.ethereum.hashvault.pro
 0.0.0.0 api.intense.hashvault.pro
+0.0.0.0 api.l33tsite.info
 0.0.0.0 api.minexmr.com
 0.0.0.0 api.monerise.com
 0.0.0.0 api.monero.hashvault.pro
@@ -93,6 +94,7 @@
 0.0.0.0 captchas.freebitco.in
 0.0.0.0 carrel.services
 0.0.0.0 cdjs.online
+0.0.0.0 cdn.adless.io
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 cdn.cookiescript.info
 0.0.0.0 cdn.jquery-uim.download
@@ -138,6 +140,7 @@
 0.0.0.0 coinjive.com
 0.0.0.0 coinlab.biz
 0.0.0.0 coinnebula.com
+0.0.0.0 coinpirate.cf
 0.0.0.0 coinpot.co
 0.0.0.0 coinworker.com
 0.0.0.0 colnhive.com
@@ -145,13 +148,17 @@
 0.0.0.0 cookiescript.info
 0.0.0.0 cookiescriptcdn.pro
 0.0.0.0 cpanel.monerominer.rocks
+0.0.0.0 cpu2cash.link
 0.0.0.0 cqfnvznw.info
 0.0.0.0 crypto-loot.com
 0.0.0.0 crypto-pool.fr
+0.0.0.0 crypto-webminer.com
 0.0.0.0 crypto.csgocpu.com
 0.0.0.0 cryptobara.com
 0.0.0.0 cryptoloot.pro
 0.0.0.0 cryptonoter.com
+0.0.0.0 cryweb.github.io
+0.0.0.0 crywebber.github.io
 0.0.0.0 csgocpu.com
 0.0.0.0 ctrb.jscdndel.com
 0.0.0.0 cvp1.asvoxod.ru
@@ -201,6 +208,7 @@
 0.0.0.0 frankfurt-1.xmrpool.net
 0.0.0.0 frankfurt01.monero.hashvault.pro
 0.0.0.0 freebitco.in
+0.0.0.0 freecontent.bid
 0.0.0.0 ftp.coinhive-manager.com
 0.0.0.0 ftp.coinlab.biz
 0.0.0.0 full.pr0gramm.com
@@ -235,6 +243,7 @@
 0.0.0.0 iisl7wpf.me
 0.0.0.0 img.pr0gramm.com
 0.0.0.0 infamylists.com
+0.0.0.0 insdrbot.com
 0.0.0.0 intense.hashvault.pro
 0.0.0.0 it.cookiescript.info
 0.0.0.0 jasmine.noblock.pro
@@ -257,6 +266,7 @@
 0.0.0.0 kiwifarms.net
 0.0.0.0 kunay.nullrefexcep.com
 0.0.0.0 l-shop.nullrefexcep.com
+0.0.0.0 l33tsite.info
 0.0.0.0 lib.xmrm.pw
 0.0.0.0 light.browsermine.com
 0.0.0.0 lightminer.co
@@ -307,6 +317,7 @@
 0.0.0.0 monkeyminer.net
 0.0.0.0 morningdigit.com
 0.0.0.0 moscow05.electroneum.hashvault.pro
+0.0.0.0 mutuza.win
 0.0.0.0 mwnodes.viaxmr.com
 0.0.0.0 mxcdn1.now.sh
 0.0.0.0 mxcdn2.now.sh
@@ -480,6 +491,7 @@
 0.0.0.0 ws-fr-02.rocks.io
 0.0.0.0 ws-fr-03.rocks.io
 0.0.0.0 ws.freebitco.in
+0.0.0.0 ws.l33tsite.info
 0.0.0.0 ws.xmrm.pw
 0.0.0.0 ws.xmrpool.net
 0.0.0.0 ws000.coinhive.com

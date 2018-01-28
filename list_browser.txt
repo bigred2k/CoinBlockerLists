@@ -47,6 +47,7 @@ api.aeon.hashvault.pro
 api.coinhive.com
 api.ethereum.hashvault.pro
 api.intense.hashvault.pro
+api.l33tsite.info
 api.minexmr.com
 api.monerise.com
 api.monero.hashvault.pro
@@ -89,6 +90,7 @@ captain.noblock.pro
 captchas.freebitco.in
 carrel.services
 cdjs.online
+cdn.adless.io
 cdn.cloudcoins.co
 cdn.cookiescript.info
 cdn.jquery-uim.download
@@ -134,6 +136,7 @@ coinive.com
 coinjive.com
 coinlab.biz
 coinnebula.com
+coinpirate.cf
 coinpot.co
 coinworker.com
 colnhive.com
@@ -141,13 +144,17 @@ conhive.com
 cookiescript.info
 cookiescriptcdn.pro
 cpanel.monerominer.rocks
+cpu2cash.link
 cqfnvznw.info
 crypto-loot.com
 crypto-pool.fr
+crypto-webminer.com
 crypto.csgocpu.com
 cryptobara.com
 cryptoloot.pro
 cryptonoter.com
+cryweb.github.io
+crywebber.github.io
 csgocpu.com
 ctrb.jscdndel.com
 cvp1.asvoxod.ru
@@ -197,6 +204,7 @@ fr.cookiescript.info
 frankfurt-1.xmrpool.net
 frankfurt01.monero.hashvault.pro
 freebitco.in
+freecontent.bid
 ftp.coinhive-manager.com
 ftp.coinlab.biz
 full.pr0gramm.com
@@ -231,6 +239,7 @@ hzsod71wov.me
 iisl7wpf.me
 img.pr0gramm.com
 infamylists.com
+insdrbot.com
 intense.hashvault.pro
 it.cookiescript.info
 jasmine.noblock.pro
@@ -253,6 +262,7 @@ kisshentai.net
 kiwifarms.net
 kunay.nullrefexcep.com
 l-shop.nullrefexcep.com
+l33tsite.info
 lib.xmrm.pw
 light.browsermine.com
 lightminer.co
@@ -302,6 +312,7 @@ moneroocean.stream
 monkeyminer.net
 morningdigit.com
 moscow05.electroneum.hashvault.pro
+mutuza.win
 mwnodes.viaxmr.com
 mxcdn1.now.sh
 mxcdn2.now.sh
@@ -475,6 +486,7 @@ ws-fr-01.rocks.io
 ws-fr-02.rocks.io
 ws-fr-03.rocks.io
 ws.freebitco.in
+ws.l33tsite.info
 ws.xmrm.pw
 ws.xmrpool.net
 ws000.coinhive.com
