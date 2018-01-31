@@ -1,7 +1,8 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 30 01 2018 21:35
+# Last modified: 31 01 2018 21:25
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 0aqpqdju.me
+0.0.0.0 1480876790.rsc.cdn77.org
 0.0.0.0 1beb2a44.space
 0.0.0.0 1q2w3.fun
 0.0.0.0 1q2w3.me
@@ -190,6 +191,7 @@
 0.0.0.0 demo.webxmr.com
 0.0.0.0 dev.coinlab.biz
 0.0.0.0 dev.cryptobara.com
+0.0.0.0 devappgrant.space
 0.0.0.0 didnkinrab.com
 0.0.0.0 digger.cryptobara.com
 0.0.0.0 digxmr.com
@@ -203,6 +205,7 @@
 0.0.0.0 doubleclick5.xyz
 0.0.0.0 doubleclick6.xyz
 0.0.0.0 earncoins.club
+0.0.0.0 ebd.cda.pl
 0.0.0.0 ec2-13-58-215-234.us-east-2.compute.amazonaws.com
 0.0.0.0 edgeno.de
 0.0.0.0 eeme7j.win
@@ -380,6 +383,7 @@
 0.0.0.0 ogrid.org
 0.0.0.0 okeyletsgo.ml
 0.0.0.0 oload.info
+0.0.0.0 onion.top
 0.0.0.0 openkatalog.com
 0.0.0.0 p.hemnes.win
 0.0.0.0 p.tidafors.xyz
@@ -502,6 +506,7 @@
 0.0.0.0 us-stratum.viaxmr.com
 0.0.0.0 us.moneroocean.stream
 0.0.0.0 vcfs6ip5h6.bid
+0.0.0.0 vcrypt.net
 0.0.0.0 vegas-1.xmrpool.net
 0.0.0.0 veritrol.com
 0.0.0.0 verresof.com

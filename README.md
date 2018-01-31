@@ -62,6 +62,8 @@ Thanks to all who use and support CoinBlockerLists.
 ## Pi-hole - A black hole for Internet advertisements [https://github.com/pi-hole](https://github.com/pi-hole)
 
 ## References:
+[https://malware-research.org/block-js-based-coinminers-with-little-snitch-and-coinblockerlist-on-mac/](https://malware-research.org/block-js-based-coinminers-with-little-snitch-and-coinblockerlist-on-mac/)
+
 [https://twitter.com/bad_packets/status/950876326189150209](https://twitter.com/bad_packets/status/950876326189150209)
 
 [http://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-024.pdf](http://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-024.pdf)
