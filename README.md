@@ -53,6 +53,8 @@ Thanks to [https://github.com/smokingwheels/](https://github.com/smokingwheels/)
 
 Thanks to [https://github.com/parseword](https://github.com/parseword) :)
 
+### CoinBlockerLists is used in Minesweeper, a burp suite plugin to detect cryptojacking [https://github.com/codingo/Minesweeper/](https://github.com/codingo/Minesweeper/)
+
 # Contributing
 You can contribute to the project as you want and you can also fork it but the changes must be public as the GPLv3 license specifies.
 Thanks to all who use and support CoinBlockerLists.
