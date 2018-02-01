@@ -1,4 +1,4 @@
-![PC_ping](img/CoinBL_Logo.png)
+![img](img/CoinBL_Logo.png)
 ## Simple lists that can help prevent cryptomining in the browser or other applications.
 CoinBlockerLists Short URL: [https://git.io/vFFKT](https://git.io/vFFKT)
 
@@ -54,6 +54,8 @@ Thanks to [https://github.com/smokingwheels/](https://github.com/smokingwheels/)
 Thanks to [https://github.com/parseword](https://github.com/parseword) :)
 
 ### CoinBlockerLists is used in Minesweeper, a burp suite plugin to detect cryptojacking [https://github.com/codingo/Minesweeper/](https://github.com/codingo/Minesweeper/)
+
+Thanks to [https://github.com/codingo](https://github.com/codingo) :)
 
 # Contributing
 You can contribute to the project as you want and you can also fork it but the changes must be public as the GPLv3 license specifies.

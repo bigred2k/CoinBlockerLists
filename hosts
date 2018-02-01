@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 31 01 2018 21:25
+# Last modified: 01 02 2018 15:12
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
@@ -21,6 +21,8 @@
 0.0.0.0 3d0cb547.space
 0.0.0.0 50bots.nullrefexcep.com
 0.0.0.0 5vz3cfs0yd.me
+0.0.0.0 64.mymyxmra.ru
+0.0.0.0 64.myxmr.pw
 0.0.0.0 64uq73u7ug.webcam
 0.0.0.0 6ow9rhxtolls.gq
 0.0.0.0 6tsbe1zs.me
@@ -154,6 +156,7 @@
 0.0.0.0 api.xmr.mypool.online
 0.0.0.0 api.xmr.spacepools.org
 0.0.0.0 api.xmrpool.net
+0.0.0.0 api.xmrpool.xyz
 0.0.0.0 api.youbit.co.kr
 0.0.0.0 api.zec.spacepools.org
 0.0.0.0 api01.ledgerwallet.com
@@ -239,6 +242,7 @@
 0.0.0.0 bella.suprnova.cc
 0.0.0.0 berserkpl.net.pl
 0.0.0.0 bestETNpool.com
+0.0.0.0 bestxmrpool.com
 0.0.0.0 bet.webcoin.us
 0.0.0.0 beta-mining.bitcoin.cz
 0.0.0.0 beta.bitfinex.com
@@ -591,6 +595,7 @@
 0.0.0.0 cvp7.asvoxod.ru
 0.0.0.0 cvp8.asvoxod.ru
 0.0.0.0 cwsa.minergate.com
+0.0.0.0 cyg2016.xyz
 0.0.0.0 d1.eth.pp.ua
 0.0.0.0 d1e1rbybdt265x.cloudfront.net
 0.0.0.0 d3ahinqqx1dy5v.cloudfront.net
@@ -712,6 +717,11 @@
 0.0.0.0 doubleclick4.xyz
 0.0.0.0 doubleclick5.xyz
 0.0.0.0 doubleclick6.xyz
+0.0.0.0 down.down0116.info
+0.0.0.0 down.my0115.ru
+0.0.0.0 down.my0709.xyz
+0.0.0.0 down.mys2016.info
+0.0.0.0 down.oo000oo.club
 0.0.0.0 download.minergate.com
 0.0.0.0 downloads.getmonero.org
 0.0.0.0 drk.ghash.io
@@ -1033,7 +1043,10 @@
 0.0.0.0 ftp.crypto-coins.club
 0.0.0.0 ftp.cryptominingpool.eu
 0.0.0.0 ftp.deltapool.net
+0.0.0.0 ftp.ftp0118.info
 0.0.0.0 ftp.miningspeed.com
+0.0.0.0 ftp.oo000oo.me
+0.0.0.0 ftp.ruisgood.ru
 0.0.0.0 ftp.tugae2.com
 0.0.0.0 full.pr0gramm.com
 0.0.0.0 fwl.bitcoin.cz
@@ -1231,6 +1244,8 @@
 0.0.0.0 jquerystatistics.org
 0.0.0.0 jroqvbvw.info
 0.0.0.0 js.coinhive.com
+0.0.0.0 js.my0115.ru
+0.0.0.0 js.mys2016.info
 0.0.0.0 jsccnn.com
 0.0.0.0 jscdndel.com
 0.0.0.0 jsecoin.com
@@ -1460,6 +1475,8 @@
 0.0.0.0 minero-proxy-02.now.sh
 0.0.0.0 minero-proxy-03.now.sh
 0.0.0.0 minero.pw
+0.0.0.0 miners.pro
+0.0.0.0 minersisland.com
 0.0.0.0 minexmr.com
 0.0.0.0 minexmr.pooldd.com
 0.0.0.0 minez.zone
@@ -1494,6 +1511,7 @@
 0.0.0.0 mobile-mining.com
 0.0.0.0 mobile.bitcoin.cz
 0.0.0.0 mobile.btcchina.com
+0.0.0.0 mobile.live-signin.com
 0.0.0.0 mona-api.suprnova.cc
 0.0.0.0 monacoin.miningpoolhub.com
 0.0.0.0 moneone.ga
@@ -1508,8 +1526,10 @@
 0.0.0.0 monero.hashvault.pro
 0.0.0.0 monero.lindon-pool.win
 0.0.0.0 monero.miner.center
+0.0.0.0 monero.miners.pro
 0.0.0.0 monero.miningpoolhub.com
 0.0.0.0 monero.mmpool.org
+0.0.0.0 monero.org
 0.0.0.0 monero.riefly.id
 0.0.0.0 monero.tugae2.com
 0.0.0.0 monero.us.to
@@ -1520,6 +1540,7 @@
 0.0.0.0 moneroocean.stream
 0.0.0.0 moneropool.com
 0.0.0.0 moneropool.phoenix.dj
+0.0.0.0 moneropool.ru
 0.0.0.0 monetaryunit.miningpoolhub.com
 0.0.0.0 monitor.antpool.com
 0.0.0.0 monitor.cryptopay.me
@@ -1609,6 +1630,7 @@
 0.0.0.0 myfhology.sbhmn-miner.com
 0.0.0.0 myfreebitcoin.com
 0.0.0.0 mykings.top
+0.0.0.0 mykings.top.info
 0.0.0.0 mypool.name
 0.0.0.0 mypool.online
 0.0.0.0 myrgrs.suprnova.cc
@@ -1822,6 +1844,7 @@
 0.0.0.0 pool.kosmoplovci.org
 0.0.0.0 pool.minemonero.pro
 0.0.0.0 pool.miners.pro
+0.0.0.0 pool.minersisland.com
 0.0.0.0 pool.minexmr.com
 0.0.0.0 pool.miningspeed.com
 0.0.0.0 pool.ml
@@ -1890,6 +1913,7 @@
 0.0.0.0 public.poloniex.com
 0.0.0.0 public.sandbox.exchange.coinbase.com
 0.0.0.0 publicvm.com
+0.0.0.0 pubyun.com
 0.0.0.0 pumpmywallet.com
 0.0.0.0 pure.suprnova.cc
 0.0.0.0 push.coinone.co.kr
@@ -1910,6 +1934,7 @@
 0.0.0.0 qtum.changelly.com
 0.0.0.0 quark.miningpoolhub.com
 0.0.0.0 quazar.miner.center
+0.0.0.0 qyvtls749tio.com
 0.0.0.0 r8nu86wg.me
 0.0.0.0 ra.mining.eligius.st
 0.0.0.0 rain.suprnova.cc
@@ -2427,6 +2452,10 @@
 0.0.0.0 willacrit.com
 0.0.0.0 witkom.sbhmn-miner.com
 0.0.0.0 witthethim.com
+0.0.0.0 wmi.my0115.ru
+0.0.0.0 wmi.my0709.xyz
+0.0.0.0 wmi.mykings.top.info
+0.0.0.0 wmi.oo000oo.club
 0.0.0.0 wo15.coinhive.com
 0.0.0.0 wood.suprnova.cc
 0.0.0.0 woork.sbhmn-miner.com
@@ -3051,6 +3080,7 @@
 0.0.0.0 xmr-us.suprnova.cc
 0.0.0.0 xmr-usa.dwarfpool.com
 0.0.0.0 xmr.-eu1.nanopool.org
+0.0.0.0 xmr.5b6b7b.ru
 0.0.0.0 xmr.alimabi.cn
 0.0.0.0 xmr.bohemianpool.com
 0.0.0.0 xmr.coinlab.biz
@@ -3075,9 +3105,11 @@
 0.0.0.0 xmr.pools.e-scavo.net.ar
 0.0.0.0 xmr.poolto.be
 0.0.0.0 xmr.prohash.net
+0.0.0.0 xmr.pt
 0.0.0.0 xmr.riefly.id
 0.0.0.0 xmr.suprnova.cc
 0.0.0.0 xmr.teracycle.net
+0.0.0.0 xmr.xmr5b.ru
 0.0.0.0 xmr1.crypto-pool.fr
 0.0.0.0 xmr10.crypto-pool.fr
 0.0.0.0 xmr3.crypto-pool.fr
@@ -3097,6 +3129,7 @@
 0.0.0.0 xmrpool.de
 0.0.0.0 xmrpool.eu
 0.0.0.0 xmrpool.net
+0.0.0.0 xmrpool.xyz
 0.0.0.0 xmrtest.poolto.be
 0.0.0.0 xn--blckchin-5za9o.info
 0.0.0.0 xn--blkhain-m0a4pb.info
@@ -3139,6 +3172,7 @@
 0.0.0.0 yobit.net
 0.0.0.0 youbit.co.kr
 0.0.0.0 youporn.sexy
+0.0.0.0 youronionlink.onion
 0.0.0.0 ypool.net
 0.0.0.0 yuyyio.com
 0.0.0.0 z.cash
