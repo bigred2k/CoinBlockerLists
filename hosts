@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 01 02 2018 15:12
+# Last modified: 02 02 2018 15:30
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
@@ -125,6 +125,7 @@
 0.0.0.0 api.exp.mypool.online
 0.0.0.0 api.hitbtc.com
 0.0.0.0 api.intense.hashvault.pro
+0.0.0.0 api.inwemo.com
 0.0.0.0 api.l33tsite.info
 0.0.0.0 api.ledgerwallet.com
 0.0.0.0 api.minemonero.pro
@@ -423,6 +424,7 @@
 0.0.0.0 cdn.hashcoin.co
 0.0.0.0 cdn.hashflare.io
 0.0.0.0 cdn.jquery-uim.download
+0.0.0.0 cdn.minescripts.info
 0.0.0.0 cdn.rocks.io
 0.0.0.0 cdn.rove.cl
 0.0.0.0 cdn.static-cnt.bid
@@ -475,6 +477,7 @@
 0.0.0.0 coin-have.com
 0.0.0.0 coin-hive-proxy-ybydcnjgkl.now.sh
 0.0.0.0 coin-hive.com
+0.0.0.0 coin-service.com
 0.0.0.0 coinbase.com
 0.0.0.0 coinbin.org
 0.0.0.0 coinblind.com
@@ -596,6 +599,7 @@
 0.0.0.0 cvp8.asvoxod.ru
 0.0.0.0 cwsa.minergate.com
 0.0.0.0 cyg2016.xyz
+0.0.0.0 d.cpufan.club
 0.0.0.0 d1.eth.pp.ua
 0.0.0.0 d1e1rbybdt265x.cloudfront.net
 0.0.0.0 d3ahinqqx1dy5v.cloudfront.net
@@ -1031,6 +1035,7 @@
 0.0.0.0 freecontent.net
 0.0.0.0 freecontent.racing
 0.0.0.0 freedom.wemineltc.com
+0.0.0.0 freshrefresher.com
 0.0.0.0 friendshipcoin.miningpoolhub.com
 0.0.0.0 front-stage.hashflare.io
 0.0.0.0 front.hashflare.io
@@ -1139,6 +1144,7 @@
 0.0.0.0 hashunited.com
 0.0.0.0 hashvault.pro
 0.0.0.0 hashzone.io
+0.0.0.0 hatcalter.com
 0.0.0.0 hatevery.info
 0.0.0.0 hegrinhar.com
 0.0.0.0 help.bitpay.com
@@ -1205,6 +1211,7 @@
 0.0.0.0 insdrbot.com
 0.0.0.0 insight.bitcore.io
 0.0.0.0 insight.bitpay.com
+0.0.0.0 intactoffers.club
 0.0.0.0 integration.graft.network
 0.0.0.0 intense.hashvault.pro
 0.0.0.0 internal.poloniex.com
@@ -1477,6 +1484,7 @@
 0.0.0.0 minero.pw
 0.0.0.0 miners.pro
 0.0.0.0 minersisland.com
+0.0.0.0 minescripts.info
 0.0.0.0 minexmr.com
 0.0.0.0 minexmr.pooldd.com
 0.0.0.0 minez.zone
@@ -1676,6 +1684,7 @@
 0.0.0.0 nnc.mypool.online
 0.0.0.0 nnyetlherwallet.com
 0.0.0.0 noblock.pro
+0.0.0.0 node.cfcdist.gdn
 0.0.0.0 node.supportxmr.com
 0.0.0.0 node.viaxmr.com
 0.0.0.0 node1.mycelium.com
@@ -1954,9 +1963,11 @@
 0.0.0.0 rencohep.com
 0.0.0.0 renhertfo.com
 0.0.0.0 repo.getmonero.org
+0.0.0.0 reservedoffers.club
 0.0.0.0 rest.minergate.com
 0.0.0.0 retadint.com
 0.0.0.0 rineventrec.com
+0.0.0.0 rintindown.com
 0.0.0.0 rnyethervailet.com
 0.0.0.0 rnyethervaliet.com
 0.0.0.0 rnyethierwaliet.com
@@ -2228,6 +2239,7 @@
 0.0.0.0 taiga.getmonero.org
 0.0.0.0 talk.multiminerapp.com
 0.0.0.0 tazm9p7tso.trade
+0.0.0.0 techhome-js.github.io
 0.0.0.0 temp.poloniex.com
 0.0.0.0 templates.qp.si
 0.0.0.0 teracycle.net
@@ -2909,6 +2921,7 @@
 0.0.0.0 www.forum.minergate.com
 0.0.0.0 www.forum.z.cash
 0.0.0.0 www.freebitco.in
+0.0.0.0 www.freecontent.bid
 0.0.0.0 www.gbminers.com
 0.0.0.0 www.genesis-mining.com
 0.0.0.0 www.getmonero.org
@@ -2963,10 +2976,12 @@
 0.0.0.0 www.monerominer.rocks
 0.0.0.0 www.moneroocean.stream
 0.0.0.0 www.moneropool.com
+0.0.0.0 www.monkeyminer.net
 0.0.0.0 www.moonbit.co.in
 0.0.0.0 www.moriaxmr.com
 0.0.0.0 www.multiminerapp.com
 0.0.0.0 www.multipool.us
+0.0.0.0 www.mutuza.win
 0.0.0.0 www.myfreebitcoin.com
 0.0.0.0 www.nanopool.org
 0.0.0.0 www.nicehash.com
@@ -2997,6 +3012,7 @@
 0.0.0.0 www.search.bitaccess.co
 0.0.0.0 www.secumine.net
 0.0.0.0 www.slushpool.com
+0.0.0.0 www.sparechange.io
 0.0.0.0 www.staging.btcchina.com
 0.0.0.0 www.sumokoin.com
 0.0.0.0 www.sumokoin.crypto-webminer.com

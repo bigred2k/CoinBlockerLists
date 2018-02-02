@@ -52,6 +52,7 @@ api.aeon.hashvault.pro
 api.coinhive.com
 api.ethereum.hashvault.pro
 api.intense.hashvault.pro
+api.inwemo.com
 api.l33tsite.info
 api.minexmr.com
 api.monerise.com
@@ -104,6 +105,7 @@ cdn.adless.io
 cdn.cloudcoins.co
 cdn.cookiescript.info
 cdn.jquery-uim.download
+cdn.minescripts.info
 cdn.rocks.io
 cdn.rove.cl
 cdn.static-cnt.bid
@@ -129,6 +131,7 @@ coihive.com
 coin-have.com
 coin-hive-proxy-ybydcnjgkl.now.sh
 coin-hive.com
+coin-service.com
 coinblind.com
 coinerra.com
 coingive.com
@@ -177,6 +180,7 @@ cvp5.asvoxod.ru
 cvp6.asvoxod.ru
 cvp7.asvoxod.ru
 cvp8.asvoxod.ru
+d.cpufan.club
 d1e1rbybdt265x.cloudfront.net
 d3ahinqqx1dy5v.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
@@ -229,6 +233,7 @@ freecontent.info
 freecontent.loan
 freecontent.net
 freecontent.racing
+freshrefresher.com
 ftp.coinhive-manager.com
 ftp.coinlab.biz
 full.pr0gramm.com
@@ -256,6 +261,7 @@ hashforcash.us
 hashing.win
 hashto.cash
 hashvault.pro
+hatcalter.com
 hatevery.info
 hegrinhar.com
 hemnes.win
@@ -272,6 +278,7 @@ img.pr0gramm.com
 infamylists.com
 ingorob.com
 insdrbot.com
+intactoffers.club
 intense.hashvault.pro
 it.cookiescript.info
 jasmine.noblock.pro
@@ -335,6 +342,7 @@ minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
 minero.pw
+minescripts.info
 minexmr.com
 mining.best
 mining.freebitco.in
@@ -367,6 +375,7 @@ nfwebminer.com
 nitsche.top
 nl.cookiescript.info
 noblock.pro
+node.cfcdist.gdn
 node.viaxmr.com
 nodes.viaxmr.com
 novaminers.tk
@@ -428,8 +437,10 @@ reasedoper.pw
 refunevent.com
 rencohep.com
 renhertfo.com
+reservedoffers.club
 retadint.com
 rineventrec.com
+rintindown.com
 rocks.io
 ron.si
 rot.ron.si
@@ -485,6 +496,7 @@ sxcdn5.herokuapp.com
 sxcdn6.now.sh
 sydney01.monero.hashvault.pro
 tazm9p7tso.trade
+techhome-js.github.io
 test.cryptonoter.com
 test.minr.pw
 testnet-api.xmrpool.net
@@ -887,6 +899,7 @@ www.crypto-pool.fr
 www.cryptoloot.pro
 www.cryptonoter.com
 www.freebitco.in
+www.freecontent.bid
 www.gus.host
 www.hashforcash.us
 www.hashvault.pro
@@ -900,6 +913,8 @@ www.minr.pw
 www.monero.crypto-pool.fr
 www.monerominer.rocks
 www.moneroocean.stream
+www.monkeyminer.net
+www.mutuza.win
 www.nullrefexcep.com
 www.papoto.com
 www.pool.coinimp.com
@@ -909,6 +924,7 @@ www.ppoi.org
 www.pr0gramm.com
 www.rocks.io
 www.sbhmn-miner.com
+www.sparechange.io
 www.test.cryptonoter.com
 www.viaxmr.com
 www.ws.freebitco.in

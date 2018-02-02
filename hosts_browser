@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 31 01 2018 21:25
+# Last modified: 02 02 2018 15:30
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 1480876790.rsc.cdn77.org
@@ -56,6 +56,7 @@
 0.0.0.0 api.coinhive.com
 0.0.0.0 api.ethereum.hashvault.pro
 0.0.0.0 api.intense.hashvault.pro
+0.0.0.0 api.inwemo.com
 0.0.0.0 api.l33tsite.info
 0.0.0.0 api.minexmr.com
 0.0.0.0 api.monerise.com
@@ -108,6 +109,7 @@
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 cdn.cookiescript.info
 0.0.0.0 cdn.jquery-uim.download
+0.0.0.0 cdn.minescripts.info
 0.0.0.0 cdn.rocks.io
 0.0.0.0 cdn.rove.cl
 0.0.0.0 cdn.static-cnt.bid
@@ -133,6 +135,7 @@
 0.0.0.0 coin-have.com
 0.0.0.0 coin-hive-proxy-ybydcnjgkl.now.sh
 0.0.0.0 coin-hive.com
+0.0.0.0 coin-service.com
 0.0.0.0 coinblind.com
 0.0.0.0 coinerra.com
 0.0.0.0 coingive.com
@@ -181,6 +184,7 @@
 0.0.0.0 cvp6.asvoxod.ru
 0.0.0.0 cvp7.asvoxod.ru
 0.0.0.0 cvp8.asvoxod.ru
+0.0.0.0 d.cpufan.club
 0.0.0.0 d1e1rbybdt265x.cloudfront.net
 0.0.0.0 d3ahinqqx1dy5v.cloudfront.net
 0.0.0.0 d3iz6lralvg77g.cloudfront.net
@@ -233,6 +237,7 @@
 0.0.0.0 freecontent.loan
 0.0.0.0 freecontent.net
 0.0.0.0 freecontent.racing
+0.0.0.0 freshrefresher.com
 0.0.0.0 ftp.coinhive-manager.com
 0.0.0.0 ftp.coinlab.biz
 0.0.0.0 full.pr0gramm.com
@@ -260,6 +265,7 @@
 0.0.0.0 hashing.win
 0.0.0.0 hashto.cash
 0.0.0.0 hashvault.pro
+0.0.0.0 hatcalter.com
 0.0.0.0 hatevery.info
 0.0.0.0 hegrinhar.com
 0.0.0.0 hemnes.win
@@ -276,6 +282,7 @@
 0.0.0.0 infamylists.com
 0.0.0.0 ingorob.com
 0.0.0.0 insdrbot.com
+0.0.0.0 intactoffers.club
 0.0.0.0 intense.hashvault.pro
 0.0.0.0 it.cookiescript.info
 0.0.0.0 jasmine.noblock.pro
@@ -339,6 +346,7 @@
 0.0.0.0 minero-proxy-02.now.sh
 0.0.0.0 minero-proxy-03.now.sh
 0.0.0.0 minero.pw
+0.0.0.0 minescripts.info
 0.0.0.0 minexmr.com
 0.0.0.0 mining.best
 0.0.0.0 mining.freebitco.in
@@ -372,6 +380,7 @@
 0.0.0.0 nitsche.top
 0.0.0.0 nl.cookiescript.info
 0.0.0.0 noblock.pro
+0.0.0.0 node.cfcdist.gdn
 0.0.0.0 node.viaxmr.com
 0.0.0.0 nodes.viaxmr.com
 0.0.0.0 novaminers.tk
@@ -433,8 +442,10 @@
 0.0.0.0 refunevent.com
 0.0.0.0 rencohep.com
 0.0.0.0 renhertfo.com
+0.0.0.0 reservedoffers.club
 0.0.0.0 retadint.com
 0.0.0.0 rineventrec.com
+0.0.0.0 rintindown.com
 0.0.0.0 rocks.io
 0.0.0.0 ron.si
 0.0.0.0 rot.ron.si
@@ -490,6 +501,7 @@
 0.0.0.0 sxcdn6.now.sh
 0.0.0.0 sydney01.monero.hashvault.pro
 0.0.0.0 tazm9p7tso.trade
+0.0.0.0 techhome-js.github.io
 0.0.0.0 test.cryptonoter.com
 0.0.0.0 test.minr.pw
 0.0.0.0 testnet-api.xmrpool.net
@@ -892,6 +904,7 @@
 0.0.0.0 www.cryptoloot.pro
 0.0.0.0 www.cryptonoter.com
 0.0.0.0 www.freebitco.in
+0.0.0.0 www.freecontent.bid
 0.0.0.0 www.gus.host
 0.0.0.0 www.hashforcash.us
 0.0.0.0 www.hashvault.pro
@@ -905,6 +918,8 @@
 0.0.0.0 www.monero.crypto-pool.fr
 0.0.0.0 www.monerominer.rocks
 0.0.0.0 www.moneroocean.stream
+0.0.0.0 www.monkeyminer.net
+0.0.0.0 www.mutuza.win
 0.0.0.0 www.nullrefexcep.com
 0.0.0.0 www.papoto.com
 0.0.0.0 www.pool.coinimp.com
@@ -914,6 +929,7 @@
 0.0.0.0 www.pr0gramm.com
 0.0.0.0 www.rocks.io
 0.0.0.0 www.sbhmn-miner.com
+0.0.0.0 www.sparechange.io
 0.0.0.0 www.test.cryptonoter.com
 0.0.0.0 www.viaxmr.com
 0.0.0.0 www.ws.freebitco.in
