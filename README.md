@@ -57,6 +57,10 @@ Thanks to [https://github.com/parseword](https://github.com/parseword) :)
 
 Thanks to [https://github.com/codingo](https://github.com/codingo) :)
 
+### CoinBlockerLists is used in Dr. Mine is a node script written to aid automatic detection of in-browser cryptojacking. [https://github.com/1lastBr3ath/drmine](https://github.com/1lastBr3ath/drmine)
+
+Thanks to [https://github.com/1lastBr3ath](https://github.com/1lastBr3ath) :)
+
 # Contributing
 You can contribute to the project as you want and you can also fork it but the changes must be public as the GPLv3 license specifies.
 Thanks to all who use and support CoinBlockerLists.

@@ -160,6 +160,7 @@ nodes2.cryptopia.co.nz
 ns2.a-ads.com
 old-wallet.trezor.io
 old.coinad.com
+pandaminer.co
 peerhash.com
 pool.emercoin.com
 pool2.emercoin.com

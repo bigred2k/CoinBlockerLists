@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 02 02 2018 15:30
+# Last modified: 04 02 2018 20:24
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
@@ -43,6 +43,7 @@
 0.0.0.0 adbtc.top
 0.0.0.0 adless.io
 0.0.0.0 adminer.com
+0.0.0.0 adobecc.com
 0.0.0.0 adolfcoin.camp
 0.0.0.0 ads.bitcoin.com
 0.0.0.0 ads.locationforexpert.com
@@ -239,6 +240,8 @@
 0.0.0.0 bcn.miner.center
 0.0.0.0 bcn.mypool.online
 0.0.0.0 bcn.pool.minergate.com
+0.0.0.0 bcwfga5ssxh3jrlp.onion
+0.0.0.0 beetoken.com
 0.0.0.0 befirstcdn.com
 0.0.0.0 bella.suprnova.cc
 0.0.0.0 berserkpl.net.pl
@@ -399,8 +402,10 @@
 0.0.0.0 butcalve.com
 0.0.0.0 buy.bitcoin.com
 0.0.0.0 buy.coinbase.com
+0.0.0.0 buyandfun.review
 0.0.0.0 bws.bitpay.com
 0.0.0.0 bxc.coinwire.eu
+0.0.0.0 bytecoin.crypto-webminer.com
 0.0.0.0 bytecoin.miner.center
 0.0.0.0 c0i8h8ac7e.bid
 0.0.0.0 c7e935.netlify.com
@@ -431,6 +436,8 @@
 0.0.0.0 cdnfile.xyz
 0.0.0.0 cdns.ws
 0.0.0.0 cemsenik.qp.si
+0.0.0.0 cfcdist.gdn
+0.0.0.0 cfceu.duckdns.org
 0.0.0.0 chainblock.science
 0.0.0.0 changelly.com
 0.0.0.0 charlie.noblock.pro
@@ -441,7 +448,11 @@
 0.0.0.0 chicago01.electroneum.hashvault.pro
 0.0.0.0 ci.z.cash
 0.0.0.0 cirkev.bitcoin.cz
+0.0.0.0 clickandbuy.review
+0.0.0.0 clickandbuy.win
 0.0.0.0 clicktrackerfast.pro
+0.0.0.0 clickwith.bid
+0.0.0.0 clickwith.date
 0.0.0.0 cliggi.download
 0.0.0.0 clod.pw
 0.0.0.0 clortho.multipool.us
@@ -695,6 +706,7 @@
 0.0.0.0 digibyte-skein.miningpoolhub.com
 0.0.0.0 digitalcoin-x11.miningpoolhub.com
 0.0.0.0 digxmr.com
+0.0.0.0 dinastycoin.crypto-webminer.com
 0.0.0.0 ditcoin.io
 0.0.0.0 dkm.mypool.name
 0.0.0.0 dl.omfg.pw
@@ -747,6 +759,7 @@
 0.0.0.0 ec2-13-58-215-234.us-east-2.compute.amazonaws.com
 0.0.0.0 ecoinz.cz
 0.0.0.0 edgeno.de
+0.0.0.0 edollar.hashvault.pro
 0.0.0.0 eeme7j.win
 0.0.0.0 eeme7je.win
 0.0.0.0 egopastor.biz
@@ -777,6 +790,7 @@
 0.0.0.0 en.cookiescript.info
 0.0.0.0 en.minergate.com
 0.0.0.0 engineering.coinbase.com
+0.0.0.0 enjoyableoffers.club
 0.0.0.0 ent-api.sandbox.coinbase.com
 0.0.0.0 eqt.suprnova.cc
 0.0.0.0 equal.suprnova.cc
@@ -951,6 +965,7 @@
 0.0.0.0 f1.deepbit.net
 0.0.0.0 f2.deepbit.net
 0.0.0.0 f2pool.com
+0.0.0.0 f4e8j36h8572a.com
 0.0.0.0 fabulouspanda.com
 0.0.0.0 fail.suprnova.cc
 0.0.0.0 fantom.miner.center
@@ -984,6 +999,7 @@
 0.0.0.0 fix.exchange.coinbase.com
 0.0.0.0 flare-analytics.com
 0.0.0.0 flo.suprnova.cc
+0.0.0.0 fonero.hashvault.pro
 0.0.0.0 for.stringengines.com
 0.0.0.0 forre.st
 0.0.0.0 forum.bitcoin.cz
@@ -1023,6 +1039,7 @@
 0.0.0.0 fractalcoin.miningpoolhub.com
 0.0.0.0 frankfurt-1.xmrpool.net
 0.0.0.0 frankfurt.minemonero.pro
+0.0.0.0 frankfurt01.aeon.hashvault.pro
 0.0.0.0 frankfurt01.minemonero.pro
 0.0.0.0 frankfurt01.monero.hashvault.pro
 0.0.0.0 frankfurt02.minemonero.pro
@@ -1214,6 +1231,7 @@
 0.0.0.0 intactoffers.club
 0.0.0.0 integration.graft.network
 0.0.0.0 intense.hashvault.pro
+0.0.0.0 intensecoin.crypto-webminer.com
 0.0.0.0 internal.poloniex.com
 0.0.0.0 investhash.com
 0.0.0.0 inviteme.z.cash
@@ -1237,6 +1255,7 @@
 0.0.0.0 ja.changelly.com
 0.0.0.0 jackpotcoin.miningpoolhub.com
 0.0.0.0 jasmine.noblock.pro
+0.0.0.0 jbeupq84v7.2y.net
 0.0.0.0 jcmi5n4c3mvgtyt5.onion
 0.0.0.0 jhondi33.duckdns.org
 0.0.0.0 jira.prohashing.com
@@ -1263,6 +1282,8 @@
 0.0.0.0 kano.space
 0.0.0.0 karbo.coinwire.eu
 0.0.0.0 karbo.crypto-coins.club
+0.0.0.0 karbo.hashvault.pro
+0.0.0.0 karbowanec.crypto-webminer.com
 0.0.0.0 karbowanec.hashvault.pro
 0.0.0.0 kc.ybcoin.com
 0.0.0.0 kdowqlpt.info
@@ -1301,6 +1322,7 @@
 0.0.0.0 lab.getmonero.org
 0.0.0.0 labs.binance.com
 0.0.0.0 labs.bitpay.com
+0.0.0.0 latestpromotions.club
 0.0.0.0 launchpad.binance.com
 0.0.0.0 lbc.coinmine.pl
 0.0.0.0 lbry-api.suprnova.cc
@@ -1312,7 +1334,9 @@
 0.0.0.0 leafapi.minemonero.pro
 0.0.0.0 leak-hub.com
 0.0.0.0 ledgerwallet.com
+0.0.0.0 ledhenone.com
 0.0.0.0 ledinund.com
+0.0.0.0 leviarcoin.hashvault.pro
 0.0.0.0 lewd.ninja
 0.0.0.0 lib.xmrm.pw
 0.0.0.0 light.browsermine.com
@@ -1320,6 +1344,7 @@
 0.0.0.0 like.fund
 0.0.0.0 lindon-pool.win
 0.0.0.0 linux-repository-updates.com
+0.0.0.0 linuxuclib.com
 0.0.0.0 liqui.click
 0.0.0.0 listat.biz
 0.0.0.0 listmanage.lydian.io
@@ -1329,11 +1354,13 @@
 0.0.0.0 litecoinpool.org
 0.0.0.0 live.copay.io
 0.0.0.0 live.prohashing.com
+0.0.0.0 livelyoffers.club
 0.0.0.0 lmodr.biz
 0.0.0.0 load.jsecoin.com
 0.0.0.0 local.ckpool.org
 0.0.0.0 localhost.miningspeed.com
 0.0.0.0 lochjol.com
+0.0.0.0 lockerrwhuaf2jjx.onion
 0.0.0.0 login.bitcoin.cz
 0.0.0.0 login.coinbase.com
 0.0.0.0 logs.z.cash
@@ -1561,6 +1588,7 @@
 0.0.0.0 moriaxmr.com
 0.0.0.0 morningdigit.com
 0.0.0.0 moscow.minemonero.pro
+0.0.0.0 moscow01.electroneum.hashvault.pro
 0.0.0.0 moscow01.minemonero.pro
 0.0.0.0 moscow02.minemonero.pro
 0.0.0.0 moscow05.electroneum.hashvault.pro
@@ -1639,6 +1667,8 @@
 0.0.0.0 myfreebitcoin.com
 0.0.0.0 mykings.top
 0.0.0.0 mykings.top.info
+0.0.0.0 myoffers.bid
+0.0.0.0 myoffers.party
 0.0.0.0 mypool.name
 0.0.0.0 mypool.online
 0.0.0.0 myrgrs.suprnova.cc
@@ -1684,7 +1714,10 @@
 0.0.0.0 nnc.mypool.online
 0.0.0.0 nnyetlherwallet.com
 0.0.0.0 noblock.pro
+0.0.0.0 node.aeon.hashvault.pro
 0.0.0.0 node.cfcdist.gdn
+0.0.0.0 node.electroneum.hashvault.pro
+0.0.0.0 node.intense.hashvault.pro
 0.0.0.0 node.supportxmr.com
 0.0.0.0 node.viaxmr.com
 0.0.0.0 node1.mycelium.com
@@ -1759,6 +1792,8 @@
 0.0.0.0 p2poolmining.de
 0.0.0.0 p2poolmining.net
 0.0.0.0 pac.ecoinz.cz
+0.0.0.0 pandaminer.co
+0.0.0.0 pandapool.io
 0.0.0.0 papoto.com
 0.0.0.0 paris01.minemonero.pro
 0.0.0.0 paris01.monero.hashvault.pro
@@ -1792,6 +1827,7 @@
 0.0.0.0 pirl.drowningpool.net
 0.0.0.0 pirl.mypool.online
 0.0.0.0 pit.deepbit.net
+0.0.0.0 piti.bplaced.net
 0.0.0.0 pl.minergate.com
 0.0.0.0 platform.jsecoin.com
 0.0.0.0 playerassets.info
@@ -1907,6 +1943,7 @@
 0.0.0.0 prometheus.phoenixcoin.org
 0.0.0.0 promo.bitaccess.co
 0.0.0.0 promo.hashflare.io
+0.0.0.0 proxy-ajcryptominer.ajplugins.com
 0.0.0.0 proxy-khlizawelj.now.sh
 0.0.0.0 proxy.nullrefexcep.com
 0.0.0.0 proxy01.eu.nicehash.com
@@ -1918,6 +1955,7 @@
 0.0.0.0 proxy7.nullrefexcep.com
 0.0.0.0 proxy8.nullrefexcep.com
 0.0.0.0 proxy9.nullrefexcep.com
+0.0.0.0 public.adobecc.com
 0.0.0.0 public.deltapool.net
 0.0.0.0 public.poloniex.com
 0.0.0.0 public.sandbox.exchange.coinbase.com
@@ -1983,11 +2021,14 @@
 0.0.0.0 ru.minergate.com
 0.0.0.0 rufflet-api.cryptokitties.co
 0.0.0.0 rufflet.cryptokitties.co
+0.0.0.0 s.analytics.blue
 0.0.0.0 s.gus.host
 0.0.0.0 s.m.eligius.st
 0.0.0.0 s.sunnyjuly.gq
 0.0.0.0 s.zsolo.bid
 0.0.0.0 s003.papoto.com
+0.0.0.0 s2.analytics.blue
+0.0.0.0 s3.analytics.blue
 0.0.0.0 s3.minexmr.com
 0.0.0.0 sak.prohash.net
 0.0.0.0 sakthikaa.com
@@ -2007,6 +2048,7 @@
 0.0.0.0 sea.cryptoloot.pro
 0.0.0.0 search.bitaccess.co
 0.0.0.0 searchdf.biz
+0.0.0.0 seasonaloffers.club
 0.0.0.0 seattle01.minemonero.pro
 0.0.0.0 seattle01.monero.hashvault.pro
 0.0.0.0 secretbeta.bitcoin.com
@@ -2203,6 +2245,7 @@
 0.0.0.0 sumo.night-pool.de
 0.0.0.0 sumo.poolto.be
 0.0.0.0 sumokoin.com
+0.0.0.0 sumokoin.crypto-webminer.com
 0.0.0.0 sumokoin.hashvault.pro
 0.0.0.0 sunnyjuly.gq
 0.0.0.0 support.binance.com
@@ -2236,6 +2279,7 @@
 0.0.0.0 sydney01.minemonero.pro
 0.0.0.0 sydney01.monero.hashvault.pro
 0.0.0.0 sys.poolto.be
+0.0.0.0 t.analytics.blue
 0.0.0.0 taiga.getmonero.org
 0.0.0.0 talk.multiminerapp.com
 0.0.0.0 tazm9p7tso.trade
@@ -2305,6 +2349,7 @@
 0.0.0.0 ullnot.download
 0.0.0.0 uloma.xyz
 0.0.0.0 ultrboocrybbr.extremepool.org
+0.0.0.0 unains1748.com
 0.0.0.0 unh.suprnova.cc
 0.0.0.0 uni.suprnova.cc
 0.0.0.0 united.wemineltc.com
@@ -2464,6 +2509,7 @@
 0.0.0.0 willacrit.com
 0.0.0.0 witkom.sbhmn-miner.com
 0.0.0.0 witthethim.com
+0.0.0.0 wittyoffers.club
 0.0.0.0 wmi.my0115.ru
 0.0.0.0 wmi.my0709.xyz
 0.0.0.0 wmi.mykings.top.info
@@ -2509,26 +2555,32 @@
 0.0.0.0 ws001.coinhive.com
 0.0.0.0 ws001.hemnes.win
 0.0.0.0 ws001.ws.tidafors.xyz
+0.0.0.0 ws002-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws002.authedmine.com
 0.0.0.0 ws002.coinhive.com
 0.0.0.0 ws002.hemnes.win
 0.0.0.0 ws002.ws.tidafors.xyz
+0.0.0.0 ws003-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws003.authedmine.com
 0.0.0.0 ws003.coinhive.com
 0.0.0.0 ws003.hemnes.win
 0.0.0.0 ws003.ws.tidafors.xyz
+0.0.0.0 ws004-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws004.authedmine.com
 0.0.0.0 ws004.coinhive.com
 0.0.0.0 ws004.hemnes.win
 0.0.0.0 ws004.ws.tidafors.xyz
+0.0.0.0 ws005-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws005.authedmine.com
 0.0.0.0 ws005.coinhive.com
 0.0.0.0 ws005.hemnes.win
 0.0.0.0 ws005.ws.tidafors.xyz
+0.0.0.0 ws006-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws006.authedmine.com
 0.0.0.0 ws006.coinhive.com
 0.0.0.0 ws006.hemnes.win
 0.0.0.0 ws006.ws.tidafors.xyz
+0.0.0.0 ws007-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws007.authedmine.com
 0.0.0.0 ws007.coinhive.com
 0.0.0.0 ws007.hemnes.win
@@ -2555,10 +2607,12 @@
 0.0.0.0 ws012.coinhive.com
 0.0.0.0 ws012.hemnes.win
 0.0.0.0 ws012.ws.tidafors.xyz
+0.0.0.0 ws013-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws013.authedmine.com
 0.0.0.0 ws013.coinhive.com
 0.0.0.0 ws013.hemnes.win
 0.0.0.0 ws013.ws.tidafors.xyz
+0.0.0.0 ws014-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws014.authedmine.com
 0.0.0.0 ws014.coinhive.com
 0.0.0.0 ws014.hemnes.win
@@ -2571,10 +2625,12 @@
 0.0.0.0 ws016.coinhive.com
 0.0.0.0 ws016.hemnes.win
 0.0.0.0 ws016.ws.tidafors.xyz
+0.0.0.0 ws017-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws017.authedmine.com
 0.0.0.0 ws017.coinhive.com
 0.0.0.0 ws017.hemnes.win
 0.0.0.0 ws017.ws.tidafors.xyz
+0.0.0.0 ws018-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws018.authedmine.com
 0.0.0.0 ws018.coinhive.com
 0.0.0.0 ws018.hemnes.win
@@ -2587,6 +2643,7 @@
 0.0.0.0 ws02.coinnebula.com
 0.0.0.0 ws02.crypto-loot.com
 0.0.0.0 ws02.ppoi.org
+0.0.0.0 ws020-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws020.authedmine.com
 0.0.0.0 ws020.coinhive.com
 0.0.0.0 ws020.hemnes.win
@@ -2594,34 +2651,42 @@
 0.0.0.0 ws021.coinhive.com
 0.0.0.0 ws021.hemnes.win
 0.0.0.0 ws021.ws.tidafors.xyz
+0.0.0.0 ws022-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws022.authedmine.com
 0.0.0.0 ws022.coinhive.com
 0.0.0.0 ws022.hemnes.win
 0.0.0.0 ws022.ws.tidafors.xyz
+0.0.0.0 ws023-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws023.authedmine.com
 0.0.0.0 ws023.coinhive.com
 0.0.0.0 ws023.hemnes.win
 0.0.0.0 ws023.ws.tidafors.xyz
+0.0.0.0 ws024-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws024.authedmine.com
 0.0.0.0 ws024.coinhive.com
 0.0.0.0 ws024.hemnes.win
 0.0.0.0 ws024.ws.tidafors.xyz
+0.0.0.0 ws025-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws025.authedmine.com
 0.0.0.0 ws025.coinhive.com
 0.0.0.0 ws025.hemnes.win
 0.0.0.0 ws025.ws.tidafors.xyz
+0.0.0.0 ws026-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws026.authedmine.com
 0.0.0.0 ws026.coinhive.com
 0.0.0.0 ws026.hemnes.win
 0.0.0.0 ws026.ws.tidafors.xyz
+0.0.0.0 ws027-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws027.authedmine.com
 0.0.0.0 ws027.coinhive.com
 0.0.0.0 ws027.hemnes.win
 0.0.0.0 ws027.ws.tidafors.xyz
+0.0.0.0 ws028-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws028.authedmine.com
 0.0.0.0 ws028.coinhive.com
 0.0.0.0 ws028.hemnes.win
 0.0.0.0 ws028.ws.tidafors.xyz
+0.0.0.0 ws029-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws029.authedmine.com
 0.0.0.0 ws029.coinhive.com
 0.0.0.0 ws029.hemnes.win
@@ -2633,10 +2698,12 @@
 0.0.0.0 ws030.coinhive.com
 0.0.0.0 ws030.hemnes.win
 0.0.0.0 ws030.ws.tidafors.xyz
+0.0.0.0 ws031-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws031.authedmine.com
 0.0.0.0 ws031.coinhive.com
 0.0.0.0 ws031.hemnes.win
 0.0.0.0 ws031.ws.tidafors.xyz
+0.0.0.0 ws032-proxy-ajcryptominer.ajplugins.com
 0.0.0.0 ws032.authedmine.com
 0.0.0.0 ws032.coinhive.com
 0.0.0.0 ws032.hemnes.win
@@ -2828,6 +2895,7 @@
 0.0.0.0 www.adminer.com
 0.0.0.0 www.aikapool.com
 0.0.0.0 www.altpool.pro
+0.0.0.0 www.analytics.blue
 0.0.0.0 www.antpool.com
 0.0.0.0 www.api.bitaccess.co
 0.0.0.0 www.api.changelly.com
@@ -3189,6 +3257,7 @@
 0.0.0.0 youbit.co.kr
 0.0.0.0 youporn.sexy
 0.0.0.0 youronionlink.onion
+0.0.0.0 yowl2ugopitfzzwb.onion
 0.0.0.0 ypool.net
 0.0.0.0 yuyyio.com
 0.0.0.0 z.cash
