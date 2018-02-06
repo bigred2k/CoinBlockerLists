@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 06 02 2018 04:42
+# Last modified: 06 02 2018 16:49
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
@@ -70,6 +70,7 @@
 0.0.0.0 allports-1.lindon-pool.win
 0.0.0.0 alpha.cryptokitties.co
 0.0.0.0 altpool.pro
+0.0.0.0 america.monerise.com
 0.0.0.0 amlt.coinfirm.io
 0.0.0.0 amsterdam01.minemonero.pro
 0.0.0.0 analitics-service.com
@@ -131,6 +132,7 @@
 0.0.0.0 api.ledgerwallet.com
 0.0.0.0 api.minemonero.pro
 0.0.0.0 api.minergate.com
+0.0.0.0 api.minero.cc
 0.0.0.0 api.minexmr.com
 0.0.0.0 api.mixin.lindon-pool.win
 0.0.0.0 api.monerise.com
@@ -167,6 +169,8 @@
 0.0.0.0 api2.bitfinex.com
 0.0.0.0 api2.moriaxmr.com
 0.0.0.0 api2.poloniex.com
+0.0.0.0 apib.monerise.com
+0.0.0.0 apin.monerise.com
 0.0.0.0 apk-bancodobrasil.com
 0.0.0.0 app.antpool.com
 0.0.0.0 app.bitaccess.co
@@ -192,6 +196,7 @@
 0.0.0.0 asia.hushmine.pro
 0.0.0.0 asia.madmining.club
 0.0.0.0 asia.miningspeed.com
+0.0.0.0 asia.monerise.com
 0.0.0.0 asia.monero.miningpoolhub.com
 0.0.0.0 asia.zclmine.pro
 0.0.0.0 asia.zenmine.pro
@@ -219,6 +224,7 @@
 0.0.0.0 authedmine.com
 0.0.0.0 authedwebmine.cz
 0.0.0.0 auto.hashcoins.com
+0.0.0.0 auto.monerise.com
 0.0.0.0 autoconfig.cryptominingpool.eu
 0.0.0.0 autoconfig.ditcoin.io
 0.0.0.0 autodiscover.cryptominingpool.eu
@@ -476,6 +482,7 @@
 0.0.0.0 chat.minergate.com
 0.0.0.0 chc.suprnova.cc
 0.0.0.0 checkcoin.miningpoolhub.com
+0.0.0.0 chekazpools.com
 0.0.0.0 chicago01.aeon.hashvault.pro
 0.0.0.0 chicago01.electroneum.hashvault.pro
 0.0.0.0 ci.z.cash
@@ -559,6 +566,7 @@
 0.0.0.0 coinpirate.cf
 0.0.0.0 coinpool.cloud
 0.0.0.0 coinpot.co
+0.0.0.0 coinrail.io
 0.0.0.0 coins.arstechnica.com
 0.0.0.0 coins.poolto.be
 0.0.0.0 coins.prohashing.com
@@ -571,6 +579,7 @@
 0.0.0.0 com-http.us
 0.0.0.0 community.bitfinex.com
 0.0.0.0 community.coinbase.com
+0.0.0.0 community.monerise.com
 0.0.0.0 confluence.prohashing.com
 0.0.0.0 conhive.com
 0.0.0.0 connect.pool.bitcoin.com
@@ -697,6 +706,7 @@
 0.0.0.0 de.cryptonator.com
 0.0.0.0 de.kano.is
 0.0.0.0 de.minergate.com
+0.0.0.0 de.minexmr.com
 0.0.0.0 de.moneroocean.stream
 0.0.0.0 de.moriaxmr.com
 0.0.0.0 de01.supportxmr.com
@@ -956,6 +966,7 @@
 0.0.0.0 eu.madmining.club
 0.0.0.0 eu.miningfield.com
 0.0.0.0 eu.miningspeed.com
+0.0.0.0 eu.monerise.com
 0.0.0.0 eu.multipool.us
 0.0.0.0 eu.pool.graft.network
 0.0.0.0 eu.stratum.bitcoin.cz
@@ -975,12 +986,14 @@
 0.0.0.0 eu1.nanopool.org
 0.0.0.0 eu1.zenmine.pro
 0.0.0.0 eu2.ethermine.org
+0.0.0.0 eu2.monerise.com
 0.0.0.0 eu2.multipool.us
 0.0.0.0 eu2.wemineltc.com
 0.0.0.0 eu2.zenmine.pro
 0.0.0.0 europe.cryptonight-hub.miningpoolhub.com
 0.0.0.0 europe.equihash-hub.miningpoolhub.com
 0.0.0.0 europe.ethash-hub.miningpoolhub.com
+0.0.0.0 europe.monerise.com
 0.0.0.0 europe.monero.miningpoolhub.com
 0.0.0.0 europe.zcoin.miningpoolhub.com
 0.0.0.0 europe1.darkcoin.miningpoolhub.com
@@ -1094,6 +1107,7 @@
 0.0.0.0 fr.cryptonator.com
 0.0.0.0 fr.kano.is
 0.0.0.0 fr.minergate.com
+0.0.0.0 fr.minexmr.com
 0.0.0.0 fr01.supportxmr.com
 0.0.0.0 fr02.supportxmr.com
 0.0.0.0 fr03.supportxmr.com
@@ -1231,6 +1245,7 @@
 0.0.0.0 hashzone.io
 0.0.0.0 hatcalter.com
 0.0.0.0 hatevery.info
+0.0.0.0 hbn.smartmining.net
 0.0.0.0 hcn.cryptopool.pro
 0.0.0.0 hcn.hashmining.online
 0.0.0.0 hegrinhar.com
@@ -1498,6 +1513,7 @@
 0.0.0.0 m.minergate.com
 0.0.0.0 m.poloniex.com
 0.0.0.0 m.pr0gramm.com
+0.0.0.0 m001.monerise.com
 0.0.0.0 m7m.mine.zpool.ca
 0.0.0.0 maaapi.mooo.com
 0.0.0.0 mac.suprnova.cc
@@ -1544,6 +1560,7 @@
 0.0.0.0 mail2.poloniex.com
 0.0.0.0 mailout.bitcoin.de
 0.0.0.0 mailzimbra.nanopool.org
+0.0.0.0 main.minero.cc
 0.0.0.0 main.xmrpool.net
 0.0.0.0 mainnet.z.cash
 0.0.0.0 manila-1.xmrpool.net
@@ -1551,6 +1568,7 @@
 0.0.0.0 map.bitcoin-russia.ru
 0.0.0.0 maps.bitaccess.co
 0.0.0.0 mar.suprnova.cc
+0.0.0.0 marcycoin.org
 0.0.0.0 mataharirama.xyz
 0.0.0.0 mattermost.getmonero.org
 0.0.0.0 max.suprnova.cc
@@ -1620,6 +1638,7 @@
 0.0.0.0 minero-proxy-01.now.sh
 0.0.0.0 minero-proxy-02.now.sh
 0.0.0.0 minero-proxy-03.now.sh
+0.0.0.0 minero.cc
 0.0.0.0 minero.pw
 0.0.0.0 miners.pro
 0.0.0.0 minersisland.com
@@ -1795,6 +1814,8 @@
 0.0.0.0 myttherwalet.com
 0.0.0.0 myètherwället.com
 0.0.0.0 mÿethèrwallét.com
+0.0.0.0 na.minexmr.com
+0.0.0.0 na.monerise.com
 0.0.0.0 nagios.z.cash
 0.0.0.0 nanopool.org
 0.0.0.0 nathetsof.com
@@ -1890,6 +1911,7 @@
 0.0.0.0 o2.email.bittrex.com
 0.0.0.0 o3.email.bittrex.com
 0.0.0.0 o4.email.bittrex.com
+0.0.0.0 oc.monerise.com
 0.0.0.0 oc.suprnova.cc
 0.0.0.0 ocean.cryptoloot.pro
 0.0.0.0 oec.extremepool.org
@@ -1907,7 +1929,9 @@
 0.0.0.0 op.bitaccess.co
 0.0.0.0 openapi.youbit.co.kr
 0.0.0.0 openkatalog.com
+0.0.0.0 orb.chekazpools.com
 0.0.0.0 orb.dnb.io
+0.0.0.0 orb.smartmining.net
 0.0.0.0 p.hemnes.win
 0.0.0.0 p.sunnyjuly.gq
 0.0.0.0 p.tidafors.xyz
@@ -1922,6 +1946,7 @@
 0.0.0.0 p2poolmining.com
 0.0.0.0 p2poolmining.de
 0.0.0.0 p2poolmining.net
+0.0.0.0 p5.minexmr.com
 0.0.0.0 pac.ecoinz.cz
 0.0.0.0 pandaminer.co
 0.0.0.0 pandapool.io
@@ -2023,6 +2048,7 @@
 0.0.0.0 pool.electroneum.hashvault.pro
 0.0.0.0 pool.eth.pp.ua
 0.0.0.0 pool.etn.spacepools.org
+0.0.0.0 pool.fonero.hashvault.pro
 0.0.0.0 pool.gigarho.com
 0.0.0.0 pool.gq
 0.0.0.0 pool.groupfabric.com
@@ -2179,6 +2205,7 @@
 0.0.0.0 rr.locationforexpert.com
 0.0.0.0 rs.minergate.com
 0.0.0.0 rsk.antpool.com
+0.0.0.0 rtw.monerise.com
 0.0.0.0 ru.changelly.com
 0.0.0.0 ru.cryptonator.com
 0.0.0.0 ru.minergate.com
@@ -2190,10 +2217,14 @@
 0.0.0.0 s.m.eligius.st
 0.0.0.0 s.sunnyjuly.gq
 0.0.0.0 s.zsolo.bid
+0.0.0.0 s001.monerise.com
+0.0.0.0 s002.monerise.com
+0.0.0.0 s003.monerise.com
 0.0.0.0 s003.papoto.com
 0.0.0.0 s2.analytics.blue
 0.0.0.0 s3.analytics.blue
 0.0.0.0 s3.minexmr.com
+0.0.0.0 sa.monerise.com
 0.0.0.0 sak.prohash.net
 0.0.0.0 sakthikaa.com
 0.0.0.0 sales.genesis-mining.com
@@ -2290,6 +2321,7 @@
 0.0.0.0 slack.bittrex.com
 0.0.0.0 slushpool.com
 0.0.0.0 smartcoin.miningpoolhub.com
+0.0.0.0 smartmining.net
 0.0.0.0 smectapop12.pl
 0.0.0.0 smtp.cryptominingpool.eu
 0.0.0.0 smtp.slushpool.com
@@ -2530,6 +2562,7 @@
 0.0.0.0 tokio01.minemonero.pro
 0.0.0.0 tokyo01.aeon.hashvault.pro
 0.0.0.0 tokyodrift.ga
+0.0.0.0 tor.monerise.com
 0.0.0.0 toshi.bitaccess.co
 0.0.0.0 trackerbuzz.info
 0.0.0.0 trackerdesk.pro
@@ -2686,6 +2719,7 @@
 0.0.0.0 vtc.poolmining.org
 0.0.0.0 vxelkrhl.info
 0.0.0.0 w.sunnyjuly.gq
+0.0.0.0 w1.minexmr.com
 0.0.0.0 w13.coinhive.com
 0.0.0.0 wallet-backend.bitcoin.com
 0.0.0.0 wallet-ethereum.com
@@ -2755,6 +2789,18 @@
 0.0.0.0 wood.suprnova.cc
 0.0.0.0 woork.sbhmn-miner.com
 0.0.0.0 word200.duckdns.org
+0.0.0.0 worker.minero.cc
+0.0.0.0 worker0.minero.cc
+0.0.0.0 worker1.minero.cc
+0.0.0.0 worker10.minero.cc
+0.0.0.0 worker2.minero.cc
+0.0.0.0 worker3.minero.cc
+0.0.0.0 worker4.minero.cc
+0.0.0.0 worker5.minero.cc
+0.0.0.0 worker6.minero.cc
+0.0.0.0 worker7.minero.cc
+0.0.0.0 worker8.minero.cc
+0.0.0.0 worker9.minero.cc
 0.0.0.0 world.wemineltc.com
 0.0.0.0 worm.suprnova.cc
 0.0.0.0 wp-content.infamylists.com
@@ -3119,6 +3165,8 @@
 0.0.0.0 wsm.ghash.io
 0.0.0.0 wsnew.freebitco.in
 0.0.0.0 wsp.marketgid.com
+0.0.0.0 wss-1.monerise.com
+0.0.0.0 wss-2.monerise.com
 0.0.0.0 wss.bithumb.com
 0.0.0.0 wty46.com
 0.0.0.0 ww.pr0gramm.com
@@ -3270,6 +3318,7 @@
 0.0.0.0 www.minemonero.pro
 0.0.0.0 www.miner.center
 0.0.0.0 www.minergate.com
+0.0.0.0 www.minero.cc
 0.0.0.0 www.minexmr.com
 0.0.0.0 www.minez.zone
 0.0.0.0 www.miningpoolhub.com
@@ -3277,6 +3326,7 @@
 0.0.0.0 www.minning.bitcoin.cz
 0.0.0.0 www.minr.pw
 0.0.0.0 www.mobile-mining.com
+0.0.0.0 www.monerise.com
 0.0.0.0 www.monero.crypto-pool.fr
 0.0.0.0 www.monero.crypto-webminer.com
 0.0.0.0 www.monerominer.rocks

@@ -1,4 +1,4 @@
-# Last modified: 14 01 2018 19:32
+# Last modified: 06 02 2018 16:49
 # This file contains all invalid hosts
 abc.pema.cl
 azvjudwr.info
@@ -17,3 +17,5 @@ static.hk.rs
 web.die-news.pw
 xbasfbno.info
 xy.nullrefexcep.com
+cryweb.github.io
+crywebber.github.io
