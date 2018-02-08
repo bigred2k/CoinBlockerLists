@@ -72,6 +72,8 @@ Thanks to all who use and support CoinBlockerLists.
 ## References:
 [https://malware-research.org/block-js-based-coinminers-with-little-snitch-and-coinblockerlist-on-mac/](https://malware-research.org/block-js-based-coinminers-with-little-snitch-and-coinblockerlist-on-mac/)
 
+[https://badpackets.net/how-to-find-cryptojacking-malware/](https://badpackets.net/how-to-find-cryptojacking-malware/)
+
 [https://twitter.com/bad_packets/status/950876326189150209](https://twitter.com/bad_packets/status/950876326189150209)
 
 [http://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-024.pdf](http://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-024.pdf)
