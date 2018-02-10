@@ -125,6 +125,8 @@ cdnfile.xyz
 cdns.ws
 cfcdist.gdn
 cfceu.duckdns.org
+cfcnet.gdn
+cfcs1.duckdns.org
 chainblock.science
 charlie.noblock.pro
 chicago01.electroneum.hashvault.pro
@@ -266,6 +268,7 @@ freecontent.info
 freecontent.loan
 freecontent.net
 freecontent.racing
+freecontent.stream
 freshrefresher.com
 ftp.coinhive-manager.com
 ftp.coinlab.biz

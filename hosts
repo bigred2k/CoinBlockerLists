@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 08 02 2018 13:29
+# Last modified: 10 02 2018 22:06
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
@@ -478,6 +478,8 @@
 0.0.0.0 cemsenik.qp.si
 0.0.0.0 cfcdist.gdn
 0.0.0.0 cfceu.duckdns.org
+0.0.0.0 cfcnet.gdn
+0.0.0.0 cfcs1.duckdns.org
 0.0.0.0 chainblock.science
 0.0.0.0 changelly.com
 0.0.0.0 charlie.noblock.pro
@@ -1142,6 +1144,7 @@
 0.0.0.0 freecontent.loan
 0.0.0.0 freecontent.net
 0.0.0.0 freecontent.racing
+0.0.0.0 freecontent.stream
 0.0.0.0 freedom.wemineltc.com
 0.0.0.0 freshrefresher.com
 0.0.0.0 friendshipcoin.miningpoolhub.com
