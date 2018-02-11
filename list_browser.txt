@@ -233,6 +233,7 @@ doubleclick3.xyz
 doubleclick4.xyz
 doubleclick5.xyz
 doubleclick6.xyz
+dronml.ml
 earncoins.club
 ebd.cda.pl
 ec2-13-58-215-234.us-east-2.compute.amazonaws.com
@@ -428,6 +429,7 @@ nathetsof.com
 new.minr.pw
 newark01.monero.hashvault.pro
 nfwebminer.com
+niematego.tk
 nitsche.top
 nl.cookiescript.info
 noblock.pro

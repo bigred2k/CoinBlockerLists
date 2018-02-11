@@ -21,6 +21,10 @@ CoinBlockerLists Short URL: [https://git.io/vFFKT](https://git.io/vFFKT)
 
 Many thanks to [https://github.com/ktsaou](https://github.com/ktsaou) :)
 
+### CoinBlockerLists is available in MISP - Malware Information Sharing Platform and Threat Sharing
+[https://github.com/MISP/MISP](https://github.com/MISP/MISP)
+Thanks to [https://github.com/adulau](https://github.com/adulau) :)
+
 ### CoinBlockerLists is available in Hostsblock
 [https://github.com/gaenserich/hostsblock](https://github.com/gaenserich/hostsblock)
 Thanks to [https://github.com/gaenserich](https://github.com/gaenserich) :)
