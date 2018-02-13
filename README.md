@@ -29,6 +29,10 @@ Thanks to [https://github.com/adulau](https://github.com/adulau) :)
 
 Thanks to [https://twitter.com/threatstop/](https://twitter.com/threatstop/) :)
 
+### CoinBlockerLists is used by DNSCrypt-Proxy [https://github.com/jedisct1/dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy)
+
+Thanks to [https://github.com/jedisct1](https://github.com/jedisct1) :)
+
 ### CoinBlockerLists is available in Hostsblock
 [https://github.com/gaenserich/hostsblock](https://github.com/gaenserich/hostsblock)
 Thanks to [https://github.com/gaenserich](https://github.com/gaenserich) :)
