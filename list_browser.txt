@@ -20,6 +20,7 @@
 6tsbe1zs.me
 8000plus.si
 8jd2lfsq.me
+Free4Faucet.com
 a-o.ninja
 a.proxy4.nullrefexcep.com
 a.proxy5.nullrefexcep.com
@@ -34,6 +35,9 @@ aeon.hashvault.pro
 afminer.com
 ait7ee.win
 ajplugins.com
+aleinvest.xyz
+alemoney.xyz
+altpool.pro
 america.monerise.com
 analytics.blue
 andlache.com
@@ -192,6 +196,8 @@ cryptobara.com
 cryptocoinabout.com
 cryptoloot.pro
 cryptonoter.com
+cryptosearch.site
+cryptotab.net
 cryptown.netlify.com
 cryweb.github.io
 crywebber.github.io
@@ -247,6 +253,7 @@ en.cookiescript.info
 enjoyableoffers.club
 es.cookiescript.info
 escobar.pr0gramm.com
+et-code.ru
 etn.spacepools.org
 etnpool.minekitten.io
 eu.hatevery.info
@@ -278,6 +285,7 @@ g-content.bid
 gasolina.ml
 gemius.pl
 get.webxmr.com
+getcryptotab.com
 global.crypto.csgocpu.com
 go.megabanners.cf
 go2.mercy.ga
@@ -288,6 +296,7 @@ googleanalytcs.com
 goredirect.party
 goxmrminer.com
 grafana.xmrpool.net
+greenindex.dynamic-dns.net
 gridcash.net
 gridiogrid.com
 gulf.moneroocean.stream
@@ -311,6 +320,7 @@ host.d-ns.ga
 huiwiw.hit.gemius.pl
 hurensohn.pr0gramm.com
 hzsod71wov.me
+igrid.org^
 iisl7wpf.me
 img.pr0gramm.com
 infamylists.com
@@ -374,6 +384,7 @@ main.xmrpool.net
 manila-1.xmrpool.net
 marcycoin.org
 mataharirama.xyz
+megabanners.cf
 mercy.ga
 metrika.ron.si
 mine.nahnoji.cz
@@ -399,6 +410,7 @@ mining.freebitco.in
 minr.browsermine.com
 minr.nullrefexcep.com
 minr.pw
+mmpool.org
 moneone.ga
 monerise.com
 monero-miner.net
@@ -439,6 +451,8 @@ nodes.viaxmr.com
 novaminers.tk
 npcdn1.now.sh
 npdaqy6x1j.me
+ns2.cryptosearch.site
+ns2.cryptotab.net
 nullrefexcep.com
 ny7f6goy.bid
 oc.monerise.com
@@ -448,7 +462,9 @@ ohac.github.io
 okeyletsgo.ml
 oload.info
 onion.top
+onlinereserchstatistics.online
 openkatalog.com
+p.estream.to
 p.hemnes.win
 p.tidafors.xyz
 pan.whathyx.com
@@ -495,9 +511,11 @@ proxy5.nullrefexcep.com
 proxy7.nullrefexcep.com
 proxy8.nullrefexcep.com
 proxy9.nullrefexcep.com
+punchsub.net
 px1.papoto.com
 px2.papoto.com
 r8nu86wg.me
+rawgit.com
 reasedoper.pw
 refunevent.com
 rencohep.com
@@ -506,6 +524,7 @@ reservedoffers.club
 retadint.com
 rineventrec.com
 rintindown.com
+rintinwa.com
 rocks.io
 ron.si
 rot.ron.si
@@ -524,6 +543,7 @@ sbhmn-miner.com
 sea.cryptoloot.pro
 seasonaloffers.club
 seattle01.monero.hashvault.pro
+secumine.net
 sen-to-zdrowie.ml
 sentry.nullrefexcep.com
 server.jsecoin.com
@@ -531,6 +551,8 @@ server4.nullrefexcep.com
 shrink-service.it
 silver.crypto.csgocpu.com
 singapore01.monero.hashvault.pro
+siteverification.online
+siteverification.site
 sm3na.com
 smectapop12.pl
 smurf.crypto.csgocpu.com
@@ -542,6 +564,8 @@ srv01.bitcoiner.win
 srv02.bitcoiner.win
 st.kjli.fi
 staging.webxmr.com
+stat.maalaimalar.com
+stat0808.info
 static-02.flu.cc
 static-cnt.bid
 static-net.nut.cc
@@ -557,9 +581,12 @@ static6.freebitco.in
 static7.freebitco.in
 static8.freebitco.in
 statistic.date
+stats.cryptotab.net
 stats.minexmr.com
 status.minexmr.com
 stream.nullrefexcep.com
+streamplay.top
+subloader.cf
 sumo.cryptonoter.com
 sumo.hashvault.pro
 sumokoin.crypto-webminer.com
@@ -580,6 +607,7 @@ test.minr.pw
 testnet-api.xmrpool.net
 testnet.webxmr.com
 thatresha.com
+theappguruz.com
 thumb.pr0gramm.com
 tidafors.xyz
 todogecoin.biz
@@ -587,10 +615,12 @@ tokyodrift.ga
 tor.monerise.com
 tracking.freebitco.in
 tubetitties.com
+tulip18.com
 uebawtz7.me
 ullnot.download
 us-stratum.viaxmr.com
 us.moneroocean.stream
+v90327ux.beget.tech
 vcfs6ip5h6.bid
 vcrypt.net
 vegas-1.xmrpool.net
@@ -1017,6 +1047,7 @@ www.crypto-loot.com
 www.crypto-pool.fr
 www.cryptoloot.pro
 www.cryptonoter.com
+www.cryptotab.net
 www.freebitco.in
 www.freecontent.bid
 www.gus.host
@@ -1087,5 +1118,6 @@ youporn.sexy
 yuyyio.com
 zgdfz6h7po.me
 zjemch.ru
+zlx.com.br
 zny.coiner.site
 zxc1-ustokyyneikyfasnm.stackpathdns.com

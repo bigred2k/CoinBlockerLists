@@ -25,6 +25,10 @@ Many thanks to [https://github.com/ktsaou](https://github.com/ktsaou) :)
 [https://github.com/MISP/MISP](https://github.com/MISP/MISP)
 Thanks to [https://github.com/adulau](https://github.com/adulau) :)
 
+### CoinBlockerLists is used by ThreatSTOP [http://www.threatstop.com/](http://www.threatstop.com/)
+
+Thanks to [https://twitter.com/threatstop/](https://twitter.com/threatstop/) :)
+
 ### CoinBlockerLists is available in Hostsblock
 [https://github.com/gaenserich/hostsblock](https://github.com/gaenserich/hostsblock)
 Thanks to [https://github.com/gaenserich](https://github.com/gaenserich) :)
@@ -91,6 +95,9 @@ Thanks to all who use and support CoinBlockerLists.
 [http://jasonhill.co.uk/pfsense/blocklists.txt](http://jasonhill.co.uk/pfsense/blocklists.txt)
 
 [https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24](https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24)
+
+# Donations
+![img](img/AWL.png)[Clevit](https://www.amazon.de/hz/wishlist/ls/2DDEDPJU2996I?filter=unpurchased&language=en_GB&sort=price-asc&type=wishlist "")
 
 ### Contact
 Twitter: [@hobbygrafix](https://twitter.com/hobbygrafix)

@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 11 02 2018 19:05
+# Last modified: 13 02 2018 17:00
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 1480876790.rsc.cdn77.org
@@ -37,6 +37,8 @@
 0.0.0.0 afminer.com
 0.0.0.0 ait7ee.win
 0.0.0.0 ajplugins.com
+0.0.0.0 aleinvest.xyz
+0.0.0.0 alemoney.xyz
 0.0.0.0 america.monerise.com
 0.0.0.0 analytics.blue
 0.0.0.0 andlache.com
@@ -196,6 +198,8 @@
 0.0.0.0 cryptocoinabout.com
 0.0.0.0 cryptoloot.pro
 0.0.0.0 cryptonoter.com
+0.0.0.0 cryptosearch.site
+0.0.0.0 cryptotab.net
 0.0.0.0 cryptown.netlify.com
 0.0.0.0 cryweb.github.io
 0.0.0.0 crywebber.github.io
@@ -251,6 +255,7 @@
 0.0.0.0 enjoyableoffers.club
 0.0.0.0 es.cookiescript.info
 0.0.0.0 escobar.pr0gramm.com
+0.0.0.0 et-code.ru
 0.0.0.0 etn.spacepools.org
 0.0.0.0 etnpool.minekitten.io
 0.0.0.0 eu.hatevery.info
@@ -282,6 +287,7 @@
 0.0.0.0 gasolina.ml
 0.0.0.0 gemius.pl
 0.0.0.0 get.webxmr.com
+0.0.0.0 getcryptotab.com
 0.0.0.0 global.crypto.csgocpu.com
 0.0.0.0 go.megabanners.cf
 0.0.0.0 go2.mercy.ga
@@ -292,6 +298,7 @@
 0.0.0.0 goredirect.party
 0.0.0.0 goxmrminer.com
 0.0.0.0 grafana.xmrpool.net
+0.0.0.0 greenindex.dynamic-dns.net
 0.0.0.0 gridcash.net
 0.0.0.0 gridiogrid.com
 0.0.0.0 gulf.moneroocean.stream
@@ -315,6 +322,7 @@
 0.0.0.0 huiwiw.hit.gemius.pl
 0.0.0.0 hurensohn.pr0gramm.com
 0.0.0.0 hzsod71wov.me
+0.0.0.0 igrid.org^
 0.0.0.0 iisl7wpf.me
 0.0.0.0 img.pr0gramm.com
 0.0.0.0 infamylists.com
@@ -378,6 +386,7 @@
 0.0.0.0 manila-1.xmrpool.net
 0.0.0.0 marcycoin.org
 0.0.0.0 mataharirama.xyz
+0.0.0.0 megabanners.cf
 0.0.0.0 mercy.ga
 0.0.0.0 metrika.ron.si
 0.0.0.0 mine.nahnoji.cz
@@ -403,6 +412,7 @@
 0.0.0.0 minr.browsermine.com
 0.0.0.0 minr.nullrefexcep.com
 0.0.0.0 minr.pw
+0.0.0.0 mmpool.org
 0.0.0.0 moneone.ga
 0.0.0.0 monerise.com
 0.0.0.0 monero-miner.net
@@ -444,6 +454,8 @@
 0.0.0.0 novaminers.tk
 0.0.0.0 npcdn1.now.sh
 0.0.0.0 npdaqy6x1j.me
+0.0.0.0 ns2.cryptosearch.site
+0.0.0.0 ns2.cryptotab.net
 0.0.0.0 nullrefexcep.com
 0.0.0.0 ny7f6goy.bid
 0.0.0.0 oc.monerise.com
@@ -453,7 +465,9 @@
 0.0.0.0 okeyletsgo.ml
 0.0.0.0 oload.info
 0.0.0.0 onion.top
+0.0.0.0 onlinereserchstatistics.online
 0.0.0.0 openkatalog.com
+0.0.0.0 p.estream.to
 0.0.0.0 p.hemnes.win
 0.0.0.0 p.tidafors.xyz
 0.0.0.0 pan.whathyx.com
@@ -503,6 +517,7 @@
 0.0.0.0 px1.papoto.com
 0.0.0.0 px2.papoto.com
 0.0.0.0 r8nu86wg.me
+0.0.0.0 rawgit.com
 0.0.0.0 reasedoper.pw
 0.0.0.0 refunevent.com
 0.0.0.0 rencohep.com
@@ -511,6 +526,7 @@
 0.0.0.0 retadint.com
 0.0.0.0 rineventrec.com
 0.0.0.0 rintindown.com
+0.0.0.0 rintinwa.com
 0.0.0.0 rocks.io
 0.0.0.0 ron.si
 0.0.0.0 rot.ron.si
@@ -529,6 +545,7 @@
 0.0.0.0 sea.cryptoloot.pro
 0.0.0.0 seasonaloffers.club
 0.0.0.0 seattle01.monero.hashvault.pro
+0.0.0.0 secumine.net
 0.0.0.0 sen-to-zdrowie.ml
 0.0.0.0 sentry.nullrefexcep.com
 0.0.0.0 server.jsecoin.com
@@ -536,6 +553,8 @@
 0.0.0.0 shrink-service.it
 0.0.0.0 silver.crypto.csgocpu.com
 0.0.0.0 singapore01.monero.hashvault.pro
+0.0.0.0 siteverification.online
+0.0.0.0 siteverification.site
 0.0.0.0 sm3na.com
 0.0.0.0 smectapop12.pl
 0.0.0.0 smurf.crypto.csgocpu.com
@@ -547,6 +566,8 @@
 0.0.0.0 srv02.bitcoiner.win
 0.0.0.0 st.kjli.fi
 0.0.0.0 staging.webxmr.com
+0.0.0.0 stat.maalaimalar.com
+0.0.0.0 stat0808.info
 0.0.0.0 static-02.flu.cc
 0.0.0.0 static-cnt.bid
 0.0.0.0 static-net.nut.cc
@@ -562,9 +583,12 @@
 0.0.0.0 static7.freebitco.in
 0.0.0.0 static8.freebitco.in
 0.0.0.0 statistic.date
+0.0.0.0 stats.cryptotab.net
 0.0.0.0 stats.minexmr.com
 0.0.0.0 status.minexmr.com
 0.0.0.0 stream.nullrefexcep.com
+0.0.0.0 streamplay.top
+0.0.0.0 subloader.cf
 0.0.0.0 sumo.cryptonoter.com
 0.0.0.0 sumo.hashvault.pro
 0.0.0.0 sumokoin.crypto-webminer.com
@@ -585,6 +609,7 @@
 0.0.0.0 testnet-api.xmrpool.net
 0.0.0.0 testnet.webxmr.com
 0.0.0.0 thatresha.com
+0.0.0.0 theappguruz.com
 0.0.0.0 thumb.pr0gramm.com
 0.0.0.0 tidafors.xyz
 0.0.0.0 todogecoin.biz
@@ -592,6 +617,7 @@
 0.0.0.0 tor.monerise.com
 0.0.0.0 tracking.freebitco.in
 0.0.0.0 tubetitties.com
+0.0.0.0 tulip18.com
 0.0.0.0 uebawtz7.me
 0.0.0.0 ullnot.download
 0.0.0.0 us-stratum.viaxmr.com
@@ -1022,6 +1048,7 @@
 0.0.0.0 www.crypto-pool.fr
 0.0.0.0 www.cryptoloot.pro
 0.0.0.0 www.cryptonoter.com
+0.0.0.0 www.cryptotab.net
 0.0.0.0 www.freebitco.in
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.gus.host
@@ -1092,5 +1119,6 @@
 0.0.0.0 yuyyio.com
 0.0.0.0 zgdfz6h7po.me
 0.0.0.0 zjemch.ru
+0.0.0.0 zlx.com.br
 0.0.0.0 zny.coiner.site
 0.0.0.0 zxc1-ustokyyneikyfasnm.stackpathdns.com

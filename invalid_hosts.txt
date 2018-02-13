@@ -1,4 +1,4 @@
-# Last modified: 06 02 2018 17:35
+# Last modified: 13 02 2018 17:00
 # This file contains all invalid hosts
 abc.pema.cl
 azvjudwr.info
@@ -20,3 +20,4 @@ xy.nullrefexcep.com
 cryweb.github.io
 crywebber.github.io
 piti.bplaced.net
+browsealoud.com
