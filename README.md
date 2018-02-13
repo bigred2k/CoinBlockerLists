@@ -97,6 +97,7 @@ Thanks to all who use and support CoinBlockerLists.
 [https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24](https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24)
 
 # Donations
+[![img](img/AWL.png)](img/AWL.png)(https://www.amazon.de/hz/wishlist/ls/2DDEDPJU2996I?filter=unpurchased&language=en_GB&sort=price-asc&type=wishlist)
 ![img](img/AWL.png)(https://www.amazon.de/hz/wishlist/ls/2DDEDPJU2996I?filter=unpurchased&language=en_GB&sort=price-asc&type=wishlist)
 
 ### Contact
