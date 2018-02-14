@@ -188,6 +188,7 @@ static.a-ads.com
 status.trezor.io
 stream.binance.com
 stream2.binance.com
+superbitcoiner.com
 support.a-ads.com
 support.binance.com
 support.evergreencoin.org

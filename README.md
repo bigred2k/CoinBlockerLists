@@ -14,6 +14,7 @@ CoinBlockerLists Short URL: [https://git.io/vFFKT](https://git.io/vFFKT)
 | List | This list contains all IPs - A additional list for administrators to prevent mining in networks| [Download](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/MiningServerIPList.txt) |
 
 # Donations
+All donations are welcome and greatly appreciated.
 [![img](img/AWL.png)](https://www.amazon.de/hz/wishlist/ls/2DDEDPJU2996I?filter=unpurchased&language=en_GB&sort=price-asc&type=wishlist)
 
 ### CoinBlockerLists is now listed in FireHOL: [http://iplists.firehol.org/](http://iplists.firehol.org/)  

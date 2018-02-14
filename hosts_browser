@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 14 02 2018 13:00
+# Last modified: 14 02 2018 20:14
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 1480876790.rsc.cdn77.org
@@ -75,6 +75,7 @@
 0.0.0.0 apin.monerise.com
 0.0.0.0 app.pr0gramm.com
 0.0.0.0 aqqgli3vle.bid
+0.0.0.0 as.cfcnet.top
 0.0.0.0 aservices.party
 0.0.0.0 asia.monerise.com
 0.0.0.0 atlanta01.monero.hashvault.pro
@@ -132,6 +133,7 @@
 0.0.0.0 cfcdist.gdn
 0.0.0.0 cfceu.duckdns.org
 0.0.0.0 cfcnet.gdn
+0.0.0.0 cfcnet.top
 0.0.0.0 cfcs1.duckdns.org
 0.0.0.0 chainblock.science
 0.0.0.0 charlie.noblock.pro
@@ -258,6 +260,7 @@
 0.0.0.0 et-code.ru
 0.0.0.0 etn.spacepools.org
 0.0.0.0 etnpool.minekitten.io
+0.0.0.0 eu.cfcnet.top
 0.0.0.0 eu.hatevery.info
 0.0.0.0 eu.monerise.com
 0.0.0.0 eu2.monerise.com
@@ -298,11 +301,13 @@
 0.0.0.0 goredirect.party
 0.0.0.0 goxmrminer.com
 0.0.0.0 grafana.xmrpool.net
+0.0.0.0 graftpool.ovh
 0.0.0.0 greenindex.dynamic-dns.net
 0.0.0.0 gridcash.net
 0.0.0.0 gridiogrid.com
 0.0.0.0 gulf.moneroocean.stream
 0.0.0.0 gus.host
+0.0.0.0 gustaver.ddns.ne
 0.0.0.0 gustaver.ddns.net
 0.0.0.0 hallaert.online
 0.0.0.0 hans.pr0gramm.com
@@ -372,6 +377,7 @@
 0.0.0.0 load.jsecoin.com
 0.0.0.0 london01.monero.hashvault.pro
 0.0.0.0 losangeles01.monero.hashvault.pro
+0.0.0.0 losital.ru
 0.0.0.0 m.anyfiles.ovh
 0.0.0.0 m.pr0gramm.com
 0.0.0.0 m001.monerise.com
@@ -386,6 +392,7 @@
 0.0.0.0 manila-1.xmrpool.net
 0.0.0.0 marcycoin.org
 0.0.0.0 mataharirama.xyz
+0.0.0.0 mebablo.com
 0.0.0.0 megabanners.cf
 0.0.0.0 mercy.ga
 0.0.0.0 metrika.ron.si
@@ -441,6 +448,7 @@
 0.0.0.0 na.monerise.com
 0.0.0.0 nablabee.com
 0.0.0.0 nathetsof.com
+0.0.0.0 nebabrop.com
 0.0.0.0 new.minr.pw
 0.0.0.0 newark01.monero.hashvault.pro
 0.0.0.0 nfwebminer.com
@@ -477,6 +485,7 @@
 0.0.0.0 pascal3.science
 0.0.0.0 pat.ron.si
 0.0.0.0 pdf-1.infamylists.com
+0.0.0.0 pearno.com
 0.0.0.0 phx-2.xmrpool.net
 0.0.0.0 phx-3.xmrpool.net
 0.0.0.0 phx-4.xmrpool.net
@@ -621,6 +630,7 @@
 0.0.0.0 uebawtz7.me
 0.0.0.0 ullnot.download
 0.0.0.0 us-stratum.viaxmr.com
+0.0.0.0 us.cfcnet.top
 0.0.0.0 us.moneroocean.stream
 0.0.0.0 vcfs6ip5h6.bid
 0.0.0.0 vcrypt.net

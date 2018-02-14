@@ -73,6 +73,7 @@ apib.monerise.com
 apin.monerise.com
 app.pr0gramm.com
 aqqgli3vle.bid
+as.cfcnet.top
 aservices.party
 asia.monerise.com
 atlanta01.monero.hashvault.pro
@@ -130,6 +131,7 @@ cdns.ws
 cfcdist.gdn
 cfceu.duckdns.org
 cfcnet.gdn
+cfcnet.top
 cfcs1.duckdns.org
 chainblock.science
 charlie.noblock.pro
@@ -256,6 +258,7 @@ escobar.pr0gramm.com
 et-code.ru
 etn.spacepools.org
 etnpool.minekitten.io
+eu.cfcnet.top
 eu.hatevery.info
 eu.monerise.com
 eu2.monerise.com
@@ -296,11 +299,13 @@ googleanalytcs.com
 goredirect.party
 goxmrminer.com
 grafana.xmrpool.net
+graftpool.ovh
 greenindex.dynamic-dns.net
 gridcash.net
 gridiogrid.com
 gulf.moneroocean.stream
 gus.host
+gustaver.ddns.ne
 gustaver.ddns.net
 hallaert.online
 hans.pr0gramm.com
@@ -370,6 +375,7 @@ lmodr.biz
 load.jsecoin.com
 london01.monero.hashvault.pro
 losangeles01.monero.hashvault.pro
+losital.ru
 m.anyfiles.ovh
 m.pr0gramm.com
 m001.monerise.com
@@ -384,6 +390,7 @@ main.xmrpool.net
 manila-1.xmrpool.net
 marcycoin.org
 mataharirama.xyz
+mebablo.com
 megabanners.cf
 mercy.ga
 metrika.ron.si
@@ -438,6 +445,7 @@ myoffers.party
 na.monerise.com
 nablabee.com
 nathetsof.com
+nebabrop.com
 new.minr.pw
 newark01.monero.hashvault.pro
 nfwebminer.com
@@ -474,6 +482,7 @@ party-nngvitbizn.now.sh
 pascal3.science
 pat.ron.si
 pdf-1.infamylists.com
+pearno.com
 phx-2.xmrpool.net
 phx-3.xmrpool.net
 phx-4.xmrpool.net
@@ -619,6 +628,7 @@ tulip18.com
 uebawtz7.me
 ullnot.download
 us-stratum.viaxmr.com
+us.cfcnet.top
 us.moneroocean.stream
 v90327ux.beget.tech
 vcfs6ip5h6.bid

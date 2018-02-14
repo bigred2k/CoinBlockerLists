@@ -189,6 +189,7 @@ aqqgli3vle.bid
 ar.changelly.com
 arcticrise.com
 aricoin.miningpoolhub.com
+as.cfcnet.top
 aservices.party
 asia.cryptonight-hub.miningpoolhub.com
 asia.dbixmine.pro
@@ -486,6 +487,7 @@ cemsenik.qp.si
 cfcdist.gdn
 cfceu.duckdns.org
 cfcnet.gdn
+cfcnet.top
 cfcs1.duckdns.org
 chainblock.science
 changelly.com
@@ -984,6 +986,7 @@ eu-stratum.btcguild.com
 eu.bitcoin.cz
 eu.bohemianpool.com
 eu.btgpool.pro
+eu.cfcnet.top
 eu.coinblockers.com
 eu.dbixmine.pro
 eu.etcmine.pro
@@ -1247,6 +1250,7 @@ grafana.xmrpool.net
 graft.network
 graft.poolisto.com
 graftpool.net
+graftpool.ovh
 granite.miningpoolhub.com
 graph.coinone.co.kr
 greengaming.de
@@ -1261,6 +1265,7 @@ grs.suprnova.cc
 guest-stat.com
 gulf.moneroocean.stream
 gus.host
+gustaver.ddns.ne
 gustaver.ddns.net
 h.nanopool.org
 hal.dnb.io
@@ -1528,6 +1533,7 @@ lolkekss.usite.pro
 london01.monero.hashvault.pro
 losangeles01.minemonero.pro
 losangeles01.monero.hashvault.pro
+losital.ru
 louhimo.club
 lpool.name
 ltc-eu.give-me-coins.com
@@ -1635,6 +1641,7 @@ mcn-qcn.pool.minergate.com
 mcn.pool.minergate.com
 mdm.hashcoins.com
 mdwnte.com
+mebablo.com
 mediatrackerfast.pro
 meet.z.cash
 mega.give-me-coins.com
@@ -1881,6 +1888,7 @@ nagios.z.cash
 nanopool.org
 nathetsof.com
 ndc.bitember.com
+nebabrop.com
 nekonium.sighash.info
 neohash.com
 neoscrypt.br.nicehash.com
@@ -2051,6 +2059,7 @@ paymentblog.coincheck.com
 payments.changelly.com
 pc.crypto-coins.club
 pdf-1.infamylists.com
+pearno.com
 peercoin.ecoining.com
 pepe.suprnova.cc
 peril.kippo.eu
@@ -2762,6 +2771,7 @@ us-west.siamining.com
 us-west1.nanopool.org
 us-west2.multipool.us
 us.bitcoin.cz
+us.cfcnet.top
 us.clevermining.com
 us.dbixmine.pro
 us.east.bitcoin.cz
