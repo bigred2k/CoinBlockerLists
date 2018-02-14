@@ -13,6 +13,9 @@ CoinBlockerLists Short URL: [https://git.io/vFFKT](https://git.io/vFFKT)
 | Hosts | This list contains all browser mining domains - A hostslist to prevent browser mining only| [Download](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser) |
 | List | This list contains all IPs - A additional list for administrators to prevent mining in networks| [Download](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/MiningServerIPList.txt) |
 
+# Donations
+[![img](img/AWL.png)](https://www.amazon.de/hz/wishlist/ls/2DDEDPJU2996I?filter=unpurchased&language=en_GB&sort=price-asc&type=wishlist)
+
 ### CoinBlockerLists is now listed in FireHOL: [http://iplists.firehol.org/](http://iplists.firehol.org/)  
 - [http://iplists.firehol.org/?ipset=coinbl_hosts](http://iplists.firehol.org/?ipset=coinbl_hosts)
 - [http://iplists.firehol.org/?ipset=coinbl_hosts_optional](http://iplists.firehol.org/?ipset=coinbl_hosts_optional)
@@ -69,6 +72,10 @@ Thanks to [https://github.com/parseword](https://github.com/parseword) :)
 
 Thanks to [https://github.com/codingo](https://github.com/codingo) :)
 
+### CoinBlockerLists is used in CoinHive-Block [https://github.com/Marfjeh/coinhive-block](https://github.com/Marfjeh/coinhive-block)
+
+Thanks to [https://github.com/Marfjeh](https://github.com/Marfjeh) :)
+
 ### CoinBlockerLists is used in Dr. Mine is a node script written to aid automatic detection of in-browser cryptojacking. [https://github.com/1lastBr3ath/drmine](https://github.com/1lastBr3ath/drmine)
 
 Thanks to [https://github.com/1lastBr3ath](https://github.com/1lastBr3ath) :)
@@ -99,9 +106,6 @@ Thanks to all who use and support CoinBlockerLists.
 [http://jasonhill.co.uk/pfsense/blocklists.txt](http://jasonhill.co.uk/pfsense/blocklists.txt)
 
 [https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24](https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24)
-
-# Donations
-[![img](img/AWL.png)](https://www.amazon.de/hz/wishlist/ls/2DDEDPJU2996I?filter=unpurchased&language=en_GB&sort=price-asc&type=wishlist)
 
 ### Contact
 Twitter: [@hobbygrafix](https://twitter.com/hobbygrafix)

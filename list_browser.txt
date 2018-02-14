@@ -320,7 +320,7 @@ host.d-ns.ga
 huiwiw.hit.gemius.pl
 hurensohn.pr0gramm.com
 hzsod71wov.me
-igrid.org^
+igrid.org
 iisl7wpf.me
 img.pr0gramm.com
 infamylists.com
@@ -664,6 +664,7 @@ wittyoffers.club
 wo15.coinhive.com
 woork.sbhmn-miner.com
 worker.minero.cc
+worker.salon.com
 worker0.minero.cc
 worker1.minero.cc
 worker10.minero.cc

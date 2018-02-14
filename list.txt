@@ -312,6 +312,7 @@ bip.mypool.online
 bip.poolto.be
 bitaccess.co
 bitbucket.prohashing.com
+bitclub.bz
 bitclub.network
 bitclubnetwork.com
 bitcoin-cash.miningpoolhub.com
@@ -1184,6 +1185,7 @@ ftp.ruisgood.ru
 ftp.tugae2.com
 fujiseed.sighash.info
 full.pr0gramm.com
+futurocoinpool.com
 fwl.bitcoin.cz
 g-content.bid
 game.poolto.be
@@ -1352,7 +1354,7 @@ ico.graft.network
 ico.lydian.io
 id.cryptonator.com
 id.minergate.com
-igrid.org^
+igrid.org
 iisl7wpf.me
 im.forre.st
 images.coinbase.com
@@ -1572,6 +1574,7 @@ mac.suprnova.cc
 macminer.fabulouspanda.com
 magiccoin.biz
 mail.altpool.pro
+mail.bitclub.bz
 mail.bithumb.com
 mail.bittank.club
 mail.bittrex.com
@@ -2920,6 +2923,7 @@ wood.suprnova.cc
 woork.sbhmn-miner.com
 word200.duckdns.org
 worker.minero.cc
+worker.salon.com
 worker0.minero.cc
 worker1.minero.cc
 worker10.minero.cc
@@ -3322,6 +3326,7 @@ www.baiduccdn1.com
 www.beagamer.club
 www.bestETNpool.com
 www.bitaccess.co
+www.bitclub.bz
 www.bitcoin-russia.ru
 www.bitcoin.bitaccess.co
 www.bitcoin.cz

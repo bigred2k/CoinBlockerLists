@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 13 02 2018 17:00
+# Last modified: 14 02 2018 13:00
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
@@ -316,6 +316,7 @@
 0.0.0.0 bip.poolto.be
 0.0.0.0 bitaccess.co
 0.0.0.0 bitbucket.prohashing.com
+0.0.0.0 bitclub.bz
 0.0.0.0 bitclub.network
 0.0.0.0 bitclubnetwork.com
 0.0.0.0 bitcoin-cash.miningpoolhub.com
@@ -1187,6 +1188,7 @@
 0.0.0.0 ftp.tugae2.com
 0.0.0.0 fujiseed.sighash.info
 0.0.0.0 full.pr0gramm.com
+0.0.0.0 futurocoinpool.com
 0.0.0.0 fwl.bitcoin.cz
 0.0.0.0 g-content.bid
 0.0.0.0 game.poolto.be
@@ -1355,7 +1357,7 @@
 0.0.0.0 ico.lydian.io
 0.0.0.0 id.cryptonator.com
 0.0.0.0 id.minergate.com
-0.0.0.0 igrid.org^
+0.0.0.0 igrid.org
 0.0.0.0 iisl7wpf.me
 0.0.0.0 im.forre.st
 0.0.0.0 images.coinbase.com
@@ -1575,6 +1577,7 @@
 0.0.0.0 macminer.fabulouspanda.com
 0.0.0.0 magiccoin.biz
 0.0.0.0 mail.altpool.pro
+0.0.0.0 mail.bitclub.bz
 0.0.0.0 mail.bithumb.com
 0.0.0.0 mail.bittank.club
 0.0.0.0 mail.bittrex.com
@@ -2922,6 +2925,7 @@
 0.0.0.0 woork.sbhmn-miner.com
 0.0.0.0 word200.duckdns.org
 0.0.0.0 worker.minero.cc
+0.0.0.0 worker.salon.com
 0.0.0.0 worker0.minero.cc
 0.0.0.0 worker1.minero.cc
 0.0.0.0 worker10.minero.cc
@@ -3324,6 +3328,7 @@
 0.0.0.0 www.beagamer.club
 0.0.0.0 www.bestETNpool.com
 0.0.0.0 www.bitaccess.co
+0.0.0.0 www.bitclub.bz
 0.0.0.0 www.bitcoin-russia.ru
 0.0.0.0 www.bitcoin.bitaccess.co
 0.0.0.0 www.bitcoin.cz

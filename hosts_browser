@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 13 02 2018 17:00
+# Last modified: 14 02 2018 13:00
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 1480876790.rsc.cdn77.org
@@ -322,7 +322,7 @@
 0.0.0.0 huiwiw.hit.gemius.pl
 0.0.0.0 hurensohn.pr0gramm.com
 0.0.0.0 hzsod71wov.me
-0.0.0.0 igrid.org^
+0.0.0.0 igrid.org
 0.0.0.0 iisl7wpf.me
 0.0.0.0 img.pr0gramm.com
 0.0.0.0 infamylists.com
@@ -665,6 +665,7 @@
 0.0.0.0 wo15.coinhive.com
 0.0.0.0 woork.sbhmn-miner.com
 0.0.0.0 worker.minero.cc
+0.0.0.0 worker.salon.com
 0.0.0.0 worker0.minero.cc
 0.0.0.0 worker1.minero.cc
 0.0.0.0 worker10.minero.cc
