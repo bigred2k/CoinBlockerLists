@@ -162,6 +162,7 @@ ns2.a-ads.com
 old-wallet.trezor.io
 old.coinad.com
 pandaminer.co
+parthk.co.uk
 peerhash.com
 pool.emercoin.com
 pool2.emercoin.com
