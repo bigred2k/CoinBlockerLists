@@ -568,7 +568,6 @@ s002.monerise.com
 s003.monerise.com
 s003.papoto.com
 s2.analytics.blue
-s3.amazonaws.com
 s3.analytics.blue
 s3.minexmr.com
 sa.monerise.com
