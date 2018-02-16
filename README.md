@@ -34,6 +34,10 @@ Thanks to [https://github.com/adulau](https://github.com/adulau) :)
 
 Thanks to [https://twitter.com/threatstop/](https://twitter.com/threatstop/) :)
 
+### CoinBlockerLists is used by Blokada [https://github.com/blokadaorg/blokada](https://github.com/blokadaorg/blokada)
+
+Thanks to [https://github.com/kar](https://github.com/kar) :)
+
 ### CoinBlockerLists is used by DNSCrypt-Proxy [https://github.com/jedisct1/dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy)
 
 Thanks to [https://github.com/jedisct1](https://github.com/jedisct1) :)
