@@ -1,6 +1,5 @@
-
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 16 02 2018 19:38
+# Last modified: 17 02 2018 16:48
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
@@ -222,6 +221,7 @@
 0.0.0.0 assets.coinbase.com
 0.0.0.0 assets.coincheck.com
 0.0.0.0 assets.lydian.io
+0.0.0.0 asvoxod.ru
 0.0.0.0 at01.supportxmr.com
 0.0.0.0 at02.supportxmr.com
 0.0.0.0 atlanta.minemonero.pro
@@ -242,6 +242,7 @@
 0.0.0.0 autodiscover.ditcoin.io
 0.0.0.0 avatar.pr0gramm.com
 0.0.0.0 avualrhg9p.bid
+0.0.0.0 avualrhg9p0.bid
 0.0.0.0 axiom.br.nicehash.com
 0.0.0.0 axiom.eu.nicehash.com
 0.0.0.0 axiom.hk.nicehash.com
@@ -482,6 +483,7 @@
 0.0.0.0 cash.bitaccess.co
 0.0.0.0 cdjs.online
 0.0.0.0 cdn-analytics.pl
+0.0.0.0 cdn-code.host
 0.0.0.0 cdn.adless.io
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 cdn.cookiescript.info
@@ -844,6 +846,7 @@
 0.0.0.0 downloads.getmonero.org
 0.0.0.0 drk.ghash.io
 0.0.0.0 drk.poolto.be
+0.0.0.0 dronml.ml
 0.0.0.0 drowningpool.net
 0.0.0.0 dsh.extremepool.org
 0.0.0.0 dsh.miner.center
@@ -975,6 +978,7 @@
 0.0.0.0 etherdelta.site
 0.0.0.0 ethereum-classic.miningpoolhub.com
 0.0.0.0 ethereum.miningpoolhub.com
+0.0.0.0 ethereumpool.club
 0.0.0.0 ethermine.org
 0.0.0.0 ethpool.org
 0.0.0.0 ethweb.antpool.com
@@ -1560,6 +1564,7 @@
 0.0.0.0 losangeles01.minemonero.pro
 0.0.0.0 losangeles01.monero.hashvault.pro
 0.0.0.0 losital.ru
+0.0.0.0 lottery-lists.freebitco.in
 0.0.0.0 louhimo.club
 0.0.0.0 lpool.name
 0.0.0.0 ltc-eu.give-me-coins.com
@@ -1949,6 +1954,7 @@
 0.0.0.0 nfwebminer.com
 0.0.0.0 nicehash.com
 0.0.0.0 nidscom.io
+0.0.0.0 niematego.tk
 0.0.0.0 night-pool.de
 0.0.0.0 nist5.br.nicehash.com
 0.0.0.0 nist5.eu.nicehash.com
@@ -2324,6 +2330,7 @@
 0.0.0.0 reasedoper.pw
 0.0.0.0 recycloped.com
 0.0.0.0 redwind.miner.center
+0.0.0.0 refresh-js.bitbucket.io
 0.0.0.0 refunevent.com
 0.0.0.0 registry.staging-eu-west.cryptopay.me
 0.0.0.0 relay.ypool.net
@@ -2586,6 +2593,7 @@
 0.0.0.0 static6.freebitco.in
 0.0.0.0 static7.freebitco.in
 0.0.0.0 static8.freebitco.in
+0.0.0.0 staticsfs.host
 0.0.0.0 statistic.date
 0.0.0.0 stats.cryptotab.net
 0.0.0.0 stats.gigarho.com
@@ -2732,6 +2740,7 @@
 0.0.0.0 thenewgamer.fun
 0.0.0.0 theonlineslot.bid
 0.0.0.0 theonlineslots.bid
+0.0.0.0 thepiratebay.cr
 0.0.0.0 theshoppingoffers.men
 0.0.0.0 theshoppingoffers.top
 0.0.0.0 theshoppingoffers.trade
