@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 18 02 2018 15:13
+# Last modified: 18 02 2018 15:28
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
@@ -439,6 +439,8 @@
 0.0.0.0 browsermine.com
 0.0.0.0 bsd.suprnova.cc
 0.0.0.0 bta.suprnova.cc
+0.0.0.0 btc.btgirl.com.cn
+0.0.0.0 btc.poolbt.com
 0.0.0.0 btc.poolmining.eu
 0.0.0.0 btc.suprnova.cc
 0.0.0.0 btc1.seeds.bitcoin.com
@@ -2459,6 +2461,7 @@
 0.0.0.0 sha256.usa.nicehash.com
 0.0.0.0 sheepman.mine.bz
 0.0.0.0 shell.bitcoin.com
+0.0.0.0 shell.poolbt.com
 0.0.0.0 shrink-service.it
 0.0.0.0 sia-asia1.nanopool.org
 0.0.0.0 sia-eu1.nanopool.org
@@ -3729,6 +3732,7 @@
 0.0.0.0 xmr.5b6b7b.ru
 0.0.0.0 xmr.alimabi.cn
 0.0.0.0 xmr.bohemianpool.com
+0.0.0.0 xmr.btgirl.com.cn
 0.0.0.0 xmr.coinlab.biz
 0.0.0.0 xmr.coinmine.pl
 0.0.0.0 xmr.crypto-coins.club

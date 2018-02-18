@@ -436,6 +436,8 @@ brony.dnb.io
 browsermine.com
 bsd.suprnova.cc
 bta.suprnova.cc
+btc.btgirl.com.cn
+btc.poolbt.com
 btc.poolmining.eu
 btc.suprnova.cc
 btc1.seeds.bitcoin.com
@@ -2456,6 +2458,7 @@ sha256.mine.zpool.ca
 sha256.usa.nicehash.com
 sheepman.mine.bz
 shell.bitcoin.com
+shell.poolbt.com
 shrink-service.it
 sia-asia1.nanopool.org
 sia-eu1.nanopool.org
@@ -3726,6 +3729,7 @@ xmr.-eu1.nanopool.org
 xmr.5b6b7b.ru
 xmr.alimabi.cn
 xmr.bohemianpool.com
+xmr.btgirl.com.cn
 xmr.coinlab.biz
 xmr.coinmine.pl
 xmr.crypto-coins.club
