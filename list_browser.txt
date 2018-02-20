@@ -3,6 +3,7 @@
 1beb2a44.space
 1q2w3.fun
 1q2w3.me
+1q2w3.top
 2giga.link
 300ca0d0.space
 310ca263.space
@@ -80,6 +81,7 @@ aservices.party
 asia.monerise.com
 asvoxod.ru
 atlanta01.monero.hashvault.pro
+audioknigi.club
 auroramine.com
 authedmine.com
 authedwebmine.cz
@@ -94,6 +96,7 @@ baiduccdn1.com
 becanium.com
 befirstcdn.com
 berserkpl.net.pl
+bestmobiworld.com
 beta.coinrail.io
 bewaslac.com
 bewhoyouare.gq
@@ -103,6 +106,7 @@ bizoninvest.com
 bjorksta.men
 blox.minexmr.com
 bmnr.pw
+bmst.pw
 bowithow.com
 brominer.com
 browsermine.com
@@ -121,6 +125,7 @@ carrel.services
 cdjs.online
 cdn-analytics.pl
 cdn-code.host
+cdn-jquery.host
 cdn.adless.io
 cdn.cloudcoins.co
 cdn.cookiescript.info
@@ -132,6 +137,7 @@ cdn.rocks.io
 cdn.rove.cl
 cdn.static-cnt.bid
 cdn2.inwemo.com
+cdncounter.top
 cdnfile.xyz
 cdns.ws
 cfcdist.gdn
@@ -142,6 +148,7 @@ cfcs1.duckdns.org
 chainblock.science
 charlie.noblock.pro
 chicago01.electroneum.hashvault.pro
+chmproxy.bid
 clickandbuy.review
 clickandbuy.win
 clickwith.bid
@@ -229,6 +236,7 @@ db.xmrpool.net
 de.cookiescript.info
 de.moneroocean.stream
 deepc.cc
+dekoder.ws
 demo.webxmr.com
 dev.coinlab.biz
 dev.cryptobara.com
@@ -262,6 +270,7 @@ en.cookiescript.info
 enjoyableoffers.club
 es.cookiescript.info
 escobar.pr0gramm.com
+estream.to
 et-code.ru
 etacontent.com
 etn.spacepools.org
@@ -278,6 +287,7 @@ fbtc-audio.freebitco.in
 fbtc-uab.freebitco.in
 ffjk.space
 fge9vbrzwt.bid
+fili.tv
 flare-analytics.com
 formulawire.com
 fr.cookiescript.info
@@ -291,10 +301,12 @@ freecontent.loan
 freecontent.net
 freecontent.racing
 freecontent.stream
+fresh-js.bitbucket.io
 freshrefresher.com
 ftp.coinhive-manager.com
 ftp.coinlab.biz
 full.pr0gramm.com
+futeboltv.com
 g-content.bid
 gasolina.ml
 gemius.pl
@@ -306,6 +318,7 @@ go.megabanners.cf
 go2.mercy.ga
 goldnova.crypto.csgocpu.com
 goldoffer.online
+goodkino.biz
 goodolddownloads.com
 google.gus.host
 googleanalytcs.com
@@ -332,6 +345,7 @@ hegrinhar.com
 hemnes.win
 hit.gemius.pl
 hive.tubetitties.com
+hiy.vidzi.tv
 hodlers.party
 hodling.faith
 host.d-ns.ga
@@ -381,11 +395,13 @@ latestpromotions.club
 ledhenone.com
 ledinund.com
 lewd.ninja
+lib.bmst.pw
 lib.xmrm.pw
 light.browsermine.com
 lightminer.co
 likeminer.nablabee.com
 listat.biz
+live.4480.org
 livelyoffers.club
 lmodr.biz
 load.jsecoin.com
@@ -446,6 +462,7 @@ monero.crypto-webminer.com
 monero.hashvault.pro
 monerominer.rocks
 moneroocean.stream
+monitoringservice.co
 monkeyminer.net
 moonbit.co.in
 moonsade.com
@@ -472,6 +489,7 @@ newark01.monero.hashvault.pro
 nfwebminer.com
 niematego.tk
 nitsche.top
+nkxdyorwbt.com
 nl.cookiescript.info
 noblock.pro
 node.cfcdist.gdn
@@ -553,6 +571,7 @@ px1.papoto.com
 px2.papoto.com
 questionfly.com
 r8nu86wg.me
+rapidvideo.com
 reasedoper.pw
 refresh-js.bitbucket.io
 refunevent.com
@@ -636,6 +655,7 @@ sumo.cryptonoter.com
 sumo.hashvault.pro
 sumokoin.crypto-webminer.com
 sumokoin.hashvault.pro
+sunhd.info
 supportxmr.com
 swanson.ron.si
 sxcdn02.now.sh
@@ -647,6 +667,7 @@ sydney01.monero.hashvault.pro
 t.analytics.blue
 tazm9p7tso.trade
 techhome-js.github.io
+template-download.top
 test.cryptonoter.com
 test.minr.pw
 testnet-api.xmrpool.net
@@ -680,6 +701,7 @@ verresof.com
 vg02h8z1ul.me
 viaxmr.com
 vid.pr0gramm.com
+vidzi.tv
 vjcyehtqm9.me
 vl8c4g7tmo.me
 vxelkrhl.info
@@ -692,6 +714,7 @@ web.clod.pw
 web.dle-news.pw
 web.minr.pw
 web.rocks.io
+web.stati.bid
 webassembly.stream
 webdisk.monerominer.rocks
 webmail.coinpot.co
@@ -925,6 +948,7 @@ ws1.370cabd5.space
 ws1.3c0cb3b4.space
 ws1.3d0cb547.space
 ws1.bmnr.pw
+ws1.bmst.pw
 ws1.coin-have.com
 ws1.g-content.bid
 ws1.minr.pw
@@ -952,6 +976,7 @@ ws2.370cabd5.space
 ws2.3c0cb3b4.space
 ws2.3d0cb547.space
 ws2.bmnr.pw
+ws2.bmst.pw
 ws2.coin-have.com
 ws2.g-content.bid
 ws2.statistic.date
