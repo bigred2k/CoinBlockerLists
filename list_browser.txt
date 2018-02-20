@@ -366,7 +366,6 @@ it.cookiescript.info
 itsmyturn.nablabee.com
 jasmine.noblock.pro
 jhondi33.duckdns.org
-joyreactor.cc
 jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
