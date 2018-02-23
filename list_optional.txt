@@ -91,6 +91,7 @@ elderhash.com
 electrum.org
 emercoin.com
 ether.cards
+ethereumproject.github.io
 evergreencoin.org
 faucet.evergreencoin.org
 files.a-ads.com
@@ -186,6 +187,7 @@ sftp.binance.com
 shop.trezor.io
 smtp.awesomeminer.com
 static.a-ads.com
+stats.ethc.io
 status.trezor.io
 stream.binance.com
 stream2.binance.com

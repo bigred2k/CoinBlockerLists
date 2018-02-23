@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 15 02 2018 22:15
+# Last modified: 23 02 2018 16:14
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
 0.0.0.0 803mine.com
@@ -94,6 +94,7 @@
 0.0.0.0 electrum.org
 0.0.0.0 emercoin.com
 0.0.0.0 ether.cards
+0.0.0.0 ethereumproject.github.io
 0.0.0.0 evergreencoin.org
 0.0.0.0 faucet.evergreencoin.org
 0.0.0.0 files.a-ads.com
@@ -189,6 +190,7 @@
 0.0.0.0 shop.trezor.io
 0.0.0.0 smtp.awesomeminer.com
 0.0.0.0 static.a-ads.com
+0.0.0.0 stats.ethc.io
 0.0.0.0 status.trezor.io
 0.0.0.0 stream.binance.com
 0.0.0.0 stream2.binance.com

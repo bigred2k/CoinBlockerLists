@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 22 02 2018 22:15
+# Last modified: 23 02 2018 16:14
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 1480876790.rsc.cdn77.org
@@ -381,6 +381,7 @@
 0.0.0.0 intactoffers.club
 0.0.0.0 intense.hashvault.pro
 0.0.0.0 intensecoin.crypto-webminer.com
+0.0.0.0 interestingz.pw
 0.0.0.0 ipv6.freebitco.in
 0.0.0.0 it.cookiescript.info
 0.0.0.0 itsmyturn.nablabee.com
@@ -540,6 +541,9 @@
 0.0.0.0 p.estream.to
 0.0.0.0 p.hemnes.win
 0.0.0.0 p.tidafors.xyz
+0.0.0.0 p1.interestingz.pw
+0.0.0.0 p2.interestingz.pw
+0.0.0.0 p3.interestingz.pw
 0.0.0.0 pan.whathyx.com
 0.0.0.0 panelsave.com
 0.0.0.0 papoto.com
@@ -1174,6 +1178,7 @@
 0.0.0.0 www.hashvault.pro
 0.0.0.0 www.hemnes.win
 0.0.0.0 www.infamylists.com
+0.0.0.0 www.interestingz.pw
 0.0.0.0 www.inwemo.com
 0.0.0.0 www.jsccnn.com
 0.0.0.0 www.jscdndel.com
