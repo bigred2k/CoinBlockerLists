@@ -87,6 +87,7 @@ dev.cointraffic.io
 docs.electrum.org
 download.electrum.org
 download.emercoin.com
+easypc.io
 elderhash.com
 electrum.org
 emercoin.com
