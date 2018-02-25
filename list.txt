@@ -263,7 +263,6 @@ autoconfig.cryptominingpool.eu
 autoconfig.ditcoin.io
 autodiscover.cryptominingpool.eu
 autodiscover.ditcoin.io
-avatar.pr0gramm.com
 avualrhg9p.bid
 axiom.br.nicehash.com
 axiom.eu.nicehash.com
@@ -1488,7 +1487,6 @@ ha256.mine.zpool.ca
 hal.dnb.io
 halibut.multipool.us
 hallaert.online
-hans.pr0gramm.com
 hash-to-coins.com
 hash.rigpool.com
 hashbag.cc:8688
@@ -1565,7 +1563,6 @@ hts.youbit.co.kr
 httpwww.crypto-webminer.com
 hub.miningpoolhub.com
 huiwiw.hit.gemius.pl
-hurensohn.pr0gramm.com
 hush-eu.coinblockers.com
 hush.2miners.com
 hush.2miners.ru
@@ -1590,7 +1587,6 @@ iisl7wpf.me
 im.forre.st
 images.coinbase.com
 img.jsecoin.com
-img.pr0gramm.com
 index.bithumb.com
 inf8.extremepool.org
 inf8.pool.minergate.com
@@ -2563,7 +2559,6 @@ pop3.cryptominingpool.eu
 potcoin.miningpoolhub.com
 power.wemineltc.com
 ppoi.org
-pr0gramm.com
 premiumstats.xyz
 prepaidcard.coincheck.com
 preprod.changelly.com
@@ -3127,7 +3122,6 @@ thewhizmarketing.com
 thewhizproducts.com
 thewise.com
 thread.multiminerapp.com
-thumb.pr0gramm.com
 tickets.nocroom.com
 tidafors.xyz
 timetravel.mine.zpool.ca
@@ -3306,7 +3300,6 @@ vestfoldtracker.pro
 vg02h8z1ul.me
 via.suprnova.cc
 viaxmr.com
-vid.pr0gramm.com
 vidfile.net
 vidzi.tv
 viewyng.com
@@ -3802,7 +3795,6 @@ wss.bithumb.com
 wss.nablabee.com
 wtm.monitoringservice.co
 wty46.com
-ww.pr0gramm.com
 ww1.extremepool.org
 ww8.adminer.com
 www-tb7c.pr0gramm.com
@@ -4031,7 +4023,6 @@ www.pool2.coinimp.com
 www.pooldd.com
 www.poolmining.org
 www.ppoi.org
-www.pr0gramm.com
 www.preprod.changelly.com
 www.prohash.net
 www.prohashing.com

@@ -93,7 +93,6 @@ auroramine.com
 authedmine.com
 authedwebmine.cz
 auto.monerise.com
-avatar.pr0gramm.com
 avualrhg9p.bid
 azvjudwr.info
 b.proxy4.nullrefexcep.com
@@ -366,7 +365,6 @@ gus.host
 gustaver.ddns.ne
 gustaver.ddns.net
 hallaert.online
-hans.pr0gramm.com
 hashforcash.us
 hashing.win
 hashto.cash
@@ -382,12 +380,10 @@ hodlers.party
 hodling.faith
 host.d-ns.ga
 huiwiw.hit.gemius.pl
-hurensohn.pr0gramm.com
 hzsod71wov.me
 igrid.org
 iisl7wpf.me
 img.jsecoin.com
-img.pr0gramm.com
 infamylists.com
 ingorob.com
 insdrbot.com
@@ -601,7 +597,6 @@ pool.sumokoin.hashvault.pro
 pool.supportxmr.com
 pool2.coinimp.com
 ppoi.org
-pr0gramm.com
 premiumstats.xyz
 pricefbcf.gq
 projectpoi.com
@@ -734,7 +729,6 @@ thepiratebay.cr
 thewhizmarketing.com
 thewhizproducts.com
 thewise.com
-thumb.pr0gramm.com
 tidafors.xyz
 todogecoin.biz
 toftofcal.com
@@ -766,7 +760,6 @@ veritrol.com
 verresof.com
 vg02h8z1ul.me
 viaxmr.com
-vid.pr0gramm.com
 vidfile.net
 vidzi.tv
 vjcyehtqm9.me
@@ -1174,7 +1167,6 @@ wss-2.monerise.com
 wss.nablabee.com
 wtm.monitoringservice.co
 wty46.com
-ww.pr0gramm.com
 ww8.adminer.com
 www-tb7c.pr0gramm.com
 www.2giga.link
@@ -1235,7 +1227,6 @@ www.pool.coinimp.com
 www.pool.cryptonoter.com
 www.pool2.coinimp.com
 www.ppoi.org
-www.pr0gramm.com
 www.rocks.io
 www.sbhmn-miner.com
 www.sparechange.io
