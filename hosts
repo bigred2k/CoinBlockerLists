@@ -1,6 +1,6 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donations: If you liked CoinBlockerLists, please feel free to donate / https://goo.gl/TcnbPe
-# Last modified: 25 02 2018 15:05
+# Last modified: 27 02 2018 17:19
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
@@ -162,6 +162,7 @@
 0.0.0.0 api.monero.hashvault.pro
 0.0.0.0 api.moneroocean.stream
 0.0.0.0 api.moneropool.com
+0.0.0.0 api.moneropool.nl
 0.0.0.0 api.moriaxmr.com
 0.0.0.0 api.multipool.us
 0.0.0.0 api.music.mypool.online
@@ -268,12 +269,14 @@
 0.0.0.0 autodiscover.cryptominingpool.eu
 0.0.0.0 autodiscover.ditcoin.io
 0.0.0.0 avualrhg9p.bid
+0.0.0.0 avualrhg9p0.bid
 0.0.0.0 axiom.br.nicehash.com
 0.0.0.0 axiom.eu.nicehash.com
 0.0.0.0 axiom.hk.nicehash.com
 0.0.0.0 axiom.in.nicehash.com
 0.0.0.0 axiom.jp.nicehash.com
 0.0.0.0 axiom.usa.nicehash.com
+0.0.0.0 axoncoho.tk
 0.0.0.0 azvjudwr.info
 0.0.0.0 b.pool.gq
 0.0.0.0 b.proxy4.nullrefexcep.com
@@ -305,10 +308,12 @@
 0.0.0.0 beetoken.com
 0.0.0.0 befirstcdn.com
 0.0.0.0 bella.suprnova.cc
+0.0.0.0 berateveng.ru
 0.0.0.0 berserkpl.net.pl
 0.0.0.0 best-p2pool.eu
 0.0.0.0 bestETNpool.com
 0.0.0.0 bestmobiworld.com
+0.0.0.0 bestsecurepractice.com
 0.0.0.0 bestxmrpool.com
 0.0.0.0 bet.webcoin.us
 0.0.0.0 beta-mining.bitcoin.cz
@@ -882,6 +887,7 @@
 0.0.0.0 deny.minemonero.pro
 0.0.0.0 depool.ckpool.org
 0.0.0.0 depoolstratum.ckpool.org
+0.0.0.0 depttake.ga
 0.0.0.0 dero.coinwire.eu
 0.0.0.0 dero.monerise.com
 0.0.0.0 destratum.ckpool.org
@@ -1305,6 +1311,7 @@
 0.0.0.0 fix.exchange.coinbase.com
 0.0.0.0 flare-analytics.com
 0.0.0.0 flo.suprnova.cc
+0.0.0.0 flophous.cf
 0.0.0.0 flypool.org
 0.0.0.0 fonero.hashvault.pro
 0.0.0.0 for.stringengines.com
@@ -1540,6 +1547,7 @@
 0.0.0.0 hitbtc.zone
 0.0.0.0 hive.tubetitties.com
 0.0.0.0 hiy.vidzi.tv
+0.0.0.0 hjnbvg.ru
 0.0.0.0 hk.ltcrabbit.com
 0.0.0.0 hk01.supportxmr.com
 0.0.0.0 hk02.supportxmr.com
@@ -1662,6 +1670,7 @@
 0.0.0.0 json.stringengines.com
 0.0.0.0 jyhfuqoh.info
 0.0.0.0 k.zsw8.cc
+0.0.0.0 kalipasindra.online
 0.0.0.0 kano.is
 0.0.0.0 kano.space
 0.0.0.0 karbo.coinwire.eu
@@ -1683,6 +1692,7 @@
 0.0.0.0 kho3au7l4z.me
 0.0.0.0 kickass.cd
 0.0.0.0 kinohabr.net
+0.0.0.0 kippbeak.cf
 0.0.0.0 kippo.eu
 0.0.0.0 kissdoujin.com
 0.0.0.0 kisshentai.net
@@ -1824,6 +1834,7 @@
 0.0.0.0 m.btcchina.com
 0.0.0.0 m.minergate.com
 0.0.0.0 m.poloniex.com
+0.0.0.0 m.pr0gramm.com
 0.0.0.0 m.sighash.info
 0.0.0.0 m001.monerise.com
 0.0.0.0 m1.monerise.com
@@ -2038,6 +2049,7 @@
 0.0.0.0 minzpool.ml
 0.0.0.0 mixin.lindon-pool.win
 0.0.0.0 mixpools.org
+0.0.0.0 mjija.github.io
 0.0.0.0 mlcr0soft.gq
 0.0.0.0 mlcr0soft.ml
 0.0.0.0 mlcr0soft.tk
@@ -2080,6 +2092,7 @@
 0.0.0.0 monerominers.net
 0.0.0.0 moneroocean.stream
 0.0.0.0 moneropool.com
+0.0.0.0 moneropool.nl
 0.0.0.0 moneropool.phoenix.dj
 0.0.0.0 moneropool.ru
 0.0.0.0 monetaryunit.miningpoolhub.com
@@ -2234,6 +2247,7 @@
 0.0.0.0 newsupport.prohashing.com
 0.0.0.0 next.bitcore.io
 0.0.0.0 nextcloud.coinfirm.io
+0.0.0.0 nexttime.ovh
 0.0.0.0 nfwebminer.com
 0.0.0.0 nicehash.com
 0.0.0.0 nidscom.io
@@ -2410,6 +2424,7 @@
 0.0.0.0 pasl.fairpool.cloud
 0.0.0.0 pasl.fairpool.xyz
 0.0.0.0 pasl.suprnova.cc
+0.0.0.0 pasoherb.gq
 0.0.0.0 passport.btcchina.com
 0.0.0.0 pat.ron.si
 0.0.0.0 pay.bithumb.com
@@ -2644,6 +2659,7 @@
 0.0.0.0 rapidvideo.com
 0.0.0.0 ratchetcoins.nl
 0.0.0.0 ratchetmining.com
+0.0.0.0 rawgit.com
 0.0.0.0 rcyclmnr.com
 0.0.0.0 rcyclmnrepv.com
 0.0.0.0 rcyclmnrhgntry.com
@@ -3376,6 +3392,7 @@
 0.0.0.0 webminerpool.com
 0.0.0.0 webmining.co
 0.0.0.0 websocket.btcchina.com
+0.0.0.0 webwidgetz.duckdns.org
 0.0.0.0 webxmr.com
 0.0.0.0 wemine.pro
 0.0.0.0 wgc.coin-miners.info
@@ -3817,6 +3834,7 @@
 0.0.0.0 www.antpool.com
 0.0.0.0 www.api.bitaccess.co
 0.0.0.0 www.api.changelly.com
+0.0.0.0 www.api.moneropool.nl
 0.0.0.0 www.authedmine.com
 0.0.0.0 www.baiduccdn1.com
 0.0.0.0 www.beagamer.club
@@ -3982,6 +4000,7 @@
 0.0.0.0 www.miner.center
 0.0.0.0 www.minergate.com
 0.0.0.0 www.minero.cc
+0.0.0.0 www.miners.pro
 0.0.0.0 www.minertopia.org
 0.0.0.0 www.minexmr.com
 0.0.0.0 www.minez.zone
@@ -3997,6 +4016,7 @@
 0.0.0.0 www.monerominer.rocks
 0.0.0.0 www.moneroocean.stream
 0.0.0.0 www.moneropool.com
+0.0.0.0 www.moneropool.nl
 0.0.0.0 www.monkeyminer.net
 0.0.0.0 www.moonbit.co.in
 0.0.0.0 www.moriaxmr.com

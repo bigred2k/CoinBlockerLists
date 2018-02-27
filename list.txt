@@ -158,6 +158,7 @@ api.monerise.com
 api.monero.hashvault.pro
 api.moneroocean.stream
 api.moneropool.com
+api.moneropool.nl
 api.moriaxmr.com
 api.multipool.us
 api.music.mypool.online
@@ -263,13 +264,16 @@ autoconfig.cryptominingpool.eu
 autoconfig.ditcoin.io
 autodiscover.cryptominingpool.eu
 autodiscover.ditcoin.io
+avatar.pr0gramm.com
 avualrhg9p.bid
+avualrhg9p0.bid
 axiom.br.nicehash.com
 axiom.eu.nicehash.com
 axiom.hk.nicehash.com
 axiom.in.nicehash.com
 axiom.jp.nicehash.com
 axiom.usa.nicehash.com
+axoncoho.tk
 azvjudwr.info
 b.pool.gq
 b.proxy4.nullrefexcep.com
@@ -301,10 +305,12 @@ becanium.com
 beetoken.com
 befirstcdn.com
 bella.suprnova.cc
+berateveng.ru
 berserkpl.net.pl
 best-p2pool.eu
 bestETNpool.com
 bestmobiworld.com
+bestsecurepractice.com
 bestxmrpool.com
 bet.webcoin.us
 beta-mining.bitcoin.cz
@@ -878,6 +884,7 @@ denki.coincheck.com
 deny.minemonero.pro
 depool.ckpool.org
 depoolstratum.ckpool.org
+depttake.ga
 dero.coinwire.eu
 dero.monerise.com
 destratum.ckpool.org
@@ -1301,6 +1308,7 @@ fili.tv
 fix.exchange.coinbase.com
 flare-analytics.com
 flo.suprnova.cc
+flophous.cf
 flypool.org
 fonero.hashvault.pro
 for.stringengines.com
@@ -1536,6 +1544,7 @@ hitbtc.financial
 hitbtc.zone
 hive.tubetitties.com
 hiy.vidzi.tv
+hjnbvg.ru
 hk.ltcrabbit.com
 hk01.supportxmr.com
 hk02.supportxmr.com
@@ -1658,6 +1667,7 @@ jsecoin.com
 json.stringengines.com
 jyhfuqoh.info
 k.zsw8.cc
+kalipasindra.online
 kano.is
 kano.space
 karbo.coinwire.eu
@@ -1679,6 +1689,7 @@ kgd.node.krb.mypool.online
 kho3au7l4z.me
 kickass.cd
 kinohabr.net
+kippbeak.cf
 kippo.eu
 kissdoujin.com
 kisshentai.net
@@ -2035,6 +2046,7 @@ mint.bitminter.com
 minzpool.ml
 mixin.lindon-pool.win
 mixpools.org
+mjija.github.io
 mlcr0soft.gq
 mlcr0soft.ml
 mlcr0soft.tk
@@ -2077,6 +2089,7 @@ monerominer.rocks
 monerominers.net
 moneroocean.stream
 moneropool.com
+moneropool.nl
 moneropool.phoenix.dj
 moneropool.ru
 monetaryunit.miningpoolhub.com
@@ -2231,6 +2244,7 @@ news.dogecoin.dog
 newsupport.prohashing.com
 next.bitcore.io
 nextcloud.coinfirm.io
+nexttime.ovh
 nfwebminer.com
 nicehash.com
 nidscom.io
@@ -2407,6 +2421,7 @@ pascal3.science
 pasl.fairpool.cloud
 pasl.fairpool.xyz
 pasl.suprnova.cc
+pasoherb.gq
 passport.btcchina.com
 pat.ron.si
 pay.bithumb.com
@@ -3373,6 +3388,7 @@ webminer.pro
 webminerpool.com
 webmining.co
 websocket.btcchina.com
+webwidgetz.duckdns.org
 webxmr.com
 wemine.pro
 wgc.coin-miners.info
@@ -3795,6 +3811,7 @@ wss.bithumb.com
 wss.nablabee.com
 wtm.monitoringservice.co
 wty46.com
+ww.pr0gramm.com
 ww1.extremepool.org
 ww8.adminer.com
 www-tb7c.pr0gramm.com
@@ -3814,6 +3831,7 @@ www.analytics.blue
 www.antpool.com
 www.api.bitaccess.co
 www.api.changelly.com
+www.api.moneropool.nl
 www.authedmine.com
 www.baiduccdn1.com
 www.beagamer.club
@@ -3979,6 +3997,7 @@ www.minemonero.pro
 www.miner.center
 www.minergate.com
 www.minero.cc
+www.miners.pro
 www.minertopia.org
 www.minexmr.com
 www.minez.zone
@@ -3994,6 +4013,7 @@ www.monero.crypto-webminer.com
 www.monerominer.rocks
 www.moneroocean.stream
 www.moneropool.com
+www.moneropool.nl
 www.monkeyminer.net
 www.moonbit.co.in
 www.moriaxmr.com
