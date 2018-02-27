@@ -1,6 +1,6 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donations: If you liked CoinBlockerLists, please feel free to donate / https://goo.gl/TcnbPe
-# Last modified: 27 02 2018 17:19
+# Last modified: 27 02 2018 18:52
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
@@ -61,6 +61,7 @@
 0.0.0.0 adv.cryptopay.me
 0.0.0.0 adzcoin.miningpoolhub.com
 0.0.0.0 ae.minergate.com
+0.0.0.0 aeon.chinaenter.cn
 0.0.0.0 aeon.cryptoserb.com
 0.0.0.0 aeon.extremepool.org
 0.0.0.0 aeon.hashvault.pro
@@ -71,6 +72,7 @@
 0.0.0.0 aeon.pools.e-scavo.net.ar
 0.0.0.0 aeon.poolto.be
 0.0.0.0 aeon.teracycle.net
+0.0.0.0 aeonn.chinaenter.cn
 0.0.0.0 affiliate.hitbtc.com
 0.0.0.0 afflow.18-plus.net
 0.0.0.0 afminer.com
@@ -163,6 +165,7 @@
 0.0.0.0 api.moneroocean.stream
 0.0.0.0 api.moneropool.com
 0.0.0.0 api.moneropool.nl
+0.0.0.0 api.moneropro.com
 0.0.0.0 api.moriaxmr.com
 0.0.0.0 api.multipool.us
 0.0.0.0 api.music.mypool.online
@@ -597,6 +600,7 @@
 0.0.0.0 chicago01.aeon.hashvault.pro
 0.0.0.0 chicago01.electroneum.hashvault.pro
 0.0.0.0 chimachinenow.com
+0.0.0.0 chinaenter.cn
 0.0.0.0 chmproxy.bid
 0.0.0.0 ci.z.cash
 0.0.0.0 cid005.la.nocroom.com
@@ -608,6 +612,7 @@
 0.0.0.0 clicktrackerfast.pro
 0.0.0.0 clickwith.bid
 0.0.0.0 clickwith.date
+0.0.0.0 clients.moneropro.com
 0.0.0.0 cliggi.download
 0.0.0.0 clo.epool.io
 0.0.0.0 clod.pw
@@ -830,6 +835,7 @@
 0.0.0.0 data1.mia.nocroom.com
 0.0.0.0 data2.mia.nocroom.com
 0.0.0.0 data3.mia.nocroom.com
+0.0.0.0 database.minercircle.com
 0.0.0.0 datacn.btcchina.com
 0.0.0.0 db.xmrpool.net
 0.0.0.0 dbix.coin-miners.info
@@ -1140,6 +1146,7 @@
 0.0.0.0 etn-eu1.nanopool.org
 0.0.0.0 etn-eu2.nanopool.org
 0.0.0.0 etn-us-west1.nanopool.org
+0.0.0.0 etn.chinaenter.cn
 0.0.0.0 etn.coinblockers.com
 0.0.0.0 etn.cpufan.club
 0.0.0.0 etn.crypto-coins.club
@@ -1954,6 +1961,7 @@
 0.0.0.0 mine.krb.fairpool.xyz
 0.0.0.0 mine.mine.bz
 0.0.0.0 mine.moneropool.com
+0.0.0.0 mine.moneropro.com
 0.0.0.0 mine.music.mypool.online
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 mine.njbtcmine.net
@@ -2095,6 +2103,7 @@
 0.0.0.0 moneropool.nl
 0.0.0.0 moneropool.phoenix.dj
 0.0.0.0 moneropool.ru
+0.0.0.0 moneropro.com
 0.0.0.0 monetaryunit.miningpoolhub.com
 0.0.0.0 monitor.antpool.com
 0.0.0.0 monitor.cryptopay.me
@@ -2380,6 +2389,7 @@
 0.0.0.0 p.hemnes.win
 0.0.0.0 p.sunnyjuly.gq
 0.0.0.0 p.tidafors.xyz
+0.0.0.0 p00ls.net
 0.0.0.0 p1.interestingz.pw
 0.0.0.0 p2.interestingz.pw
 0.0.0.0 p2p-multipool.eu
@@ -2543,6 +2553,7 @@
 0.0.0.0 pool.monero.hashvault.pro
 0.0.0.0 pool.moneropool.com
 0.0.0.0 pool.moneropool.nl
+0.0.0.0 pool.moneropro.com
 0.0.0.0 pool.moriaxmr.com
 0.0.0.0 pool.paycoinalt.com
 0.0.0.0 pool.qp.si
@@ -3108,6 +3119,7 @@
 0.0.0.0 test.eth.pp.ua
 0.0.0.0 test.gigarho.com
 0.0.0.0 test.ledgerwallet.com
+0.0.0.0 test.minercircle.com
 0.0.0.0 test.miningpoolhub.com
 0.0.0.0 test.minr.pw
 0.0.0.0 testbcc.bitconnect.co
@@ -3874,6 +3886,7 @@
 0.0.0.0 www.bytecoin.crypto-webminer.com
 0.0.0.0 www.cash.bitaccess.co
 0.0.0.0 www.changelly.com
+0.0.0.0 www.chinaenter.cn
 0.0.0.0 www.cid005.la.nocroom.com
 0.0.0.0 www.ckpool.org
 0.0.0.0 www.clickgem.com
@@ -3998,6 +4011,7 @@
 0.0.0.0 www.minecraftpool.com
 0.0.0.0 www.minemonero.pro
 0.0.0.0 www.miner.center
+0.0.0.0 www.minercircle.com
 0.0.0.0 www.minergate.com
 0.0.0.0 www.minero.cc
 0.0.0.0 www.miners.pro
@@ -4017,6 +4031,7 @@
 0.0.0.0 www.moneroocean.stream
 0.0.0.0 www.moneropool.com
 0.0.0.0 www.moneropool.nl
+0.0.0.0 www.moneropro.com
 0.0.0.0 www.monkeyminer.net
 0.0.0.0 www.moonbit.co.in
 0.0.0.0 www.moriaxmr.com
@@ -4032,6 +4047,7 @@
 0.0.0.0 www.nullrefexcep.com
 0.0.0.0 www.op.bitaccess.co
 0.0.0.0 www.orb.dnb.io
+0.0.0.0 www.p00ls.net
 0.0.0.0 www.p2pool.in
 0.0.0.0 www.p2pool.info
 0.0.0.0 www.p2pool.org
@@ -4189,6 +4205,7 @@
 0.0.0.0 xmr.alimabi.cn
 0.0.0.0 xmr.bohemianpool.com
 0.0.0.0 xmr.btgirl.com.cn
+0.0.0.0 xmr.chinaenter.cn
 0.0.0.0 xmr.coinlab.biz
 0.0.0.0 xmr.coinmine.pl
 0.0.0.0 xmr.cpufan.club
@@ -4202,10 +4219,12 @@
 0.0.0.0 xmr.lindon-pool.win
 0.0.0.0 xmr.minecraftpool.com
 0.0.0.0 xmr.miner.center
+0.0.0.0 xmr.minercircle.com
 0.0.0.0 xmr.minerhills.com
 0.0.0.0 xmr.mining.best
 0.0.0.0 xmr.miningspeed.com
 0.0.0.0 xmr.mixpools.org
+0.0.0.0 xmr.moneropro.com
 0.0.0.0 xmr.mypool.name
 0.0.0.0 xmr.mypool.online
 0.0.0.0 xmr.nanopool.org
