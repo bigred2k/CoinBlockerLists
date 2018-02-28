@@ -1,6 +1,6 @@
 # Description: This list contains all entries wrongly listed in the CoinBlockerLists.
 # Donations: If you liked CoinBlockerLists, please feel free to donate / https://goo.gl/TcnbPe
-# Last modified: 27 02 2018 17:19
+# Last modified: 28 02 2018 19:32
 # We cannot guarantee the accuracy and completeness of the information contained in this document.
 # [CoinBlocker List by ZeroDot1]
 hans.pr0gramm.com
@@ -9,6 +9,7 @@ img.pr0gramm.com
 joyreactor.cc
 m.pr0gramm.com
 pr0gramm.com
+rawgit.com
 thumb.pr0gramm.com
 vid.pr0gramm.com
 www.pr0gramm.com
