@@ -2336,6 +2336,7 @@ ns2alt.poloniex.com
 ns3alt.poloniex.com
 ns4alt.poloniex.com
 nullrefexcep.com
+nunu-001.now.sh
 nwx1.btcchina.com
 ny.cryptity.com
 ny1.minez.zone
