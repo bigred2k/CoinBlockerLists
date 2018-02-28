@@ -19,6 +19,7 @@
 3c0cb3b4.space
 3d0cb547.space
 50bots.nullrefexcep.com
+58coin.com
 5vz3cfs0yd.me
 64.mymyxmra.ru
 64.myxmr.pw
@@ -377,6 +378,7 @@ bitclub.network
 bitclubnetwork.com
 bitcoin-cash.miningpoolhub.com
 bitcoin-gold.miningpoolhub.com
+bitcoin-india.org
 bitcoin-russia.ru
 bitcoin.bitaccess.co
 bitcoin.coin-miners.info
@@ -1968,6 +1970,7 @@ mine.njbtcmine.net
 mine.nnc.mypool.online
 mine.pasl.fairpool.xyz
 mine.pirl.mypool.online
+mine.poolmin.com
 mine.sumo.fairpool.xyz
 mine.test.fairpool.xyz
 mine.torrent.pw
@@ -2511,6 +2514,7 @@ pool-vegas.xmrpool.net
 pool.aeon.hashvault.pro
 pool.antpool.com
 pool.ar-net.info
+pool.bitcoin-india.org
 pool.bitcoin.com
 pool.bitcoin.cz
 pool.bohemianpool.com
@@ -3193,6 +3197,7 @@ turnsocial.com
 turnsocial.now.sh
 tzc.suprnova.cc
 u.forre.st
+u002fhash.58coin.com
 ubiq.coin-miners.info
 ubiq.drowningpool.net
 ubiq.fairpool.xyz
@@ -3857,6 +3862,7 @@ www.biberukalap.com
 www.billing.nocroom.com
 www.bitaccess.co
 www.bitclub.bz
+www.bitcoin-india.org
 www.bitcoin-russia.ru
 www.bitcoin.bitaccess.co
 www.bitcoin.cz
@@ -4062,6 +4068,7 @@ www.pool.coinimp.com
 www.pool.cryptonoter.com
 www.pool2.coinimp.com
 www.pooldd.com
+www.poolmin.com
 www.poolmining.org
 www.ppoi.org
 www.preprod.changelly.com

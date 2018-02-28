@@ -1,6 +1,6 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donations: If you liked CoinBlockerLists, please feel free to donate / https://goo.gl/TcnbPe
-# Last modified: 28 02 2018 20:25
+# Last modified: 28 02 2018 21:02
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
@@ -23,6 +23,7 @@
 0.0.0.0 3c0cb3b4.space
 0.0.0.0 3d0cb547.space
 0.0.0.0 50bots.nullrefexcep.com
+0.0.0.0 58coin.com
 0.0.0.0 5vz3cfs0yd.me
 0.0.0.0 64.mymyxmra.ru
 0.0.0.0 64.myxmr.pw
@@ -380,6 +381,7 @@
 0.0.0.0 bitclubnetwork.com
 0.0.0.0 bitcoin-cash.miningpoolhub.com
 0.0.0.0 bitcoin-gold.miningpoolhub.com
+0.0.0.0 bitcoin-india.org
 0.0.0.0 bitcoin-russia.ru
 0.0.0.0 bitcoin.bitaccess.co
 0.0.0.0 bitcoin.coin-miners.info
@@ -1971,6 +1973,7 @@
 0.0.0.0 mine.nnc.mypool.online
 0.0.0.0 mine.pasl.fairpool.xyz
 0.0.0.0 mine.pirl.mypool.online
+0.0.0.0 mine.poolmin.com
 0.0.0.0 mine.sumo.fairpool.xyz
 0.0.0.0 mine.test.fairpool.xyz
 0.0.0.0 mine.torrent.pw
@@ -2514,6 +2517,7 @@
 0.0.0.0 pool.aeon.hashvault.pro
 0.0.0.0 pool.antpool.com
 0.0.0.0 pool.ar-net.info
+0.0.0.0 pool.bitcoin-india.org
 0.0.0.0 pool.bitcoin.com
 0.0.0.0 pool.bitcoin.cz
 0.0.0.0 pool.bohemianpool.com
@@ -3196,6 +3200,7 @@
 0.0.0.0 turnsocial.now.sh
 0.0.0.0 tzc.suprnova.cc
 0.0.0.0 u.forre.st
+0.0.0.0 u002fhash.58coin.com
 0.0.0.0 ubiq.coin-miners.info
 0.0.0.0 ubiq.drowningpool.net
 0.0.0.0 ubiq.fairpool.xyz
@@ -3859,6 +3864,7 @@
 0.0.0.0 www.billing.nocroom.com
 0.0.0.0 www.bitaccess.co
 0.0.0.0 www.bitclub.bz
+0.0.0.0 www.bitcoin-india.org
 0.0.0.0 www.bitcoin-russia.ru
 0.0.0.0 www.bitcoin.bitaccess.co
 0.0.0.0 www.bitcoin.cz
@@ -4064,6 +4070,7 @@
 0.0.0.0 www.pool.cryptonoter.com
 0.0.0.0 www.pool2.coinimp.com
 0.0.0.0 www.pooldd.com
+0.0.0.0 www.poolmin.com
 0.0.0.0 www.poolmining.org
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.preprod.changelly.com
