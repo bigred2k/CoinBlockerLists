@@ -1,6 +1,6 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donations: If you liked CoinBlockerLists, please feel free to donate / https://goo.gl/TcnbPe
-# Last modified: 28 02 2018 19:32
+# Last modified: 28 02 2018 20:25
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
@@ -802,6 +802,7 @@
 0.0.0.0 cyr.minertopia.org
 0.0.0.0 d.cfcdist.gdn
 0.0.0.0 d.cfcnet.gdn
+0.0.0.0 d.cfcnet.top
 0.0.0.0 d.cpufan.club
 0.0.0.0 d1.eth.pp.ua
 0.0.0.0 d1e1rbybdt265x.cloudfront.net
@@ -1503,6 +1504,7 @@
 0.0.0.0 h.nanopool.org
 0.0.0.0 ha256.mine.zpool.ca
 0.0.0.0 hal.dnb.io
+0.0.0.0 halacostminer.000webhostapp.com
 0.0.0.0 halibut.multipool.us
 0.0.0.0 hallaert.online
 0.0.0.0 hash-to-coins.com
@@ -1675,6 +1677,7 @@
 0.0.0.0 jscdndel.com
 0.0.0.0 jsecoin.com
 0.0.0.0 json.stringengines.com
+0.0.0.0 julrina.000webhostapp.com
 0.0.0.0 jyhfuqoh.info
 0.0.0.0 k.zsw8.cc
 0.0.0.0 kalipasindra.online
@@ -2926,6 +2929,7 @@
 0.0.0.0 speedtest.in.nicehash.com
 0.0.0.0 speedtest.jp.nicehash.com
 0.0.0.0 speedtest.usa.nicehash.com
+0.0.0.0 spiky-inclinations.000webhostapp.com
 0.0.0.0 spr.suprnova.cc
 0.0.0.0 sql.eth.pp.ua
 0.0.0.0 sr.cookiescript.info
@@ -3335,6 +3339,7 @@
 0.0.0.0 viewyng.com
 0.0.0.0 vip.antpool.com
 0.0.0.0 vip.btcchina.com
+0.0.0.0 vip.cfcnet.top
 0.0.0.0 vip.slushpool.com
 0.0.0.0 vip2140.minergate.com
 0.0.0.0 vip48.wemineltc.com
@@ -4171,6 +4176,8 @@
 0.0.0.0 xdn.miner.center
 0.0.0.0 xdn.pool.minergate.com
 0.0.0.0 xdn.poolto.be
+0.0.0.0 xenafiter.000webhostapp.com
+0.0.0.0 xerox300.000webhostapp.com
 0.0.0.0 xevan.mine.zpool.ca
 0.0.0.0 xgmc6lu8fs.me
 0.0.0.0 xinchao13.gq

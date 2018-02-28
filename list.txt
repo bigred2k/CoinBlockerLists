@@ -799,6 +799,7 @@ cyg2016.xyz
 cyr.minertopia.org
 d.cfcdist.gdn
 d.cfcnet.gdn
+d.cfcnet.top
 d.cpufan.club
 d1.eth.pp.ua
 d1e1rbybdt265x.cloudfront.net
@@ -1500,6 +1501,7 @@ gustaver.ddns.net
 h.nanopool.org
 ha256.mine.zpool.ca
 hal.dnb.io
+halacostminer.000webhostapp.com
 halibut.multipool.us
 hallaert.online
 hash-to-coins.com
@@ -1672,6 +1674,7 @@ jsccnn.com
 jscdndel.com
 jsecoin.com
 json.stringengines.com
+julrina.000webhostapp.com
 jyhfuqoh.info
 k.zsw8.cc
 kalipasindra.online
@@ -2923,6 +2926,7 @@ speedtest.hk.nicehash.com
 speedtest.in.nicehash.com
 speedtest.jp.nicehash.com
 speedtest.usa.nicehash.com
+spiky-inclinations.000webhostapp.com
 spr.suprnova.cc
 sql.eth.pp.ua
 sr.cookiescript.info
@@ -3332,6 +3336,7 @@ vidzi.tv
 viewyng.com
 vip.antpool.com
 vip.btcchina.com
+vip.cfcnet.top
 vip.slushpool.com
 vip2140.minergate.com
 vip48.wemineltc.com
@@ -4169,6 +4174,8 @@ xdn.cpufan.club
 xdn.miner.center
 xdn.pool.minergate.com
 xdn.poolto.be
+xenafiter.000webhostapp.com
+xerox300.000webhostapp.com
 xevan.mine.zpool.ca
 xgmc6lu8fs.me
 xinchao13.gq
