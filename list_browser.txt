@@ -466,6 +466,7 @@ main.minero.cc
 main.xmrpool.net
 manila-1.xmrpool.net
 marcycoin.org
+marta-js.github.io
 mas-onjs.github.io
 mataharirama.xyz
 mebablo.com
@@ -749,6 +750,7 @@ toftofcal.com
 tokyodrift.ga
 tor.monerise.com
 tracking.freebitco.in
+traffic-optical-service.info
 traffic.tc-clicks.com
 tubetitties.com
 tulip18.com

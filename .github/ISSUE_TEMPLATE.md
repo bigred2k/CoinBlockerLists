@@ -10,8 +10,8 @@
 
 ### Log Files and Pages Source code:
 
-Note: Please use Ghostbin for source code, this makes my work easier.
-https://ghostbin.com/ 
+Note: Please use Hastebin.com for source code, this makes my work easier.
+https://hastebin.com/
 
 ### URL and IPlists:
 
