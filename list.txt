@@ -219,6 +219,7 @@ ar.changelly.com
 arcticrise.com
 argo.coin-miners.info
 aricoin.miningpoolhub.com
+as.cfcdist.loan
 as.cfcnet.top
 as1.cfcnet.gdn
 asc.coin-miners.info
@@ -613,6 +614,7 @@ cemsenik.qp.si
 centralcavern.uk
 cfcd.duckdns.org
 cfcdist.gdn
+cfcdist.loan
 cfceu.duckdns.org
 cfcnet.gdn
 cfcnet.top
@@ -1229,6 +1231,7 @@ eu.bitcoin.cz
 eu.bohemianpool.com
 eu.btgpool.pro
 eu.centralcavern.uk
+eu.cfcdist.loan
 eu.cfcnet.top
 eu.coinblockers.com
 eu.dbixmine.pro
@@ -1456,6 +1459,7 @@ fromonetilltwo.ga
 front-stage.hashflare.io
 front.hashflare.io
 front2.coinfirm.io
+fruitice.realnetwrk.com
 ftc-neo.give-me-coins.com
 ftc.dnb.io
 ftc.give-me-coins.com
@@ -2969,6 +2973,7 @@ sighash.info
 sigsegv.z.cash
 sigt-api.suprnova.cc
 sigt.suprnova.cc
+silimbompom.com
 silver.crypto.csgocpu.com
 singapore.minemonero.pro
 singapore01.minemonero.pro
@@ -3235,6 +3240,7 @@ sxcdn5.herokuapp.com
 sxcdn6.now.sh
 sydney01.minemonero.pro
 sydney01.monero.hashvault.pro
+synconnector.com
 synx.suprnova.cc
 sys.poolto.be
 t.analytics.blue
@@ -3393,6 +3399,7 @@ us-west.siamining.com
 us-west1.nanopool.org
 us-west2.multipool.us
 us.bitcoin.cz
+us.cfcdist.loan
 us.cfcnet.gdn
 us.cfcnet.top
 us.clevermining.com

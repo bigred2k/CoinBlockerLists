@@ -81,6 +81,7 @@ apib.monerise.com
 apin.monerise.com
 app.pr0gramm.com
 aqqgli3vle.bid
+as.cfcdist.loan
 as.cfcnet.top
 as1.cfcnet.gdn
 aservices.party
@@ -157,6 +158,7 @@ cdnfile.xyz
 cdns.ws
 cfcd.duckdns.org
 cfcdist.gdn
+cfcdist.loan
 cfceu.duckdns.org
 cfcnet.gdn
 cfcnet.top
@@ -302,6 +304,7 @@ etacontent.com
 etn.cpufan.club
 etn.spacepools.org
 etnpool.minekitten.io
+eu.cfcdist.loan
 eu.cfcnet.top
 eu.hatevery.info
 eu.monerise.com
@@ -339,6 +342,7 @@ freecontent.racing
 freecontent.stream
 fresh-js.bitbucket.io
 freshrefresher.com
+fruitice.realnetwrk.com
 ftp.coinhive-manager.com
 ftp.coinlab.biz
 full.pr0gramm.com
@@ -671,6 +675,7 @@ server.adless.io
 server.jsecoin.com
 server4.nullrefexcep.com
 shrink-service.it
+silimbompom.com
 silver.crypto.csgocpu.com
 singapore01.monero.hashvault.pro
 site.coinnebula.com
@@ -728,6 +733,7 @@ sxcdn4.now.sh
 sxcdn5.herokuapp.com
 sxcdn6.now.sh
 sydney01.monero.hashvault.pro
+synconnector.com
 t.analytics.blue
 tazm9p7tso.trade
 techhome-js.github.io
@@ -759,6 +765,7 @@ turnsocial.now.sh
 uebawtz7.me
 ullnot.download
 us-stratum.viaxmr.com
+us.cfcdist.loan
 us.cfcnet.gdn
 us.cfcnet.top
 us.moneroocean.stream

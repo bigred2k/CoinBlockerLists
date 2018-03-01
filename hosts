@@ -1,6 +1,6 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donations: If you liked CoinBlockerLists, please feel free to donate / https://goo.gl/TcnbPe
-# Last modified: 01 03 2018 21:10
+# Last modified: 01 03 2018 21:31
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 10k.suprnova.cc
@@ -223,6 +223,7 @@
 0.0.0.0 arcticrise.com
 0.0.0.0 argo.coin-miners.info
 0.0.0.0 aricoin.miningpoolhub.com
+0.0.0.0 as.cfcdist.loan
 0.0.0.0 as.cfcnet.top
 0.0.0.0 as1.cfcnet.gdn
 0.0.0.0 asc.coin-miners.info
@@ -617,6 +618,7 @@
 0.0.0.0 centralcavern.uk
 0.0.0.0 cfcd.duckdns.org
 0.0.0.0 cfcdist.gdn
+0.0.0.0 cfcdist.loan
 0.0.0.0 cfceu.duckdns.org
 0.0.0.0 cfcnet.gdn
 0.0.0.0 cfcnet.top
@@ -1233,6 +1235,7 @@
 0.0.0.0 eu.bohemianpool.com
 0.0.0.0 eu.btgpool.pro
 0.0.0.0 eu.centralcavern.uk
+0.0.0.0 eu.cfcdist.loan
 0.0.0.0 eu.cfcnet.top
 0.0.0.0 eu.coinblockers.com
 0.0.0.0 eu.dbixmine.pro
@@ -1460,6 +1463,7 @@
 0.0.0.0 front-stage.hashflare.io
 0.0.0.0 front.hashflare.io
 0.0.0.0 front2.coinfirm.io
+0.0.0.0 fruitice.realnetwrk.com
 0.0.0.0 ftc-neo.give-me-coins.com
 0.0.0.0 ftc.dnb.io
 0.0.0.0 ftc.give-me-coins.com
@@ -2973,6 +2977,7 @@
 0.0.0.0 sigsegv.z.cash
 0.0.0.0 sigt-api.suprnova.cc
 0.0.0.0 sigt.suprnova.cc
+0.0.0.0 silimbompom.com
 0.0.0.0 silver.crypto.csgocpu.com
 0.0.0.0 singapore.minemonero.pro
 0.0.0.0 singapore01.minemonero.pro
@@ -3239,6 +3244,7 @@
 0.0.0.0 sxcdn6.now.sh
 0.0.0.0 sydney01.minemonero.pro
 0.0.0.0 sydney01.monero.hashvault.pro
+0.0.0.0 synconnector.com
 0.0.0.0 synx.suprnova.cc
 0.0.0.0 sys.poolto.be
 0.0.0.0 t.analytics.blue
@@ -3397,6 +3403,7 @@
 0.0.0.0 us-west1.nanopool.org
 0.0.0.0 us-west2.multipool.us
 0.0.0.0 us.bitcoin.cz
+0.0.0.0 us.cfcdist.loan
 0.0.0.0 us.cfcnet.gdn
 0.0.0.0 us.cfcnet.top
 0.0.0.0 us.clevermining.com
