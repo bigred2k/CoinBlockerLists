@@ -1,6 +1,6 @@
 # Description: This list contains broken or incorrect URLs.
 # Donations: If you liked CoinBlockerLists, please feel free to donate / https://goo.gl/TcnbPe
-# Last modified: 25 02 2018 00:00
+# Last modified: 04 03 2018 21:44
 # This file contains all invalid hosts
 abc.pema.cl
 azvjudwr.info
@@ -24,3 +24,4 @@ crywebber.github.io
 piti.bplaced.net
 browsealoud.com
 latimes-graphics-media.s3.amazonaws.com/js/leaflet.fullscreen-master/Control.FullScreen.js
+8jd2lfsq.me
