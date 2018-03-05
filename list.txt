@@ -35,6 +35,7 @@
 Free4Faucet.com
 Internetresearch.is
 a-o.ninja
+a.doko.moe
 a.pool.ml
 a.proxy4.nullrefexcep.com
 a.proxy5.nullrefexcep.com
@@ -2010,6 +2011,7 @@ market.minertopia.org
 marta-js.github.io
 maru.suprnova.cc
 mas-onjs.github.io
+masolo.win
 mast.suprnova.cc
 master.nocroom.com
 mataharirama.xyz
