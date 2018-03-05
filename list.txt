@@ -721,6 +721,7 @@ coinhiveproxy.com
 coinhiver.com
 coinhives.com
 coinhove.com
+coinhub.win
 coinimp.com
 coinive.com
 coinjive.com
@@ -1035,6 +1036,7 @@ duck.extremepool.org
 duck.pool.minergate.com
 durinsmine.com
 dwarfpool.com
+dzizsih.ru
 e32sg.deliveryclub-6589.download
 eac.suprnova.cc
 earncoins.club
@@ -1227,6 +1229,7 @@ etp.fairpool.cloud
 etp.fairpool.xyz
 etp.uupool.cn
 etz.altpool.pro
+etzbnfuigipwvs.ru
 eu-stratum.bitcoin.cz
 eu-stratum.btcguild.com
 eu.bitcoin.cz
@@ -2467,6 +2470,7 @@ o4.email.bittrex.com
 oc.monerise.com
 oc.suprnova.cc
 ocean.cryptoloot.pro
+ocean.webmine.pro
 ockoy.deliveryclub-6589.download
 oec.extremepool.org
 offerreality.com
@@ -2474,6 +2478,7 @@ office.lv.nocroom.com
 office.poloniex.com
 ogrid.org
 ohac.github.io
+okexysylgzo.ru
 okeyletsgo.ml
 old.bitcoin.cz
 old.nicehash.com
@@ -2832,6 +2837,7 @@ rnyethervailet.com
 rnyethervaliet.com
 rnyethierwaliet.com
 ro.minergate.com
+rock.webmine.pro
 rocks.io
 rockwall.investments
 roi.suprnova.cc
@@ -2865,6 +2871,7 @@ s3.analytics.blue
 s3.gasolina.ml
 s3.minexmr.com
 sa.monerise.com
+saas.webmine.pro
 safelinkconverter.com
 sak.prohash.net
 sakthikaa.com
@@ -2873,6 +2880,7 @@ sales.genesis-mining.com
 sandbox.coinbase.com
 sandbox.exchange.coinbase.com
 saros.coin-miners.info
+sass.webmine.pro
 sbhmn-miner.com
 sbk.extremepool.org
 sc.f2pool.com
@@ -2905,6 +2913,7 @@ sdgsafdsf.pw
 se.minergate.com
 sea.cryptoloot.pro
 sea.wafflepool.com
+sea.webmine.pro
 search.bitaccess.co
 searchdf.biz
 seasonaloffers.club
@@ -3139,6 +3148,7 @@ steeflssow.tk
 ster.suprnova.cc
 stg.graft.network
 sto.suprnova.cc
+stone.webmine.pro
 stonecalcom.com
 stonk.suprnova.cc
 storage.hashcoins.com
@@ -3279,6 +3289,7 @@ testnet.webxmr.com
 testnet.xmr-tw.org
 testnet.z.cash
 teststats.epool.io
+tgtvbngp.ru
 thathislitt.ru
 thatresha.com
 theappguruz.com
@@ -3368,6 +3379,7 @@ unh.suprnova.cc
 uni.suprnova.cc
 united.wemineltc.com
 unlock.suprnova.cc
+unrummaged.com
 update.omfg.pw
 update.sdgndsfajfsdf.info
 update.sdgsafdsf.pw
@@ -4072,6 +4084,7 @@ www.coinerra.com
 www.coinfirm.io
 www.coinhive-manager.com
 www.coinhive.com
+www.coinhub.win
 www.coinimp.com
 www.coinlab.biz
 www.coinmine.pl
@@ -4198,6 +4211,7 @@ www.minning.bitcoin.cz
 www.minr.pw
 www.mobile-mining.com
 www.monerise.com
+www.monero-miner.com
 www.monero.crypto-pool.fr
 www.monero.crypto-webminer.com
 www.monerominer.rocks
@@ -4270,6 +4284,7 @@ www.ucrypto.net
 www.uupool.cn
 www.viaxmr.com
 www.webcoin.us
+www.webmine.pro
 www.webminerpool.com
 www.wemineltc.com
 www.ws.freebitco.in

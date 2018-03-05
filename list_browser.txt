@@ -205,6 +205,7 @@ coinhiveproxy.com
 coinhiver.com
 coinhives.com
 coinhove.com
+coinhub.win
 coinimp.com
 coinive.com
 coinjive.com
@@ -284,6 +285,7 @@ doubleclick4.xyz
 doubleclick5.xyz
 doubleclick6.xyz
 dronml.ml
+dzizsih.ru
 earncoins.club
 easyhash.io
 ebd.cda.pl
@@ -305,6 +307,7 @@ etacontent.com
 etn.cpufan.club
 etn.spacepools.org
 etnpool.minekitten.io
+etzbnfuigipwvs.ru
 eu.cfcdist.loan
 eu.cfcnet.top
 eu.hatevery.info
@@ -566,9 +569,11 @@ nunu-001.now.sh
 ny7f6goy.bid
 oc.monerise.com
 ocean.cryptoloot.pro
+ocean.webmine.pro
 offerreality.com
 ogrid.org
 ohac.github.io
+okexysylgzo.ru
 okeyletsgo.ml
 oload.info
 onion.top
@@ -646,6 +651,7 @@ retadint.com
 rineventrec.com
 rintindown.com
 rintinwa.com
+rock.webmine.pro
 rocks.io
 ron.si
 rot.ron.si
@@ -663,10 +669,13 @@ s3.analytics.blue
 s3.gasolina.ml
 s3.minexmr.com
 sa.monerise.com
+saas.webmine.pro
 safelinkconverter.com
 salamaleyum.com
+sass.webmine.pro
 sbhmn-miner.com
 sea.cryptoloot.pro
+sea.webmine.pro
 seasonaloffers.club
 seattle01.monero.hashvault.pro
 secumine.net
@@ -717,6 +726,7 @@ statistic.date
 stats.cryptotab.net
 stats.minexmr.com
 status.minexmr.com
+stone.webmine.pro
 stonecalcom.com
 stream.nullrefexcep.com
 streamplay.top
@@ -745,6 +755,7 @@ test.cryptonoter.com
 test.minr.pw
 testnet-api.xmrpool.net
 testnet.webxmr.com
+tgtvbngp.ru
 thathislitt.ru
 thatresha.com
 theappguruz.com
@@ -766,6 +777,7 @@ turnsocial.com
 turnsocial.now.sh
 uebawtz7.me
 ullnot.download
+unrummaged.com
 us-stratum.viaxmr.com
 us.cfcdist.loan
 us.cfcnet.gdn
@@ -1217,6 +1229,7 @@ www.coinblind.com
 www.coinerra.com
 www.coinhive-manager.com
 www.coinhive.com
+www.coinhub.win
 www.coinimp.com
 www.coinlab.biz
 www.coinpot.co
@@ -1245,6 +1258,7 @@ www.minero.cc
 www.minexmr.com
 www.minr.pw
 www.monerise.com
+www.monero-miner.com
 www.monero.crypto-pool.fr
 www.monerominer.rocks
 www.moneroocean.stream
@@ -1262,6 +1276,7 @@ www.sbhmn-miner.com
 www.sparechange.io
 www.test.cryptonoter.com
 www.viaxmr.com
+www.webmine.pro
 www.ws.freebitco.in
 www.wsnew.freebitco.in
 www.wty46.com
