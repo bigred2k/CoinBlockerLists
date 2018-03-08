@@ -1,4 +1,5 @@
 0aqpqdju.me
+0x1f4b0.com
 10k.suprnova.cc
 115776615-884492032168661957.preview.editmysite.com
 1480876790.rsc.cdn77.org
@@ -32,8 +33,6 @@
 8bit.coin-miners.info
 8jd2lfsq.me
 91pool.com
-Free4Faucet.com
-Internetresearch.is
 a-o.ninja
 a.doko.moe
 a.pool.ml
@@ -57,6 +56,7 @@ admin.cpufan.club
 adminer.com
 adobecc.com
 adolfcoin.camp
+adrenali.gq
 ads.bitcoin.com
 ads.locationforexpert.com
 adv.cryptopay.me
@@ -86,6 +86,7 @@ alemoney.xyz
 alimabi.cn
 allports-1.lindon-pool.win
 alpha.cryptokitties.co
+altavista.ovh
 altcom.coin-miners.info
 altpool.pro
 amber.coin-miners.info
@@ -119,6 +120,7 @@ api.370cabd5.space
 api.3c0cb3b4.space
 api.3d0cb547.space
 api.aeon.hashvault.pro
+api.bhzejltg.info
 api.bitaccess.co
 api.bitcoin.cz
 api.bitcoin.de
@@ -179,6 +181,7 @@ api.poloniex.com
 api.pool.bitcoin.com
 api.pooldd.com
 api.ppoi.org
+api.pzoifaum.info
 api.sandbox.coinbase.com
 api.slushpool.com
 api.staging.cryptokitties.co
@@ -345,6 +348,7 @@ beta.viaxmr.com
 bewaslac.com
 bewhoyouare.gq
 bgold.mining4.co.uk
+bhzejltg.info
 biberukalap.com
 bic.crypto-coins.club
 bic.mypool.name
@@ -1446,6 +1450,7 @@ frankfurt02.minemonero.pro
 free404go.cf
 free404go.ga
 free404go.gq
+free4faucet.com
 freebitco.in
 freecoin.mine.bz
 freecontent.bid
@@ -1563,6 +1568,7 @@ granite.miningpoolhub.com
 graph.coinone.co.kr
 greengaming.de
 greenindex.dynamic-dns.net
+grft.crypto-coins.club
 gridcash.net
 gridiogrid.com
 gridseed.give-me-coins.com
@@ -1710,6 +1716,7 @@ intensecoin.crypto-webminer.com
 interbanx.co.id
 interestingz.pw
 internal.poloniex.com
+internetresearch.is
 investhash.com
 inviteme.z.cash
 io.bitpay.com
@@ -2003,6 +2010,7 @@ map.bitaccess.co
 map.bitcoin-russia.ru
 maps.bitaccess.co
 mar.suprnova.cc
+march-js.github.io
 marcycoin.org
 mariadeabreu.cf
 mariadeabreu.ga
@@ -2480,6 +2488,7 @@ office.lv.nocroom.com
 office.poloniex.com
 ogrid.org
 ohac.github.io
+oinkinns.tk
 okexysylgzo.ru
 okeyletsgo.ml
 old.bitcoin.cz
@@ -2769,6 +2778,7 @@ px1.papoto.com
 px2.papoto.com
 pxc.dnb.io
 pxc.lightspeedmining.com
+pzoifaum.info
 qcn.cryptity.com
 qcn.extremepool.org
 qcn.hashinvest.ws
@@ -2814,6 +2824,7 @@ rd.btcchina.com
 rdd.coinedpool.com
 reactor.cc
 readme.multiminerapp.com
+realnetwrk.com
 reasedoper.pw
 recycloped.com
 redhex.my
@@ -3646,6 +3657,7 @@ ws-feed.exchange.coinbase.com
 ws-fr-01.rocks.io
 ws-fr-02.rocks.io
 ws-fr-03.rocks.io
+ws.bhzejltg.info
 ws.bitcoin.de
 ws.bitfinex.com
 ws.bitgrail.com
@@ -3656,6 +3668,7 @@ ws.ghash.io
 ws.hashnest.com
 ws.l33tsite.info
 ws.ledgerwallet.com
+ws.pzoifaum.info
 ws.sandbox.coinbase.com
 ws.tidafors.xyz
 ws.xmrm.pw
@@ -3851,6 +3864,7 @@ ws1.bmst.pw
 ws1.coin-have.com
 ws1.g-content.bid
 ws1.minr.pw
+ws1.stati.bid
 ws1.static-cnt.bid
 ws1.statistic.date
 ws10.coin-have.com
@@ -3879,6 +3893,7 @@ ws2.bmnr.pw
 ws2.bmst.pw
 ws2.coin-have.com
 ws2.g-content.bid
+ws2.stati.bid
 ws2.statistic.date
 ws20.crypto-loot.com
 ws21.crypto-loot.com
@@ -4003,6 +4018,7 @@ wss-1.monerise.com
 wss-2.monerise.com
 wss.bithumb.com
 wss.nablabee.com
+wss.stati.bid
 wtm.monitoringservice.co
 wty46.com
 ww.pr0gramm.com
@@ -4270,6 +4286,7 @@ www.slushpool.com
 www.sparechange.io
 www.staging.btcchina.com
 www.stakeunited.com
+www.stati.bid
 www.sumokoin.com
 www.sumokoin.crypto-webminer.com
 www.support.bitpay.com

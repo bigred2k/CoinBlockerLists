@@ -1,8 +1,10 @@
 # Description: This list contains all entries wrongly listed in the CoinBlockerLists.
 # Donations: If you liked CoinBlockerLists, please feel free to donate / https://goo.gl/TcnbPe
-# Last modified: 27 02 2018 18:52
+# Last modified: 08 03 2018 17:03
 # We cannot guarantee the accuracy and completeness of the information contained in this document.
 # [CoinBlocker List by ZeroDot1]
+104.28.30.34
+104.28.31.34
 108.161.189.121
 151.101.1.195
 94.31.29.16
