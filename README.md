@@ -16,7 +16,7 @@ CoinBlockerLists Short URL: [https://git.io/vFFKT](https://git.io/vFFKT)
 # Donations
 All donations are welcome and greatly appreciated.
 Would you like to donate?  If so, please click the button below.
-[![img](img/AWL.png)](https://goo.gl/TcnbPe)
+[![img](img/AWL.png)](https://goo.gl/RRoPcu)
 
 ### CoinBlockerLists is now listed in FireHOL: [http://iplists.firehol.org/](http://iplists.firehol.org/)  
 - [http://iplists.firehol.org/?ipset=coinbl_hosts](http://iplists.firehol.org/?ipset=coinbl_hosts)
