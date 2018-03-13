@@ -12,6 +12,7 @@ CoinBlockerLists Short URL: [https://git.io/vFFKT](https://git.io/vFFKT)
 | Hosts | This list contains all optional domains - An additional hostslist for administrators| [Download](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_optional) |
 | Hosts | This list contains all browser mining domains - A hostslist to prevent browser mining only| [Download](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser) |
 | List | This list contains all IPs - A additional list for administrators to prevent mining in networks| [Download](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/MiningServerIPList.txt) |
+| uBlock Origin | This list contains all browser mining domains - A list to prevent browser mining only| [Download](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt) |
 
 # Donations
 All donations are welcome and greatly appreciated.

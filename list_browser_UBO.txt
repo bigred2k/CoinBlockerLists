@@ -1,4 +1,3 @@
-[Adblock Plus 2.0]
 ! Contribute: https://github.com/ZeroDot1/CoinBlockerLists/issues/new
 ! Description: This list disables browser based miners such as coin-hive
 ! Donate: https://goo.gl/RRoPcu
