@@ -1,3 +1,13 @@
+! Contribute: https://github.com/ZeroDot1/CoinBlockerLists/issues/new
+! Description: This list disables browser based miners such as coin-hive
+! Donate: https://goo.gl/RRoPcu
+! Expires: Never
+! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
+! Last modified: 13 03 2018 17:52
+! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
+! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
+! Title: CoinBlockerLists by ZeroDot1 (BROWSER)
+! Version: Continuous
 0aqpqdju.me
 0x1f4b0.com
 1480876790.rsc.cdn77.org

@@ -1,28 +1,32 @@
+# Contribute: https://github.com/ZeroDot1/CoinBlockerLists/issues/new
 # Description: This list contains broken or incorrect URLs.
 # Donations: If you liked CoinBlockerLists, please feel free to donate / https://goo.gl/RRoPcu
-# Last modified: 12 03 2018 15:16
+# Last modified: 13 03 2018 17:52
 # This file contains all invalid hosts
+8jd2lfsq.me
 abc.pema.cl
+april-js.github.io
 azvjudwr.info
+browsealoud.com
 cdn.rove.cl
 cdnfile.xyz
+cryweb.github.io
+crywebber.github.io
 hans.pr0gramm.com
 host.d-ns.ga
 hurensohn.pr0gramm.com
 jroqvbvw.info
 jyhfuqoh.info
 kdowqlpt.info
+latimes-graphics-media.s3.amazonaws.com/js/leaflet.fullscreen-master/Control.FullScreen.js
 m.pr0gramm.com
+marta-js.github.io
+mas-onjs.github.io
 metrika.ron.si
+mjija.github.io
+piti.bplaced.net
 st.kjli.fi
 static.hk.rs
 web.die-news.pw
 xbasfbno.info
 xy.nullrefexcep.com
-cryweb.github.io
-crywebber.github.io
-piti.bplaced.net
-browsealoud.com
-latimes-graphics-media.s3.amazonaws.com/js/leaflet.fullscreen-master/Control.FullScreen.js
-8jd2lfsq.me
-april-js.github.io
