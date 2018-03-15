@@ -15,8 +15,8 @@ CoinBlockerLists Short URL: [https://git.io/vFFKT](https://git.io/vFFKT)
 | uBlock Origin | This list contains all browser mining domains - A list to prevent browser mining only| [Download](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt) |
 
 # Donations
-All donations are welcome and greatly appreciated.
-Would you like to donate?  If so, please click the button below.
+Every donation helps me to continue the work on the CoinBlockerLists.
+Would you like to donate?  If so, please click the yellow button.
 [![img](img/AWL.png)](https://goo.gl/RRoPcu)
 
 ### CoinBlockerLists is now listed in FireHOL: [http://iplists.firehol.org/](http://iplists.firehol.org/)  
