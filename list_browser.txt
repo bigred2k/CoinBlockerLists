@@ -37,6 +37,7 @@ adless.io
 admin.cpufan.club
 adminer.com
 adrenali.gq
+adzjzewsma.cf
 aeon.hashvault.pro
 afflow.18-plus.net
 afminer.com
@@ -86,6 +87,7 @@ api.xmrpool.net
 apib.monerise.com
 apin.monerise.com
 app.pr0gramm.com
+appelamule.com
 april-js.github.io
 aqqgli3vle.bid
 as.cfcdist.loan
@@ -99,8 +101,10 @@ atlanta01.monero.hashvault.pro
 audioknigi.club
 auroramine.com
 authedmine.com
+authedmine.eu
 authedwebmine.cz
 auto.monerise.com
+averoconnector.com
 avualrhg9p.bid
 avualrhg9p0.bid
 axoncoho.tk
@@ -161,6 +165,7 @@ cdn.nablabee.com
 cdn.rocks.io
 cdn.rove.cl
 cdn.static-cnt.bid
+cdn.streambeam.io
 cdn2.inwemo.com
 cdncounter.top
 cdnfile.xyz
@@ -232,6 +237,7 @@ cpanel.monerominer.rocks
 cpu2cash.link
 cpufan.club
 cqfnvznw.info
+cryptaloot.pro
 crypto-loot.com
 crypto-pool.fr
 crypto-webminer.com
@@ -337,6 +343,7 @@ external.monerise.com
 fatisin.ru
 fbtc-audio.freebitco.in
 fbtc-uab.freebitco.in
+ffinwwfpqi.gq
 ffjk.space
 fge9vbrzwt.bid
 files.fortrader.ru
@@ -420,6 +427,7 @@ iisl7wpf.me
 img.jsecoin.com
 infamylists.com
 ingorob.com
+ininmacerad.pro
 insdrbot.com
 intactoffers.club
 intense.hashvault.pro
@@ -497,10 +505,13 @@ marcycoin.org
 marta-js.github.io
 mas-onjs.github.io
 mataharirama.xyz
+may-js.github.io
 mebablo.com
 megabanners.cf
+mepirtedic.com
 mercy.ga
 metrika.ron.si
+mhiobjnirs.gq
 mine.nahnoji.cz
 mine.torrent.pw
 mine.xmrpool.net
@@ -645,6 +656,7 @@ pool.sumokoin.hashvault.pro
 pool.supportxmr.com
 pool2.coinimp.com
 ppoi.org
+pr0gram.org
 premiumstats.xyz
 pricefbcf.gq
 projectpoi.com
@@ -690,6 +702,7 @@ s002.monerise.com
 s003.monerise.com
 s003.papoto.com
 s2.analytics.blue
+s2.appelamule.com
 s23.crypto-loot.com
 s3.analytics.blue
 s3.gasolina.ml
@@ -808,6 +821,7 @@ turnsocial.com
 turnsocial.now.sh
 uebawtz7.me
 ullnot.download
+ulnawoyyzbljc.ru
 unrummaged.com
 us-stratum.viaxmr.com
 us.cfcdist.loan
@@ -1278,9 +1292,13 @@ www.crypto-pool.fr
 www.cryptoloot.pro
 www.cryptonoter.com
 www.cryptotab.net
+www.datasecu.download
+www.etzbnfuigipwvs.ru
 www.fortrader.ru
 www.freebitco.in
 www.freecontent.bid
+www.freecontent.loan
+www.freecontent.win
 www.gus.host
 www.hashforcash.us
 www.hashvault.pro
@@ -1288,6 +1306,7 @@ www.hemnes.win
 www.infamylists.com
 www.interestingz.pw
 www.inwemo.com
+www.jquery-cdn.download
 www.jsccnn.com
 www.jscdndel.com
 www.jsecoin.com
@@ -1313,6 +1332,7 @@ www.rocks.io
 www.sbhmn-miner.com
 www.sparechange.io
 www.stati.bid
+www.terethat.ru
 www.test.cryptonoter.com
 www.viaxmr.com
 www.webmine.pro

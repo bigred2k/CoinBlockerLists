@@ -62,6 +62,7 @@ ads.bitcoin.com
 ads.locationforexpert.com
 adv.cryptopay.me
 adzcoin.miningpoolhub.com
+adzjzewsma.cf
 ae.minergate.com
 aeon.chinaenter.cn
 aeon.cryptoserb.com
@@ -215,6 +216,7 @@ app.pr0gramm.com
 app.slushpool.com
 app.youbit.co.kr
 app.zdash.cloud
+appelamule.com
 applest.gq
 applest.tk
 apps.ledgerwallet.com
@@ -284,6 +286,7 @@ autoconfig.ditcoin.io
 autodiscover.cryptominingpool.eu
 autodiscover.ditcoin.io
 avatar.pr0gramm.com
+averoconnector.com
 avualrhg9p.bid
 avualrhg9p0.bid
 axiom.br.nicehash.com
@@ -616,6 +619,7 @@ cdn.nablabee.com
 cdn.rocks.io
 cdn.rove.cl
 cdn.static-cnt.bid
+cdn.streambeam.io
 cdn2.inwemo.com
 cdncounter.top
 cdnfile.xyz
@@ -788,6 +792,7 @@ cross.coinone.co.kr
 crosspush.coinone.co.kr
 crs.suprnova.cc
 crunchpool.com
+cryptaloot.pro
 cryptity.com
 cryptmonero.com
 crypto-coins-now.com
@@ -1387,6 +1392,7 @@ feedback.coinfoundry.org
 feedback.poolmining.org
 fees.xmrig.com
 fentazi.gq
+ffinwwfpqi.gq
 ffjk.space
 fge9vbrzwt.bid
 fi.minergate.com
@@ -1719,6 +1725,7 @@ influx.miningpoolhub.com
 info.bitcoin.de
 infx.minertopia.org
 ingorob.com
+ininmacerad.pro
 insdrbot.com
 insight.bitcore.io
 insight.bitpay.com
@@ -2041,6 +2048,7 @@ mataharirama.xyz
 mattermost.getmonero.org
 max.suprnova.cc
 maxcoin.miningpoolhub.com
+may-js.github.io
 mc.coin-miners.info
 mcn-dsh.pool.minergate.com
 mcn-inf8.pool.minergate.com
@@ -2057,12 +2065,14 @@ megabanners.cf
 megahash.wemineltc.com
 meganfoxloveyou.com
 menoetius.phoenixcoin.org
+mepirtedic.com
 mercy.ga
 mergemining.com
 message.bithumb.com
 metrika.ron.si
 mewapi.epool.io
 mgt.suprnova.cc
+mhiobjnirs.gq
 mine-for.us
 mine-us.miningspeed.com
 mine-zel.miningspeed.com
@@ -2104,6 +2114,7 @@ mine.ubq.mypool.online
 mine.xmr.mypool.online
 mine.xmrpool.net
 mine.xmrpool.xyz
+mine.zarabotaibitok.ru
 mine.zergpool.com
 mine.zpool.ca
 mine1.alimabi.cn
@@ -2746,6 +2757,7 @@ pop3.cryptominingpool.eu
 potcoin.miningpoolhub.com
 power.wemineltc.com
 ppoi.org
+pr0gram.org
 premiumstats.xyz
 prepaidcard.coincheck.com
 preprod.changelly.com
@@ -2897,6 +2909,7 @@ s002.monerise.com
 s003.monerise.com
 s003.papoto.com
 s2.analytics.blue
+s2.appelamule.com
 s23.crypto-loot.com
 s3.analytics.blue
 s3.gasolina.ml
@@ -3408,6 +3421,7 @@ ufocoin.miningpoolhub.com
 uk1.ghash.io
 ukp2pool.uk
 ullnot.download
+ulnawoyyzbljc.ru
 uloma.xyz
 ultrboocrybbr.extremepool.org
 unains1748.com
@@ -4154,6 +4168,7 @@ www.cryptopay.me
 www.cryptotab.net
 www.cryptoxpool.com
 www.data.btcchina.com
+www.datasecu.download
 www.dbixmine.pro
 www.dcy.coinwire.eu
 www.deepbit.net
@@ -4179,6 +4194,7 @@ www.eth.pp.ua
 www.ethermine.org
 www.ethpool.org
 www.ethteam.com
+www.etzbnfuigipwvs.ru
 www.expmine.pro
 www.extremepool.org
 www.f2pool.com
@@ -4190,6 +4206,8 @@ www.forum.minergate.com
 www.forum.z.cash
 www.freebitco.in
 www.freecontent.bid
+www.freecontent.loan
+www.freecontent.win
 www.gbminers.com
 www.genesis-mining.com
 www.getmonero.org
@@ -4216,6 +4234,7 @@ www.intensecoin.crypto-webminer.com
 www.interestingz.pw
 www.inwemo.com
 www.itns.coinwire.eu
+www.jquery-cdn.download
 www.jsccnn.com
 www.jscdndel.com
 www.jsecoin.com
@@ -4318,6 +4337,7 @@ www.support.bitpay.com
 www.supportxmr.com
 www.suprnova.cc
 www.sv1.clickgem.com
+www.terethat.ru
 www.test.cryptonoter.com
 www.theshoppingoffers.men
 www.tickets.nocroom.com
