@@ -1,7 +1,7 @@
 # Contribute: https://github.com/ZeroDot1/CoinBlockerLists/issues/new
 # Description: This list disables browser based miners such as coin-hive
 # Donate: If you like the CoinBlockerLists please support me, https://goo.gl/RRoPcu Every donation helps me to continue the work on the CoinBlockerLists.
-# Last modified: 19 03 2018 16:30
+# Last modified: 19 03 2018 16:36
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0x1f4b0.com
@@ -617,6 +617,7 @@
 0.0.0.0 oload.info
 0.0.0.0 onion.top
 0.0.0.0 onlinereserchstatistics.online
+0.0.0.0 open-hive-server-1.pp.ua
 0.0.0.0 openkatalog.com
 0.0.0.0 p.estream.to
 0.0.0.0 p.hemnes.win
@@ -655,7 +656,9 @@
 0.0.0.0 pool.coinrail.io
 0.0.0.0 pool.cryptonoter.com
 0.0.0.0 pool.electroneum.hashvault.pro
+0.0.0.0 pool.etn.spacepools.org
 0.0.0.0 pool.graft.hashvault.pro
+0.0.0.0 pool.hws.ru
 0.0.0.0 pool.intense.hashvault.pro
 0.0.0.0 pool.minexmr.com
 0.0.0.0 pool.monero.hashvault.pro

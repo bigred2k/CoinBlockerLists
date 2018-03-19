@@ -610,6 +610,7 @@ okeyletsgo.ml
 oload.info
 onion.top
 onlinereserchstatistics.online
+open-hive-server-1.pp.ua
 openkatalog.com
 p.estream.to
 p.hemnes.win
@@ -648,7 +649,9 @@ pool.coinlab.biz
 pool.coinrail.io
 pool.cryptonoter.com
 pool.electroneum.hashvault.pro
+pool.etn.spacepools.org
 pool.graft.hashvault.pro
+pool.hws.ru
 pool.intense.hashvault.pro
 pool.minexmr.com
 pool.monero.hashvault.pro
