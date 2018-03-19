@@ -52,7 +52,7 @@ bitsadmin.exe /transfer "Download Fresh Hosts File" https://raw.githubuserconten
 @echo #       ::1             localhost >> C:\tmp\hosts
 @echo 127.0.0.1 localhost >> C:\tmp\hosts
 @echo 127.0.0.1 localhost.localdomain >> C:\tmp\hosts
-@echo 127.0.0.1 local >> hosts
+@echo 127.0.0.1 local >> C:\tmp\hosts
 @echo 255.255.255.255 broadcasthost >> C:\tmp\hosts
 @echo ::1 localhost ip6-localhost ip6-loopback >> C:\tmp\hosts
 @echo fe80::1%lo0 localhost >> C:\tmp\hosts
