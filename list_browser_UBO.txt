@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 19 03 2018 16:36
+! Last modified: 19 03 2018 16:47
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
 ! Title: CoinBlockerLists by ZeroDot1 (BROWSER) / This list disables browser based miners such as coin-hive
@@ -610,6 +610,7 @@ nullrefexcep.com
 nunu-001.now.sh
 ny7f6goy.bid
 oc.monerise.com
+ocean.cryptaloot.pro
 ocean.cryptoloot.pro
 ocean.webmine.pro
 offerreality.com
@@ -690,6 +691,7 @@ px2.papoto.com
 pzoifaum.info
 questionfly.com
 r8nu86wg.me
+rack.cryptaloot.pro
 rapidvideo.com
 ratingtoplist.com
 realnetwrk.com
@@ -703,6 +705,7 @@ retadint.com
 rineventrec.com
 rintindown.com
 rintinwa.com
+rock.cryptaloot.pro
 rock.webmine.pro
 rocks.io
 ron.si
@@ -725,8 +728,10 @@ sa.monerise.com
 saas.webmine.pro
 safelinkconverter.com
 salamaleyum.com
+sass.cryptaloot.pro
 sass.webmine.pro
 sbhmn-miner.com
+sea.cryptaloot.pro
 sea.cryptoloot.pro
 sea.webmine.pro
 seasonaloffers.club
@@ -780,6 +785,7 @@ statistic.date
 stats.cryptotab.net
 stats.minexmr.com
 status.minexmr.com
+stone.cryptaloot.pro
 stone.webmine.pro
 stonecalcom.com
 stream.nullrefexcep.com

@@ -2505,6 +2505,7 @@ o3.email.bittrex.com
 o4.email.bittrex.com
 oc.monerise.com
 oc.suprnova.cc
+ocean.cryptaloot.pro
 ocean.cryptoloot.pro
 ocean.webmine.pro
 ockoy.deliveryclub-6589.download
@@ -2841,6 +2842,7 @@ questionfly.com
 qyvtls749tio.com
 r8nu86wg.me
 ra.mining.eligius.st
+rack.cryptaloot.pro
 rain.suprnova.cc
 rapidvideo.com
 ratchetcoins.nl
@@ -2881,6 +2883,7 @@ rnyethervailet.com
 rnyethervaliet.com
 rnyethierwaliet.com
 ro.minergate.com
+rock.cryptaloot.pro
 rock.webmine.pro
 rocks.io
 rockwall.investments
@@ -2925,6 +2928,7 @@ sales.genesis-mining.com
 sandbox.coinbase.com
 sandbox.exchange.coinbase.com
 saros.coin-miners.info
+sass.cryptaloot.pro
 sass.webmine.pro
 sbhmn-miner.com
 sbk.extremepool.org
@@ -2956,6 +2960,7 @@ sdash.coin-miners.info
 sdgndsfajfsdf.info
 sdgsafdsf.pw
 se.minergate.com
+sea.cryptaloot.pro
 sea.cryptoloot.pro
 sea.wafflepool.com
 sea.webmine.pro
@@ -3194,6 +3199,7 @@ steeflssow.tk
 ster.suprnova.cc
 stg.graft.network
 sto.suprnova.cc
+stone.cryptaloot.pro
 stone.webmine.pro
 stonecalcom.com
 stonk.suprnova.cc
