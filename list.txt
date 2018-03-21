@@ -2635,7 +2635,6 @@ pirl.epool.io
 pirl.minertopia.org
 pirl.mypool.online
 pit.deepbit.net
-piti.bplaced.net
 pivx.cryptopool.io
 pl.minergate.com
 platform.jsecoin.com
