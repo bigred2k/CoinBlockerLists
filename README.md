@@ -5,14 +5,14 @@ CoinBlockerLists Short URL: [https://git.io/vFFKT](https://git.io/vFFKT)
 
 | Format | Description | URL |
 | --- | --- | --- |
-| List | This list contains all domains - A list for administrators to prevent mining in networks| [Download](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list.txt) |
-| List | This list contains all optional domains - An additional list for administrators| [Download](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_optional.txt) |
-| List | This list contains all browser mining domains - A list to prevent browser mining only| [Download](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser.txt) |
-| Hosts | This list contains all domains - A hostslist for administrators to prevent mining in networks| [Download](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts) |
-| Hosts | This list contains all optional domains - An additional hostslist for administrators| [Download](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_optional) |
-| Hosts | This list contains all browser mining domains - A hostslist to prevent browser mining only| [Download](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser) |
-| List | This list contains all IPs - A additional list for administrators to prevent mining in networks| [Download](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/MiningServerIPList.txt) |
-| uBlock Origin | This list contains all browser mining domains - A list to prevent browser mining only| [Download](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt) |
+| List | This list contains all domains - A list for administrators to prevent mining in networks| [Download](https://zerodot1.github.io/CoinBlockerLists/list.txt) |
+| List | This list contains all optional domains - An additional list for administrators| [Download](https://zerodot1.github.io/CoinBlockerLists/list_optional.txt) |
+| List | This list contains all browser mining domains - A list to prevent browser mining only| [Download](https://zerodot1.github.io/CoinBlockerLists/list_browser.txt) |
+| Hosts | This list contains all domains - A hostslist for administrators to prevent mining in networks| [Download](https://zerodot1.github.io/CoinBlockerLists/hosts) |
+| Hosts | This list contains all optional domains - An additional hostslist for administrators| [Download](https://zerodot1.github.io/CoinBlockerLists/hosts_optional) |
+| Hosts | This list contains all browser mining domains - A hostslist to prevent browser mining only| [Download](https://zerodot1.github.io/CoinBlockerLists/hosts_browser) |
+| List | This list contains all IPs - A additional list for administrators to prevent mining in networks| [Download](https://zerodot1.github.io/CoinBlockerLists/MiningServerIPList.txt) |
+| uBlock Origin | This list contains all browser mining domains - A list to prevent browser mining only| [Download](https://zerodot1.github.io/CoinBlockerLists/list_browser_UBO.txt) |
 
 # Donations
 Every donation helps me to continue the work on the CoinBlockerLists.
