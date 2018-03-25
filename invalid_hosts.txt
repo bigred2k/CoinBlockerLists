@@ -1,7 +1,8 @@
 # Contribute: https://github.com/ZeroDot1/CoinBlockerLists/issues/new
 # Description: This list contains broken or incorrect URLs.
 # Donate: If you like the CoinBlockerLists please support me, https://goo.gl/RRoPcu Every donation helps me to continue the work on the CoinBlockerLists.
-# Last modified: 13 03 2018 17:52
+# Homepage: https://github.com/ZeroDot1/CoinBlockerLists
+# Last modified: 25 03 2018 16:39
 # This file contains all invalid hosts
 8jd2lfsq.me
 abc.pema.cl

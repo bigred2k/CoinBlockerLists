@@ -1,7 +1,8 @@
 # Contribute: https://github.com/ZeroDot1/CoinBlockerLists/issues/new
 # Description: This list contains all entries wrongly listed in the CoinBlockerLists.
 # Donate: If you like the CoinBlockerLists please support me, https://goo.gl/RRoPcu Every donation helps me to continue the work on the CoinBlockerLists.
-# Last modified: 13 03 2018 17:52
+# Homepage: https://github.com/ZeroDot1/CoinBlockerLists
+# Last modified: 25 03 2018 16:39
 # We cannot guarantee the accuracy and completeness of the information contained in this document.
 # [CoinBlocker List by ZeroDot1]
 hans.pr0gramm.com
