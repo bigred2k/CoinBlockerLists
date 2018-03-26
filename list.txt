@@ -93,6 +93,18 @@ aeonn.chinaenter.cn
 aeonold.semipool.com
 aeont.semipool.com
 aeonweb.semipool.com
+aeros01.tk
+aeros02.tk
+aeros03.tk
+aeros04.tk
+aeros05.tk
+aeros06.tk
+aeros07.tk
+aeros08.tk
+aeros09.tk
+aeros10.tk
+aeros11.tk
+aeros12.tk
 aether.spacepools.org
 affiliate.hitbtc.com
 afflow.18-plus.net
@@ -1892,6 +1904,7 @@ joinus.coinfirm.io
 jp-stratum.btcc.com
 jp.lapool.me
 jp.stratum.viaxmr.com
+jqcdn.download
 jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
@@ -3160,6 +3173,7 @@ setup-game.xyz
 sexcoin.miningpoolhub.com
 sg.bitcoin.cz
 sg.kano.is
+sg.minexmr.com
 sg.stratum.slushpool.com
 sg1.supportxmr.com
 sgl.suprnova.cc
