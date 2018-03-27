@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 26 03 2018 13:48
+! Last modified: 27 03 2018 04:41
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -35,6 +35,18 @@
 8jd2lfsq.me
 a-o.ninja
 aba.ae
+ablen01.tk
+ablen02.tk
+ablen03.tk
+ablen04.tk
+ablen05.tk
+ablen06.tk
+ablen07.tk
+ablen08.tk
+ablen09.tk
+ablen10.tk
+ablen11.tk
+ablen12.tk
 ad-miner.com
 adbtc.top
 adfreetv.ch
@@ -84,6 +96,7 @@ aymcsx.ru
 azvjudwr.info
 bablace.com
 baiduccdn1.com
+bauersagtnein.myeffect.net
 becanium.com
 befirstcdn.com
 berateveng.ru
@@ -107,6 +120,7 @@ c0i8h8ac7e.bid
 c7e935.netlify.com
 candid.zone
 carrel.services
+carry.myeffect.net
 cdjs.online
 cdn-analytics.pl
 cdn-code.host
@@ -243,6 +257,7 @@ free4faucet.com
 freebitco.in
 freecontent.bid
 freecontent.com
+freecontent.date
 freecontent.info
 freecontent.loan
 freecontent.net
@@ -435,6 +450,7 @@ r8nu86wg.me
 rapidvideo.com
 realnetwrk.com
 reasedoper.pw
+red-js.github.io
 refresh-js.bitbucket.io
 refunevent.com
 rencohep.com
@@ -450,6 +466,7 @@ rowherthat.ru
 safelinkconverter.com
 salamaleyum.com
 sbhmn-miner.com
+scaleway.ovh
 seasonaloffers.club
 secumine.net
 sen-to-zdrowie.ml
@@ -478,6 +495,7 @@ subloader.cf
 sunhd.info
 sxcdn02.now.sh
 sxcdn1.herokuapp.com
+sxcdn3.now.sh
 sxcdn4.now.sh
 sxcdn5.herokuapp.com
 sxcdn6.now.sh

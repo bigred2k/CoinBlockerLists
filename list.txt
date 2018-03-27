@@ -46,6 +46,18 @@ abakus.gemini.net.pl
 abc.pema.cl
 abc.suprnova.cc
 abe.sighash.info
+ablen01.tk
+ablen02.tk
+ablen03.tk
+ablen04.tk
+ablen05.tk
+ablen06.tk
+ablen07.tk
+ablen08.tk
+ablen09.tk
+ablen10.tk
+ablen11.tk
+ablen12.tk
 about.coinfirm.io
 abreu123.tk
 ad-miner.com
@@ -361,6 +373,7 @@ bablace.com
 back4.2giga.link
 backends.bid
 baiduccdn1.com
+bauersagtnein.myeffect.net
 bbr.crypto-coins.club
 bbr.extremepool.org
 bbr.poolto.be
@@ -666,6 +679,7 @@ capodannoinversilia.com
 captain.noblock.pro
 captchas.freebitco.in
 carrel.services
+carry.myeffect.net
 casadocodigo.gq
 casadocodigo.tk
 cash.bitaccess.co
@@ -1588,6 +1602,7 @@ freebitco.in
 freecoin.mine.bz
 freecontent.bid
 freecontent.com
+freecontent.date
 freecontent.info
 freecontent.loan
 freecontent.net
@@ -3024,6 +3039,7 @@ readme.multiminerapp.com
 realnetwrk.com
 reasedoper.pw
 recycloped.com
+red-js.github.io
 red1r.xyz
 red1r2.xyz
 redhex.my
@@ -3104,6 +3120,7 @@ sb1xju.xyz
 sbhmn-miner.com
 sbk.extremepool.org
 sc.f2pool.com
+scaleway.ovh
 score.coin-miners.info
 scrypt.br.nicehash.com
 scrypt.cryptobroker.io
@@ -3488,6 +3505,7 @@ swanson.ron.si
 sweep.suprnova.cc
 sxcdn02.now.sh
 sxcdn1.herokuapp.com
+sxcdn3.now.sh
 sxcdn4.now.sh
 sxcdn5.herokuapp.com
 sxcdn6.now.sh

@@ -29,6 +29,18 @@ a.proxy4.nullrefexcep.com
 a.proxy5.nullrefexcep.com
 aba.ae
 abc.pema.cl
+ablen01.tk
+ablen02.tk
+ablen03.tk
+ablen04.tk
+ablen05.tk
+ablen06.tk
+ablen07.tk
+ablen08.tk
+ablen09.tk
+ablen10.tk
+ablen11.tk
+ablen12.tk
 ad-miner.com
 ad.g-content.bid
 adbtc.top
@@ -127,6 +139,7 @@ b.proxy4.nullrefexcep.com
 bablace.com
 back4.2giga.link
 baiduccdn1.com
+bauersagtnein.myeffect.net
 bcn.cpufan.club
 becanium.com
 befirstcdn.com
@@ -164,6 +177,7 @@ capodannoinversilia.com
 captain.noblock.pro
 captchas.freebitco.in
 carrel.services
+carry.myeffect.net
 cdjs.online
 cdn-analytics.pl
 cdn-code.host
@@ -376,6 +390,7 @@ frankfurt01.monero.hashvault.pro
 freebitco.in
 freecontent.bid
 freecontent.com
+freecontent.date
 freecontent.info
 freecontent.loan
 freecontent.net
@@ -710,6 +725,7 @@ rapidvideo.com
 ratingtoplist.com
 realnetwrk.com
 reasedoper.pw
+red-js.github.io
 refresh-js.bitbucket.io
 refunevent.com
 rencohep.com
@@ -745,6 +761,7 @@ salamaleyum.com
 sass.cryptaloot.pro
 sass.webmine.pro
 sbhmn-miner.com
+scaleway.ovh
 sea.cryptaloot.pro
 sea.cryptoloot.pro
 sea.webmine.pro
@@ -815,6 +832,7 @@ supportxmr.com
 swanson.ron.si
 sxcdn02.now.sh
 sxcdn1.herokuapp.com
+sxcdn3.now.sh
 sxcdn4.now.sh
 sxcdn5.herokuapp.com
 sxcdn6.now.sh
