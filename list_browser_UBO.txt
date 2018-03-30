@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 27 03 2018 04:41
+! Last modified: 30 03 2018 17:02
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -272,6 +272,7 @@ g-content.bid
 gasolina.ml
 gemius.pl
 getcryptotab.com
+gnrdomimplementation.com
 go.megabanners.cf
 goldoffer.online
 goodkino.biz
@@ -316,6 +317,7 @@ jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
 jquery-cdn.download
 jquery-uim.download
+jqwww.download
 jroqvbvw.info
 jsccnn.com
 jscdndel.com
@@ -343,7 +345,9 @@ livelyoffers.club
 lmodr.biz
 losital.ru
 m.anyfiles.ovh
+m1.streaming.estream.to
 m1.videos.vidto.me
+m2.streaming.estream.to
 m2.videos.vidto.me
 machieved.com
 march-js.github.io
@@ -397,6 +401,7 @@ nametraff.com
 nathetsof.com
 nddmcconmqsy.ru
 nebabrop.com
+nerohut.com
 never.ovh
 nexttime.ovh
 nfwebminer.com
@@ -424,6 +429,10 @@ onlinereserchstatistics.online
 open-hive-server-1.pp.ua
 openkatalog.com
 p.estream.to
+p1.assetscdn.stream
+p1.gnrdomimplementation.com
+p2.assetscdn.stream
+p3.assetscdn.stream
 panelsave.com
 papoto.com
 party-nngvitbizn.now.sh
@@ -437,6 +446,7 @@ player.h-cdn.com
 playerassets.info
 plexcoin.info
 podrltid.info
+pon.ewtuyytdf45.com
 ppoi.org
 pr0gram.org
 premiumstats.xyz
@@ -463,6 +473,9 @@ rintinwa.com
 rocks.io
 ron.si
 rowherthat.ru
+s1.vidtod.me
+s2.vidtod.me
+s3.vidtod.me
 safelinkconverter.com
 salamaleyum.com
 sbhmn-miner.com
@@ -494,6 +507,9 @@ streamplay.top
 subloader.cf
 sunhd.info
 sxcdn02.now.sh
+sxcdn03.now.sh
+sxcdn04.now.sh
+sxcdn06.now.sh
 sxcdn1.herokuapp.com
 sxcdn3.now.sh
 sxcdn4.now.sh
@@ -563,8 +579,12 @@ wp-monero-miner.de
 wpcdn1.herokuapp.com
 wqgkainysj.ru
 wronpeci.com
+ws01cn.streamplay.to
+ws02cn.streamplay.to
+ws03cn.streamplay.to
 wsp.marketgid.com
 wty46.com
+www.assetscdn.stream
 xbasfbno.info
 xgmc6lu8fs.me
 xmrm.pw

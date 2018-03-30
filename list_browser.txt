@@ -411,6 +411,7 @@ gemius.pl
 get.webxmr.com
 getcryptotab.com
 global.crypto.csgocpu.com
+gnrdomimplementation.com
 go.bestmobiworld.com
 go.megabanners.cf
 go2.mercy.ga
@@ -475,6 +476,7 @@ jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
 jquery-cdn.download
 jquery-uim.download
+jqwww.download
 jroqvbvw.info
 js.coinhive.com
 jsccnn.com
@@ -520,7 +522,9 @@ m.anyfiles.ovh
 m.pr0gramm.com
 m001.monerise.com
 m1.monerise.com
+m1.streaming.estream.to
 m1.videos.vidto.me
+m2.streaming.estream.to
 m2.videos.vidto.me
 machieved.com
 mail.coinhive-manager.com
@@ -612,6 +616,7 @@ nametraff.com
 nathetsof.com
 nddmcconmqsy.ru
 nebabrop.com
+nerohut.com
 never.ovh
 new.minr.pw
 newark01.monero.hashvault.pro
@@ -657,8 +662,12 @@ openkatalog.com
 p.estream.to
 p.hemnes.win
 p.tidafors.xyz
+p1.assetscdn.stream
+p1.gnrdomimplementation.com
 p1.interestingz.pw
+p2.assetscdn.stream
 p2.interestingz.pw
+p3.assetscdn.stream
 p3.interestingz.pw
 pan.whathyx.com
 panelsave.com
@@ -748,12 +757,15 @@ s001.monerise.com
 s002.monerise.com
 s003.monerise.com
 s003.papoto.com
+s1.vidtod.me
 s2.analytics.blue
 s2.appelamule.com
+s2.vidtod.me
 s23.crypto-loot.com
 s3.analytics.blue
 s3.gasolina.ml
 s3.minexmr.com
+s3.vidtod.me
 sa.monerise.com
 saas.webmine.pro
 safelinkconverter.com
@@ -831,6 +843,9 @@ sunhd.info
 supportxmr.com
 swanson.ron.si
 sxcdn02.now.sh
+sxcdn03.now.sh
+sxcdn04.now.sh
+sxcdn06.now.sh
 sxcdn1.herokuapp.com
 sxcdn3.now.sh
 sxcdn4.now.sh
@@ -1079,6 +1094,7 @@ ws019.coinhive.com
 ws019.hemnes.win
 ws019.ws.tidafors.xyz
 ws019.www.datasecu.download
+ws01cn.streamplay.to
 ws02.1q2w3.me
 ws02.1q2w3.website
 ws02.coinnebula.com
@@ -1142,6 +1158,7 @@ ws029.authedmine.com
 ws029.coinhive.com
 ws029.hemnes.win
 ws029.ws.tidafors.xyz
+ws02cn.streamplay.to
 ws03.1q2w3.me
 ws03.1q2w3.website
 ws03.coinnebula.com
@@ -1161,6 +1178,7 @@ ws032.coinhive.com
 ws032.hemnes.win
 ws032.ws.tidafors.xyz
 ws035.coinhive.com
+ws03cn.streamplay.to
 ws04.crypto-loot.com
 ws05.crypto-loot.com
 ws05.crypto.csgocpu.com
@@ -1347,6 +1365,7 @@ www.adless.io
 www.adminer.com
 www.ajcryptominer.com
 www.analytics.blue
+www.assetscdn.stream
 www.authedmine.com
 www.bablace.com
 www.baiduccdn1.com
