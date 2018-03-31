@@ -35,10 +35,14 @@ antminer-store.com
 api.binance.com
 api.inwemo.com
 api.jaxx.io
+api.ledgerwallet.com
 api.mymonero.com
+api01.ledgerwallet.com
+api02.ledgerwallet.com
 api2.jaxx.io
 app0.a-ads.com
 apps.cointraffic.io
+apps.ledgerwallet.com
 apps2.cointraffic.io
 autodiscover.uclick.in
 awesomeminer.com
@@ -128,6 +132,7 @@ kr.binance.com
 labs.binance.com
 launchpad.binance.com
 lb4.a-ads.com
+ledgerwallet.com
 link.cur.lv
 links.upcoin.com
 ltc-bitcore3.trezor.io
@@ -153,6 +158,7 @@ monero-miner.000webhostapp.com
 multipoolminer.io
 mx.peerhash.com
 my.cur.lv
+my.ledgerwallet.com
 myetherwallet.com
 mymonero.com
 n.cur.lv
@@ -187,6 +193,7 @@ selfx1.typeform.com
 sftp.binance.com
 shop.trezor.io
 smtp.awesomeminer.com
+start.ledgerwallet.com
 static.a-ads.com
 stats.ethc.io
 status.trezor.io
@@ -196,6 +203,8 @@ superbitcoiner.com
 support.a-ads.com
 support.binance.com
 support.evergreencoin.org
+support.ledgerwallet.com
+test.ledgerwallet.com
 to.cur.lv
 transactions.evergreencoin.org
 trezor.io
@@ -215,6 +224,7 @@ webmail.uclick.in
 wiki.emercoin.com
 wiki.evergreencoin.org
 wiki.trezor.io
+ws.ledgerwallet.com
 www.803mine.com
 www.a-ads.com
 www.antminer-store.com
@@ -241,6 +251,7 @@ www.hashcoins.ru
 www.imperiumminer.com
 www.inwemo.com
 www.jaxx.io
+www.ledgerwallet.com
 www.mellowads.com
 www.mineshop.eu
 www.mining-rig.de

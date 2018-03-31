@@ -221,7 +221,6 @@ api.itns.spacepools.org
 api.jsecoin.com
 api.karbo.spacepools.org
 api.l33tsite.info
-api.ledgerwallet.com
 api.leviar.spacepools.org
 api.masari.spacepools.org
 api.minemonero.pro
@@ -265,8 +264,6 @@ api.xmrpool.xyz
 api.youbit.co.kr
 api.zec.spacepools.org
 api.zergpool.com
-api01.ledgerwallet.com
-api02.ledgerwallet.com
 api2.bitcoin.cz
 api2.bitfinex.com
 api2.moriaxmr.com
@@ -286,7 +283,6 @@ app.zdash.cloud
 appelamule.com
 applest.gq
 applest.tk
-apps.ledgerwallet.com
 appv2.antpool.com
 apt.z.cash
 aqqgli3vle.bid
@@ -2031,7 +2027,6 @@ lcc.suprnova.cc
 leaf.api.minemonero.pro
 leafapi.minemonero.pro
 leak-hub.com
-ledgerwallet.com
 ledhenone.com
 ledinund.com
 leviar.spacepools.org
@@ -2487,7 +2482,6 @@ mxcdn1.now.sh
 mxcdn2.now.sh
 my-retrospace.sbhmn-miner.com
 my.hashflare.io
-my.ledgerwallet.com
 my.minergate.com
 myadstats.com
 myatherwallet.biz
@@ -3386,7 +3380,6 @@ staging.webxmr.com
 staging.z.cash
 stak.suprnova.cc
 stakeunited.com
-start.ledgerwallet.com
 start.suprnova.cc
 startcoin.miningpoolhub.com
 startminer.com
@@ -3524,7 +3517,6 @@ support.faucethub.io
 support.give-me-coins.com
 support.hashflare.io
 support.hitbtc.com
-support.ledgerwallet.com
 support.minertopia.org
 support.prohashing.com
 support.scryptpool.com
@@ -3572,7 +3564,6 @@ test.crypto-coins.club
 test.cryptonoter.com
 test.eth.pp.ua
 test.gigarho.com
-test.ledgerwallet.com
 test.minercircle.com
 test.miningpoolhub.com
 test.minr.pw
@@ -3978,7 +3969,6 @@ ws.freebitco.in
 ws.ghash.io
 ws.hashnest.com
 ws.l33tsite.info
-ws.ledgerwallet.com
 ws.pzoifaum.info
 ws.sandbox.coinbase.com
 ws.tidafors.xyz
@@ -4555,7 +4545,6 @@ www.kano.is
 www.karbowanec.crypto-webminer.com
 www.kippo.eu
 www.kosmoplovci.org
-www.ledgerwallet.com
 www.lightminer.co
 www.lindon-pool.win
 www.litecoinpool.org

@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: If you like the CoinBlockerLists please support me, https://goo.gl/RRoPcu Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 25 03 2018 16:39
+# Last modified: 31 03 2018 13:57
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
 0.0.0.0 803mine.com
@@ -41,10 +41,14 @@
 0.0.0.0 api.binance.com
 0.0.0.0 api.inwemo.com
 0.0.0.0 api.jaxx.io
+0.0.0.0 api.ledgerwallet.com
 0.0.0.0 api.mymonero.com
+0.0.0.0 api01.ledgerwallet.com
+0.0.0.0 api02.ledgerwallet.com
 0.0.0.0 api2.jaxx.io
 0.0.0.0 app0.a-ads.com
 0.0.0.0 apps.cointraffic.io
+0.0.0.0 apps.ledgerwallet.com
 0.0.0.0 apps2.cointraffic.io
 0.0.0.0 autodiscover.uclick.in
 0.0.0.0 awesomeminer.com
@@ -134,6 +138,7 @@
 0.0.0.0 labs.binance.com
 0.0.0.0 launchpad.binance.com
 0.0.0.0 lb4.a-ads.com
+0.0.0.0 ledgerwallet.com
 0.0.0.0 link.cur.lv
 0.0.0.0 links.upcoin.com
 0.0.0.0 ltc-bitcore3.trezor.io
@@ -159,6 +164,7 @@
 0.0.0.0 multipoolminer.io
 0.0.0.0 mx.peerhash.com
 0.0.0.0 my.cur.lv
+0.0.0.0 my.ledgerwallet.com
 0.0.0.0 myetherwallet.com
 0.0.0.0 mymonero.com
 0.0.0.0 n.cur.lv
@@ -193,6 +199,7 @@
 0.0.0.0 sftp.binance.com
 0.0.0.0 shop.trezor.io
 0.0.0.0 smtp.awesomeminer.com
+0.0.0.0 start.ledgerwallet.com
 0.0.0.0 static.a-ads.com
 0.0.0.0 stats.ethc.io
 0.0.0.0 status.trezor.io
@@ -202,6 +209,8 @@
 0.0.0.0 support.a-ads.com
 0.0.0.0 support.binance.com
 0.0.0.0 support.evergreencoin.org
+0.0.0.0 support.ledgerwallet.com
+0.0.0.0 test.ledgerwallet.com
 0.0.0.0 to.cur.lv
 0.0.0.0 transactions.evergreencoin.org
 0.0.0.0 trezor.io
@@ -221,6 +230,7 @@
 0.0.0.0 wiki.emercoin.com
 0.0.0.0 wiki.evergreencoin.org
 0.0.0.0 wiki.trezor.io
+0.0.0.0 ws.ledgerwallet.com
 0.0.0.0 www.803mine.com
 0.0.0.0 www.a-ads.com
 0.0.0.0 www.antminer-store.com
@@ -247,6 +257,7 @@
 0.0.0.0 www.imperiumminer.com
 0.0.0.0 www.inwemo.com
 0.0.0.0 www.jaxx.io
+0.0.0.0 www.ledgerwallet.com
 0.0.0.0 www.mellowads.com
 0.0.0.0 www.mineshop.eu
 0.0.0.0 www.mining-rig.de

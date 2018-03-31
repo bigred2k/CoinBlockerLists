@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: If you like the CoinBlockerLists please support me, https://goo.gl/RRoPcu Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 30 03 2018 17:02
+# Last modified: 31 03 2018 13:57
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0x1f4b0.com
@@ -227,7 +227,6 @@
 0.0.0.0 api.jsecoin.com
 0.0.0.0 api.karbo.spacepools.org
 0.0.0.0 api.l33tsite.info
-0.0.0.0 api.ledgerwallet.com
 0.0.0.0 api.leviar.spacepools.org
 0.0.0.0 api.masari.spacepools.org
 0.0.0.0 api.minemonero.pro
@@ -271,8 +270,6 @@
 0.0.0.0 api.youbit.co.kr
 0.0.0.0 api.zec.spacepools.org
 0.0.0.0 api.zergpool.com
-0.0.0.0 api01.ledgerwallet.com
-0.0.0.0 api02.ledgerwallet.com
 0.0.0.0 api2.bitcoin.cz
 0.0.0.0 api2.bitfinex.com
 0.0.0.0 api2.moriaxmr.com
@@ -292,7 +289,6 @@
 0.0.0.0 appelamule.com
 0.0.0.0 applest.gq
 0.0.0.0 applest.tk
-0.0.0.0 apps.ledgerwallet.com
 0.0.0.0 appv2.antpool.com
 0.0.0.0 apt.z.cash
 0.0.0.0 aqqgli3vle.bid
@@ -2037,7 +2033,6 @@
 0.0.0.0 leaf.api.minemonero.pro
 0.0.0.0 leafapi.minemonero.pro
 0.0.0.0 leak-hub.com
-0.0.0.0 ledgerwallet.com
 0.0.0.0 ledhenone.com
 0.0.0.0 ledinund.com
 0.0.0.0 leviar.spacepools.org
@@ -2493,7 +2488,6 @@
 0.0.0.0 mxcdn2.now.sh
 0.0.0.0 my-retrospace.sbhmn-miner.com
 0.0.0.0 my.hashflare.io
-0.0.0.0 my.ledgerwallet.com
 0.0.0.0 my.minergate.com
 0.0.0.0 myadstats.com
 0.0.0.0 myatherwallet.biz
@@ -3392,7 +3386,6 @@
 0.0.0.0 staging.z.cash
 0.0.0.0 stak.suprnova.cc
 0.0.0.0 stakeunited.com
-0.0.0.0 start.ledgerwallet.com
 0.0.0.0 start.suprnova.cc
 0.0.0.0 startcoin.miningpoolhub.com
 0.0.0.0 startminer.com
@@ -3530,7 +3523,6 @@
 0.0.0.0 support.give-me-coins.com
 0.0.0.0 support.hashflare.io
 0.0.0.0 support.hitbtc.com
-0.0.0.0 support.ledgerwallet.com
 0.0.0.0 support.minertopia.org
 0.0.0.0 support.prohashing.com
 0.0.0.0 support.scryptpool.com
@@ -3578,7 +3570,6 @@
 0.0.0.0 test.cryptonoter.com
 0.0.0.0 test.eth.pp.ua
 0.0.0.0 test.gigarho.com
-0.0.0.0 test.ledgerwallet.com
 0.0.0.0 test.minercircle.com
 0.0.0.0 test.miningpoolhub.com
 0.0.0.0 test.minr.pw
@@ -3984,7 +3975,6 @@
 0.0.0.0 ws.ghash.io
 0.0.0.0 ws.hashnest.com
 0.0.0.0 ws.l33tsite.info
-0.0.0.0 ws.ledgerwallet.com
 0.0.0.0 ws.pzoifaum.info
 0.0.0.0 ws.sandbox.coinbase.com
 0.0.0.0 ws.tidafors.xyz
@@ -4561,7 +4551,6 @@
 0.0.0.0 www.karbowanec.crypto-webminer.com
 0.0.0.0 www.kippo.eu
 0.0.0.0 www.kosmoplovci.org
-0.0.0.0 www.ledgerwallet.com
 0.0.0.0 www.lightminer.co
 0.0.0.0 www.lindon-pool.win
 0.0.0.0 www.litecoinpool.org
