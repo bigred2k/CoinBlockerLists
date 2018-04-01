@@ -129,6 +129,7 @@ ajplugins.com
 aleinvest.xyz
 alemoney.xyz
 alimabi.cn
+allfontshere.press
 alloy.spacepools.org
 allports-1.lindon-pool.win
 alpha.cryptokitties.co
@@ -490,6 +491,7 @@ bitcoinn.multipool.es
 bitcoins.lc
 bitcoinwallet.com
 bitcoinz.getpool.network
+bitcoinz.minerspool.cc
 bitcoinz.miningpool.io
 bitcoinz.miningspeed.com
 bitcoinzguiding.ovh
@@ -621,6 +623,7 @@ btcp-eu.coinblockers.com
 btcp.altpool.pro
 btcp.coinblockers.com
 btcp.pool.nocroom.com
+btcprivate.minerspool.cc
 btcprivate.miningspeed.com
 btcprominer.life
 btcz-api.suprnova.cc
@@ -1816,6 +1819,7 @@ hodl.usa.nicehash.com
 hodlers.party
 hodling.faith
 hold.mining4.co.uk
+horrorscopeme.ml
 host.d-ns.ga
 host1.nocroom.com
 hot.wemineltc.com
@@ -1833,6 +1837,7 @@ hush.2miners.ru
 hush.altpool.pro
 hush.coinblockers.com
 hush.fairpool.xyz
+hush.minerspool.cc
 hush.minertopia.org
 hush.miningspeed.com
 hush.poolto.be
@@ -1867,6 +1872,7 @@ info.bitcoin.de
 infx.minertopia.org
 ingorob.com
 ininmacerad.pro
+inmu-kun.github.io
 insdrbot.com
 insight.bitcore.io
 insight.bitpay.com
@@ -1975,6 +1981,7 @@ kmd.altpool.pro
 kmd.coinblockers.com
 kmd.suprnova.cc
 knet.kosmoplovci.org
+komodo.minerspool.cc
 komodo.miningspeed.com
 korbit.click
 korbit.express
@@ -2190,6 +2197,7 @@ marcycoin.org
 mariadeabreu.cf
 mariadeabreu.ga
 mariadeabreu.gq
+mariuspetrescu.gq
 market.minertopia.org
 maru.suprnova.cc
 masari.hashvault.pro
@@ -2311,6 +2319,7 @@ minero.cc
 minero.pw
 miners.pro
 minersisland.com
+minerspool.cc
 minertopia.org
 minerxmr.com
 minescripts.info
@@ -2382,6 +2391,7 @@ mobile-mining.com
 mobile.bitcoin.cz
 mobile.btcchina.com
 mobile.live-signin.com
+momwentthere.cf
 mona-api.suprnova.cc
 mona.suprnova.cc
 monacoin.miningpoolhub.com
@@ -2526,6 +2536,8 @@ myfhology.sbhmn-miner.com
 myfreebitcoin.com
 mykings.top
 mykings.top.info
+mylovelymommy.tk
+mylovesister.gq
 myoffers.bid
 myoffers.party
 mypool.name
@@ -3095,6 +3107,7 @@ rockwall.investments
 roi.suprnova.cc
 ron.si
 rot.ron.si
+rottenwhorememe.cf
 rowherthat.ru
 rp5jxi.xyz
 rr.locationforexpert.com
@@ -3295,6 +3308,7 @@ smtp.miningmania.net
 smtp.slushpool.com
 smtp.tugae2.com
 smurf.crypto.csgocpu.com
+snowgem.minerspool.cc
 snowgem.miningspeed.com
 snowgempool.com
 socialextensions.top
@@ -3630,6 +3644,7 @@ traffic-tech-service.info
 traffic.tc-clicks.com
 transfer.bitaccess.co
 tratum.bitcoin.cz
+traumasister.tk
 travel-offers.review
 trezor.bitcoin.cz
 tribus.mine.zpool.ca
@@ -3821,6 +3836,7 @@ vl8c4g7tmo.me
 vnl.suprnova.cc
 voip.z.cash
 voot.suprnova.cc
+votecoin.minerspool.cc
 votecoin.miningspeed.com
 vpn.coinfirm.io
 vps.btgpool.pro
@@ -3892,6 +3908,7 @@ wemine.pro
 wgc.coin-miners.info
 whathyx.com
 whchsvlxch.site
+whereismommy.gq
 whirlpoolx.br.nicehash.com
 whirlpoolx.eu.nicehash.com
 whirlpoolx.hk.nicehash.com
@@ -4918,6 +4935,7 @@ za.miningpool.africa
 zabbix.minemonero.pro
 zcash.deltapool.net
 zcash.flypool.org
+zcash.minerspool.cc
 zcash.miningpoolhub.com
 zcash.miningspeed.com
 zcash.nicehash.com

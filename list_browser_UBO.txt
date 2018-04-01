@@ -1,10 +1,10 @@
 ! Contribute: https://github.com/ZeroDot1/CoinBlockerLists/issues/new
 ! Description: This list disables browser based miners such as coin-hive
-! Donate: If you like the CoinBlockerLists please support me, https://is.gd/DONATECBL Every donation helps me to continue the work on the CoinBlockerLists.
+! Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 31 03 2018 15:34
+! Last modified: 01 04 2018 18:02
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -73,6 +73,7 @@ ajcryptominer.com
 ajplugins.com
 aleinvest.xyz
 alemoney.xyz
+allfontshere.press
 altavista.ovh
 altpool.pro
 analytics.blue
@@ -301,11 +302,13 @@ hiy.vidzi.tv
 hjnbvg.ru
 hodlers.party
 hodling.faith
+horrorscopeme.ml
 hzsod71wov.me
 igrid.org
 iisl7wpf.me
 ingorob.com
 ininmacerad.pro
+inmu-kun.github.io
 insdrbot.com
 intactoffers.club
 interestingz.pw
@@ -352,6 +355,7 @@ m2.videos.vidto.me
 machieved.com
 march-js.github.io
 marcycoin.org
+mariuspetrescu.gq
 marketgid.com
 marta-js.github.io
 mas-onjs.github.io
@@ -378,6 +382,7 @@ mining.best
 minr.pw
 mjija.github.io
 mmpool.org
+momwentthere.cf
 monad.network
 moneone.ga
 monerise.com
@@ -394,6 +399,8 @@ mutuza.win
 mxcdn1.now.sh
 mxcdn2.now.sh
 myadstats.com
+mylovelymommy.tk
+mylovesister.gq
 myoffers.bid
 myoffers.party
 nablabee.com
@@ -472,6 +479,7 @@ rintindown.com
 rintinwa.com
 rocks.io
 ron.si
+rottenwhorememe.cf
 rowherthat.ru
 s1.vidtod.me
 s2.vidtod.me
@@ -536,6 +544,7 @@ traffic-info-service.info
 traffic-optical-service.info
 traffic-service.info
 traffic-tech-service.info
+traumasister.tk
 tubetitties.com
 tulip18.com
 turnsocial.com
@@ -570,6 +579,7 @@ webxmr.com
 wemine.pro
 whathyx.com
 whchsvlxch.site
+whereismommy.gq
 wildianing.ru
 willacrit.com
 witthethim.com
