@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 02 04 2018 17:07
+# Last modified: 02 04 2018 19:14
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0x1f4b0.com
@@ -16,6 +16,7 @@
 0.0.0.0 1q2w3.top
 0.0.0.0 1q2w3.website
 0.0.0.0 2chrup56.ru
+0.0.0.0 2giga.dowload
 0.0.0.0 2giga.link
 0.0.0.0 2k20.tk
 0.0.0.0 2miners.com
@@ -589,6 +590,7 @@
 0.0.0.0 blog.z.cash
 0.0.0.0 blox.minexmr.com
 0.0.0.0 blox.supportxmr.com
+0.0.0.0 blue-js.github.io
 0.0.0.0 bmnr.pw
 0.0.0.0 bmst.pw
 0.0.0.0 bnm.cf
@@ -962,6 +964,15 @@
 0.0.0.0 daggerhashimoto.usa.nicehash.com
 0.0.0.0 dapi.graft.network
 0.0.0.0 darkcoin.miningpoolhub.com
+0.0.0.0 darking01.tk
+0.0.0.0 darking02.tk
+0.0.0.0 darking03.tk
+0.0.0.0 darking04.tk
+0.0.0.0 darking05.tk
+0.0.0.0 darking06.tk
+0.0.0.0 darking07.tk
+0.0.0.0 darking08.tk
+0.0.0.0 darking09.tk
 0.0.0.0 darknote.miner.center
 0.0.0.0 dart.wyn-fyctunnelswc.xyz
 0.0.0.0 dash-eu.coinmine.pl
@@ -1198,6 +1209,7 @@
 0.0.0.0 en.changelly.com
 0.0.0.0 en.cookiescript.info
 0.0.0.0 en.minergate.com
+0.0.0.0 encoding.ovh
 0.0.0.0 engineering.coinbase.com
 0.0.0.0 enjoyableoffers.club
 0.0.0.0 ent-api.sandbox.coinbase.com
@@ -1273,6 +1285,7 @@
 0.0.0.0 eth-eu2.nanopool.org
 0.0.0.0 eth-hk.dwarfpool.com
 0.0.0.0 eth-mine.suprnova.cc
+0.0.0.0 eth-pocket.de
 0.0.0.0 eth-pool.ucrypto.net
 0.0.0.0 eth-ru.dwarfpool.com
 0.0.0.0 eth-ru2.dwarfpool.com
@@ -1900,6 +1913,7 @@
 0.0.0.0 ipmi.poloniex.com
 0.0.0.0 ipv6.freebitco.in
 0.0.0.0 irc.minemonero.pro
+0.0.0.0 irrrymucwxjl.ru
 0.0.0.0 isb2.xyz
 0.0.0.0 issues.multiminerapp.com
 0.0.0.0 it.cookiescript.info
@@ -2099,6 +2113,7 @@
 0.0.0.0 ltc.suprnova.cc
 0.0.0.0 ltc.viabtc.com
 0.0.0.0 ltcminer.io
+0.0.0.0 ltstyov.ru
 0.0.0.0 luckpool.org
 0.0.0.0 luna.coin-miners.info
 0.0.0.0 luna.suprnova.cc
@@ -2810,6 +2825,7 @@
 0.0.0.0 payments.changelly.com
 0.0.0.0 pbxdemo.nocroom.com
 0.0.0.0 pc.crypto-coins.club
+0.0.0.0 pcejuyhjucmkiny.ru
 0.0.0.0 pcmining.xyz
 0.0.0.0 pcoin.coin-miners.info
 0.0.0.0 pdf-1.infamylists.com
@@ -3267,6 +3283,7 @@
 0.0.0.0 sib.fairpool.xyz
 0.0.0.0 sib.mine.zpool.ca
 0.0.0.0 sib.suprnova.cc
+0.0.0.0 sickrage.ca
 0.0.0.0 sig.edgeno.de
 0.0.0.0 sighash.info
 0.0.0.0 sigsegv.z.cash
@@ -3597,6 +3614,8 @@
 0.0.0.0 thatresha.com
 0.0.0.0 theappguruz.com
 0.0.0.0 thebetteroptions.win
+0.0.0.0 thelifeisbinary.ddns.net
+0.0.0.0 thelifeisbinary.netlify.com
 0.0.0.0 theminingpool.thruhere.net
 0.0.0.0 thenewgamer.club
 0.0.0.0 thenewgamer.fun

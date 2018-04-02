@@ -10,6 +10,7 @@
 1q2w3.top
 1q2w3.website
 2chrup56.ru
+2giga.dowload
 2giga.link
 2k20.tk
 2miners.com
@@ -583,6 +584,7 @@ blog.slushpool.com
 blog.z.cash
 blox.minexmr.com
 blox.supportxmr.com
+blue-js.github.io
 bmnr.pw
 bmst.pw
 bnm.cf
@@ -956,6 +958,15 @@ daggerhashimoto.jp.nicehash.com
 daggerhashimoto.usa.nicehash.com
 dapi.graft.network
 darkcoin.miningpoolhub.com
+darking01.tk
+darking02.tk
+darking03.tk
+darking04.tk
+darking05.tk
+darking06.tk
+darking07.tk
+darking08.tk
+darking09.tk
 darknote.miner.center
 dart.wyn-fyctunnelswc.xyz
 dash-eu.coinmine.pl
@@ -1192,6 +1203,7 @@ eminer.net
 en.changelly.com
 en.cookiescript.info
 en.minergate.com
+encoding.ovh
 engineering.coinbase.com
 enjoyableoffers.club
 ent-api.sandbox.coinbase.com
@@ -1267,6 +1279,7 @@ eth-eu1.nanopool.org
 eth-eu2.nanopool.org
 eth-hk.dwarfpool.com
 eth-mine.suprnova.cc
+eth-pocket.de
 eth-pool.ucrypto.net
 eth-ru.dwarfpool.com
 eth-ru2.dwarfpool.com
@@ -1894,6 +1907,7 @@ ipfs.io
 ipmi.poloniex.com
 ipv6.freebitco.in
 irc.minemonero.pro
+irrrymucwxjl.ru
 isb2.xyz
 issues.multiminerapp.com
 it.cookiescript.info
@@ -2093,6 +2107,7 @@ ltc.poolto.be
 ltc.suprnova.cc
 ltc.viabtc.com
 ltcminer.io
+ltstyov.ru
 luckpool.org
 luna.coin-miners.info
 luna.suprnova.cc
@@ -2804,6 +2819,7 @@ paymentblog.coincheck.com
 payments.changelly.com
 pbxdemo.nocroom.com
 pc.crypto-coins.club
+pcejuyhjucmkiny.ru
 pcmining.xyz
 pcoin.coin-miners.info
 pdf-1.infamylists.com
@@ -3261,6 +3277,7 @@ siamining.com
 sib.fairpool.xyz
 sib.mine.zpool.ca
 sib.suprnova.cc
+sickrage.ca
 sig.edgeno.de
 sighash.info
 sigsegv.z.cash
@@ -3591,6 +3608,8 @@ thathislitt.ru
 thatresha.com
 theappguruz.com
 thebetteroptions.win
+thelifeisbinary.ddns.net
+thelifeisbinary.netlify.com
 theminingpool.thruhere.net
 thenewgamer.club
 thenewgamer.fun
