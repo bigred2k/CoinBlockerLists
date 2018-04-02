@@ -2,9 +2,11 @@
 # Description: This list contains all entries wrongly listed in the CoinBlockerLists.
 # Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 01 04 2018 18:02
+# Last modified: 02 04 2018 17:07
 # We cannot guarantee the accuracy and completeness of the information contained in this document.
 # [CoinBlocker List by ZeroDot1]
+google.gus.host
+gus.host
 hans.pr0gramm.com
 hurensohn.pr0gramm.com
 img.pr0gramm.com
@@ -12,6 +14,8 @@ joyreactor.cc
 m.pr0gramm.com
 pr0gramm.com
 rawgit.com
+s.gus.host
 thumb.pr0gramm.com
 vid.pr0gramm.com
+www.gus.host
 www.pr0gramm.com

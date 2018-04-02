@@ -1703,7 +1703,6 @@ goldoffer.online
 gonline.bid
 goodkino.biz
 goodolddownloads.com
-google.gus.host
 googleanalytcs.com
 goredirect.party
 gowk.me
@@ -1741,7 +1740,6 @@ grt.suprnova.cc
 gtg02.bestsecurepractice.com
 guest-stat.com
 gulf.moneroocean.stream
-gus.host
 gustaver.ddns.ne
 gustaver.ddns.net
 h.nanopool.org
@@ -3124,7 +3122,6 @@ rus.pool.gold
 rvn.suprnova.cc
 s-games.xyz
 s.analytics.blue
-s.gus.host
 s.m.eligius.st
 s.sunnyjuly.gq
 s.zsolo.bid
@@ -4563,7 +4560,6 @@ www.gitlab.bitpay.com
 www.give-me-coins.com
 www.globe.suprnova.cc
 www.graftpool.net
-www.gus.host
 www.hashcoin.io
 www.hashcoins.com
 www.hashcoins.ee

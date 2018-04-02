@@ -419,7 +419,6 @@ goldnova.crypto.csgocpu.com
 goldoffer.online
 goodkino.biz
 goodolddownloads.com
-google.gus.host
 googleanalytcs.com
 goredirect.party
 goxmrminer.com
@@ -431,7 +430,6 @@ gridcash.net
 gridiogrid.com
 gtg02.bestsecurepractice.com
 gulf.moneroocean.stream
-gus.host
 gustaver.ddns.ne
 gustaver.ddns.net
 hallaert.online
@@ -759,7 +757,6 @@ rottenwhorememe.cf
 rowherthat.ru
 rtw.monerise.com
 s.analytics.blue
-s.gus.host
 s001.monerise.com
 s002.monerise.com
 s003.monerise.com
@@ -1436,7 +1433,6 @@ www.freebitco.in
 www.freecontent.bid
 www.freecontent.loan
 www.freecontent.win
-www.gus.host
 www.hashforcash.us
 www.hashvault.pro
 www.hemnes.win
