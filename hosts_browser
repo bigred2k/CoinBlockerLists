@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 02 04 2018 19:14
+# Last modified: 02 04 2018 21:35
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0x1f4b0.com
@@ -815,7 +815,6 @@
 0.0.0.0 server.jsecoin.com
 0.0.0.0 server4.nullrefexcep.com
 0.0.0.0 shrink-service.it
-0.0.0.0 sickrage.ca
 0.0.0.0 silimbompom.com
 0.0.0.0 silver.crypto.csgocpu.com
 0.0.0.0 simpleco.in

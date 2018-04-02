@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 02 04 2018 19:14
+! Last modified: 02 04 2018 21:35
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -508,7 +508,6 @@ secumine.net
 sen-to-zdrowie.ml
 serie-vostfr.com
 shrink-service.it
-sickrage.ca
 silimbompom.com
 simpleco.in
 siteverification.online
