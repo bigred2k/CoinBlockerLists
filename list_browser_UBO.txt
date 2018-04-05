@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 02 04 2018 21:35
+! Last modified: 05 04 2018 17:31
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -129,6 +129,7 @@ cdn-analytics.pl
 cdn-code.host
 cdn-jquery.host
 cdn.adless.io
+cdn.akubebas.com
 cdn.rove.cl
 cdn.streambeam.io
 cdncounter.top
@@ -338,6 +339,7 @@ jroqvbvw.info
 jsccnn.com
 jscdndel.com
 jsecoin.com
+jwduahujge.ru
 jyhfuqoh.info
 kalipasindra.online
 kdowqlpt.info
@@ -348,6 +350,7 @@ kippbeak.cf
 kiwifarms.net
 kjli.fi
 krb.devphp.org.ua
+ksimdw.ru
 l33tsite.info
 laserveradedomaina.com
 latestpromotions.club
@@ -606,6 +609,7 @@ wp-monero-miner.de
 wpcdn1.herokuapp.com
 wqgkainysj.ru
 wronpeci.com
+wrxgandsfcz.ru
 ws01cn.streamplay.to
 ws02cn.streamplay.to
 ws03cn.streamplay.to
