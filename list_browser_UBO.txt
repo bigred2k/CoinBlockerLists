@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 05 04 2018 17:31
+! Last modified: 11 04 2018 00:01
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -19,6 +19,7 @@
 1q2w3.top
 1q2w3.website
 2giga.dowload
+2ledhenone.com
 300ca0d0.space
 310ca263.space
 320ca3f6.space
@@ -77,6 +78,7 @@ alemoney.xyz
 allfontshere.press
 altavista.ovh
 altpool.pro
+amhixwqagiz.ru
 analytics.blue
 andlache.com
 api.aalbbh84.info
@@ -291,7 +293,6 @@ gnrdomimplementation.com
 go.megabanners.cf
 goldoffer.online
 goodkino.biz
-goodolddownloads.com
 googleanalytcs.com
 goredirect.party
 goxmrminer.com
@@ -313,11 +314,14 @@ hhb123.tk
 hive.tubetitties.com
 hiy.vidzi.tv
 hjnbvg.ru
+hlpidkr.ru
 hodlers.party
 hodling.faith
 horrorscopeme.ml
+hrfziiddxa.ru
 hzsod71wov.me
 igrid.org
+ihdvilappuxpgiv.ru
 iisl7wpf.me
 ingorob.com
 ininmacerad.pro
@@ -327,6 +331,8 @@ intactoffers.club
 interestingz.pw
 inwemo.com
 irrrymucwxjl.ru
+ivuovhsn.ru
+ixvenhgwukn.ru
 jhondi33.duckdns.org
 jqcdn.download
 jqcdn01.herokuapp.com
@@ -335,6 +341,7 @@ jqcdn2.herokuapp.com
 jquery-cdn.download
 jquery-uim.download
 jqwww.download
+jqxrrygqnagn.ru
 jroqvbvw.info
 jsccnn.com
 jscdndel.com
@@ -452,6 +459,7 @@ onion.top
 onlinereserchstatistics.online
 open-hive-server-1.pp.ua
 openkatalog.com
+oxwwoeukjispema.ru
 p.estream.to
 p1.assetscdn.stream
 p1.gnrdomimplementation.com
@@ -532,6 +540,7 @@ stonecalcom.com
 streamplay.top
 subloader.cf
 sunhd.info
+svivqrhrh.ru
 sxcdn02.now.sh
 sxcdn03.now.sh
 sxcdn04.now.sh
@@ -579,10 +588,13 @@ vcrypt.net
 veritrol.com
 verresof.com
 vg02h8z1ul.me
+video.streaming.estream.to
+video.videos.vidto.me
 vidfile.net
 vidzi.tv
 vjcyehtqm9.me
 vl8c4g7tmo.me
+vpzccwpyilvoyg.ru
 vxelkrhl.info
 vzhjnorkudcxbiy.com
 web.dle-news.pw
@@ -604,6 +616,8 @@ wildianing.ru
 willacrit.com
 witthethim.com
 wittyoffers.club
+wmemsnhgldd.ru
+wmwmwwfmkvucbln.ru
 worker.salon.com
 wp-monero-miner.de
 wpcdn1.herokuapp.com
@@ -623,6 +637,7 @@ xmrminingproxy.com
 yrdrtzmsmt.com
 yuyyio.com
 zgdfz6h7po.me
+ziykrgc.ru
 zjemch.ru
 zlx.com.br
 zny.coiner.site

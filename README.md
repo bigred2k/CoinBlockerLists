@@ -98,29 +98,22 @@ Thanks to all who use and support CoinBlockerLists.
 ## Pi-hole - A black hole for Internet advertisements [https://github.com/pi-hole](https://github.com/pi-hole)
 
 ## References:
-[https://blog.threatstop.com/all-up-in-your-browser-stopping-cryptojacking-attacks](https://blog.threatstop.com/all-up-in-your-browser-stopping-cryptojacking-attacks)
-
-[https://www.securityweek.com/avoid-becoming-crypto-mining-bot-where-look-mining-malware-and-how-respond](https://www.securityweek.com/avoid-becoming-crypto-mining-bot-where-look-mining-malware-and-how-respond)
-
-[https://malware-research.org/block-js-based-coinminers-with-little-snitch-and-coinblockerlist-on-mac/](https://malware-research.org/block-js-based-coinminers-with-little-snitch-and-coinblockerlist-on-mac/)
-
-[https://badpackets.net/how-to-find-cryptojacking-malware/](https://badpackets.net/how-to-find-cryptojacking-malware/)
-
-[https://twitter.com/bad_packets/status/950876326189150209](https://twitter.com/bad_packets/status/950876326189150209)
-
-[http://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-024.pdf](http://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-024.pdf)
-
-[https://blog.cryptoaustralia.org.au/2017/11/15/favourite-block-lists-cryptoaustralia/](https://blog.cryptoaustralia.org.au/2017/11/15/favourite-block-lists-cryptoaustralia/)
-
-[https://www.ubuntuboss.com/how-to-install-pihole-on-ubuntu-16-04/](https://www.ubuntuboss.com/how-to-install-pihole-on-ubuntu-16-04/)
-
-[https://otx.alienvault.com/pulse/5a0a9d03fee07f1774a21123](https://otx.alienvault.com/pulse/5a0a9d03fee07f1774a21123)
-
-[http://jasonhill.co.uk/pfsense/blocklists.txt](http://jasonhill.co.uk/pfsense/blocklists.txt)
-
-[https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24](https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24)
+- [https://blog.threatstop.com/all-up-in-your-browser-stopping-cryptojacking-attacks](https://blog.threatstop.com/all-up-in-your-browser-stopping-cryptojacking-attacks)
+- [https://www.securityweek.com/avoid-becoming-crypto-mining-bot-where-look-mining-malware-and-how-respond](https://www.securityweek.com/avoid-becoming-crypto-mining-bot-where-look-mining-malware-and-how-respond)
+- [https://malware-research.org/block-js-based-coinminers-with-little-snitch-and-coinblockerlist-on-mac/](https://malware-research.org/block-js-based-coinminers-with-little-snitch-and-coinblockerlist-on-mac/)
+- [https://badpackets.net/how-to-find-cryptojacking-malware/](https://badpackets.net/how-to-find-cryptojacking-malware/)
+- [https://twitter.com/bad_packets/status/950876326189150209](https://twitter.com/bad_packets/status/950876326189150209)
+- [http://smartermsp.com/cryptojacking-not-victimless-crime/](http://smartermsp.com/cryptojacking-not-victimless-crime/)
+- [https://logrhythm.com/blog/insider-threat-use-case-detecting-and-stopping-cryptojacking/](https://logrhythm.com/blog/insider-threat-use-case-detecting-and-stopping-cryptojacking/)
+- [https://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-024.pdf](https://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-024.pdf)
+- [https://blog.cryptoaustralia.org.au/2017/11/15/favourite-block-lists-cryptoaustralia/](https://blog.cryptoaustralia.org.au/2017/11/15/favourite-block-lists-cryptoaustralia/)
+- [https://www.ubuntuboss.com/how-to-install-pihole-on-ubuntu-16-04/](https://www.ubuntuboss.com/how-to-install-pihole-on-ubuntu-16-04/)
+- [https://otx.alienvault.com/pulse/5a0a9d03fee07f1774a21123](https://otx.alienvault.com/pulse/5a0a9d03fee07f1774a21123)
+- [http://jasonhill.co.uk/pfsense/blocklists.txt](http://jasonhill.co.uk/pfsense/blocklists.txt)
+- [https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24](https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24)
 
 ### Contact
-Twitter: [@hobbygrafix](https://twitter.com/hobbygrafix)
-Mastodon: [@hoerspiel](https://mastodon.cloud/@hoerspiel)
-E-Mail: [ZeroDot1@bK.Ru](mailto:zerodot1@bk.ru)
+You have a problem or want to change something in the CoinBlockerLists, please contact me. The following contact options are available.
+- Twitter: [@hobbygrafix](https://twitter.com/hobbygrafix)
+- Mastodon: [@hoerspiel](https://mastodon.cloud/@hoerspiel)
+- E-Mail: [ZeroDot1@bK.Ru](mailto:zerodot1@bk.ru)
