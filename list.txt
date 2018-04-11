@@ -380,6 +380,7 @@ bablace.com
 back4.2giga.link
 backends.bid
 baiduccdn1.com
+banner.boostbox.com.br
 bauersagtnein.myeffect.net
 bbr.crypto-coins.club
 bbr.extremepool.org
@@ -606,6 +607,7 @@ boat.suprnova.cc
 bohemianpool.com
 books.coincheck.com
 boolberry.extremepool.org
+boostbox.com.br
 bowithow.com
 box.sighash.info
 bpi.coin-miners.info
@@ -2189,6 +2191,7 @@ lyra2v2.mine.ahashpool.com
 lyra2v2.mine.zpool.ca
 lyra2z.mine.zpool.ca
 lzobilie.cf
+lọgrhythm.com
 m-a.btcchina.com
 m.anyfiles.ovh
 m.bitcoin.cz
@@ -4558,6 +4561,7 @@ www.assetscdn.stream
 www.authedmine.com
 www.bablace.com
 www.baiduccdn1.com
+www.banner.boostbox.com.br
 www.beagamer.club
 www.bestETNpool.com
 www.biberukalap.com
@@ -4588,6 +4592,7 @@ www.blog.coinbase.com
 www.blog.hashflare.io
 www.blog.slushpool.com
 www.bohemianpool.com
+www.boostbox.com.br
 www.bravo-mining.com
 www.breadapp.com
 www.brominer.com

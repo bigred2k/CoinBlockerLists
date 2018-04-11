@@ -144,6 +144,7 @@ b.proxy4.nullrefexcep.com
 bablace.com
 back4.2giga.link
 baiduccdn1.com
+banner.boostbox.com.br
 bauersagtnein.myeffect.net
 bcn.cpufan.club
 becanium.com
@@ -167,6 +168,7 @@ blox.minexmr.com
 blue-js.github.io
 bmnr.pw
 bmst.pw
+boostbox.com.br
 bowithow.com
 brominer.com
 browsermine.com
@@ -544,6 +546,7 @@ losangeles01.monero.hashvault.pro
 losital.ru
 lottery-lists.freebitco.in
 ltstyov.ru
+lọgrhythm.com
 m.anyfiles.ovh
 m.pr0gramm.com
 m001.monerise.com
@@ -1444,8 +1447,10 @@ www.assetscdn.stream
 www.authedmine.com
 www.bablace.com
 www.baiduccdn1.com
+www.banner.boostbox.com.br
 www.biberukalap.com
 www.bitcoiner.win
+www.boostbox.com.br
 www.brominer.com
 www.browsermine.com
 www.cloudcdn.gdn
