@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 12 04 2018 00:01
+! Last modified: 13 04 2018 16:13
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -85,7 +85,10 @@ api.aalbbh84.info
 appelamule.com
 april-js.github.io
 aqqgli3vle.bid
+arizona-miner.tk
 aservices.party
+aster18cdn.nl
+aster18prx.nl
 asvoxod.ru
 audioknigi.club
 auroramine.com
@@ -190,6 +193,7 @@ coinnebula.com
 coinpirate.cf
 coinpot.co
 coinrail.io
+coinwebmining.com
 coinworker.com
 colnhive.com
 conhive.com
@@ -267,6 +271,7 @@ fge9vbrzwt.bid
 fili.tv
 firmware.center
 flare-analytics.com
+flnqmin.org
 flophous.cf
 formulawire.com
 fortrader.ru
@@ -312,6 +317,7 @@ hatevery.info
 hegrinhar.com
 hemnes.win
 hhb123.tk
+hide.ovh
 hive.tubetitties.com
 hiy.vidzi.tv
 hjnbvg.ru
@@ -360,6 +366,7 @@ kjli.fi
 krb.devphp.org.ua
 ksimdw.ru
 l33tsite.info
+laferia.cr
 laserveradedomaina.com
 latestpromotions.club
 ledhenone.com
@@ -407,6 +414,7 @@ minescripts.info
 mining.best
 minr.pw
 mjija.github.io
+mmc.center
 mmpool.org
 momwentthere.cf
 monad.network
@@ -439,6 +447,9 @@ never.ovh
 nexttime.ovh
 nfwebminer.com
 niematego.tk
+nimiq.watch
+nimiqpool.com
+nimiqtest.net
 ningtoldrop.ru
 nitsche.top
 nkxdyorwbt.com
@@ -451,6 +462,7 @@ nullrefexcep.com
 nunu-001.now.sh
 ny7f6goy.bid
 offerreality.com
+ogondkskyahxa.ru
 ogrid.org
 ohac.github.io
 oinkinns.tk
@@ -492,6 +504,7 @@ punchsub.net
 pzoifaum.info
 questionfly.com
 r8nu86wg.me
+rand.com.ru
 rapidvideo.com
 realnetwrk.com
 reasedoper.pw
@@ -512,6 +525,7 @@ rowherthat.ru
 s1.vidtod.me
 s2.vidtod.me
 s3.vidtod.me
+s7ven.com
 safelinkconverter.com
 salamaleyum.com
 sbhmn-miner.com
@@ -521,6 +535,7 @@ secumine.net
 sen-to-zdrowie.ml
 serie-vostfr.com
 shrink-service.it
+sickrage.ca
 silimbompom.com
 simpleco.in
 siteverification.online
@@ -599,6 +614,7 @@ vl8c4g7tmo.me
 vpzccwpyilvoyg.ru
 vxelkrhl.info
 vzhjnorkudcxbiy.com
+vzzexalcirfgrf.ru
 web.dle-news.pw
 webassembly.stream
 webmine.cz
@@ -638,6 +654,7 @@ xmrm.pw
 xmrminingproxy.com
 yrdrtzmsmt.com
 yuyyio.com
+zavzlen.ru
 zgdfz6h7po.me
 ziykrgc.ru
 zjemch.ru
