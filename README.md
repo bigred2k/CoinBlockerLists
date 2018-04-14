@@ -104,6 +104,8 @@ Thanks to all who use and support CoinBlockerLists.
 - [https://malware-research.org/block-js-based-coinminers-with-little-snitch-and-coinblockerlist-on-mac/](https://malware-research.org/block-js-based-coinminers-with-little-snitch-and-coinblockerlist-on-mac/)
 - [https://badpackets.net/how-to-find-cryptojacking-malware/](https://badpackets.net/how-to-find-cryptojacking-malware/)
 - [https://twitter.com/bad_packets/status/950876326189150209](https://twitter.com/bad_packets/status/950876326189150209)
+- [https://www.borncity.com/blog/2018/02/22/wissen-crypto-mining-jacking-erkennen-und-verhindern/](https://www.borncity.com/blog/2018/02/22/wissen-crypto-mining-jacking-erkennen-und-verhindern/)
+- [https://www.borncity.com/blog/2018/02/23/wissen-crypto-mining-jacking-verhindern-teil-2/](https://www.borncity.com/blog/2018/02/23/wissen-crypto-mining-jacking-verhindern-teil-2/)
 - [http://smartermsp.com/cryptojacking-not-victimless-crime/](http://smartermsp.com/cryptojacking-not-victimless-crime/)
 - [https://logrhythm.com/blog/insider-threat-use-case-detecting-and-stopping-cryptojacking/](https://logrhythm.com/blog/insider-threat-use-case-detecting-and-stopping-cryptojacking/)
 - [https://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-024.pdf](https://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-024.pdf)
