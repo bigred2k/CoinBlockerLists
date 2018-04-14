@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 13 04 2018 16:13
+# Last modified: 14 04 2018 02:19
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0x1f4b0.com
@@ -341,7 +341,6 @@
 0.0.0.0 asia1.zenmine.pro
 0.0.0.0 asia2.ethermine.org
 0.0.0.0 asianode.pool.gold
-0.0.0.0 asicshack
 0.0.0.0 assets.coinbase.com
 0.0.0.0 assets.coincheck.com
 0.0.0.0 assets.lydian.io

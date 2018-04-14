@@ -335,7 +335,6 @@ asia1.zcash.miningpoolhub.com
 asia1.zenmine.pro
 asia2.ethermine.org
 asianode.pool.gold
-asicshack
 assets.coinbase.com
 assets.coincheck.com
 assets.lydian.io
