@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 13 04 2018 16:13
+! Last modified: 15 04 2018 00:01
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -103,6 +103,7 @@ aymcsx.ru
 azvjudwr.info
 bablace.com
 baiduccdn1.com
+basepush.com
 bauersagtnein.myeffect.net
 becanium.com
 befirstcdn.com
@@ -518,6 +519,7 @@ retadint.com
 rineventrec.com
 rintindown.com
 rintinwa.com
+rmawm7mw.top
 rocks.io
 ron.si
 rottenwhorememe.cf
