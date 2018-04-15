@@ -2306,9 +2306,11 @@ m.sighash.info
 m.thecoin.pw
 m001.monerise.com
 m1.monerise.com
+m1.stream.vidzi.tv
 m1.streaming.estream.to
 m1.videos.vidto.me
 m2.cdn-jquery.host
+m2.stream.vidzi.tv
 m2.streaming.estream.to
 m2.videos.vidto.me
 m3.cdn-jquery.host
@@ -3061,6 +3063,9 @@ pit.deepbit.net
 pivx.cryptopool.io
 pl.minergate.com
 platform.jsecoin.com
+play.stream.vidzi.tv
+play.streaming.estream.to
+play.video.estream.nu
 player.h-cdn.com
 playerassets.info
 playerhd2.pw
@@ -3370,11 +3375,13 @@ s1.vidtod.me
 s1585.ultimatepool.io
 s2.analytics.blue
 s2.appelamule.com
+s2.video.estream.nu
 s2.vidtod.me
 s23.crypto-loot.com
 s3.analytics.blue
 s3.gasolina.ml
 s3.minexmr.com
+s3.video.estream.nu
 s3.vidtod.me
 s3238.ultimatepool.io
 s7ven.com
@@ -4128,6 +4135,7 @@ vg02h8z1ul.me
 via.suprnova.cc
 viaxmr.com
 vic.altpool.pro
+video.stream.vidzi.tv
 video.streaming.estream.to
 video.videos.vidto.me
 vidfile.net

@@ -558,9 +558,11 @@ m.anyfiles.ovh
 m.pr0gramm.com
 m001.monerise.com
 m1.monerise.com
+m1.stream.vidzi.tv
 m1.streaming.estream.to
 m1.videos.vidto.me
 m2.cdn-jquery.host
+m2.stream.vidzi.tv
 m2.streaming.estream.to
 m2.videos.vidto.me
 m3.cdn-jquery.host
@@ -735,6 +737,9 @@ phx-2.xmrpool.net
 phx-3.xmrpool.net
 phx-4.xmrpool.net
 platform.jsecoin.com
+play.stream.vidzi.tv
+play.streaming.estream.to
+play.video.estream.nu
 player.h-cdn.com
 playerassets.info
 plexcoin.info
@@ -812,11 +817,13 @@ s003.papoto.com
 s1.vidtod.me
 s2.analytics.blue
 s2.appelamule.com
+s2.video.estream.nu
 s2.vidtod.me
 s23.crypto-loot.com
 s3.analytics.blue
 s3.gasolina.ml
 s3.minexmr.com
+s3.video.estream.nu
 s3.vidtod.me
 s7ven.com
 sa.monerise.com
@@ -972,6 +979,7 @@ veritrol.com
 verresof.com
 vg02h8z1ul.me
 viaxmr.com
+video.stream.vidzi.tv
 video.streaming.estream.to
 video.videos.vidto.me
 vidfile.net
