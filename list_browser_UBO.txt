@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 15 04 2018 16:49
+! Last modified: 15 04 2018 17:53
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -257,7 +257,6 @@ eeme7j.win
 elthamely.com
 encoding.ovh
 enjoyableoffers.club
-estream.to
 et-code.ru
 etacontent.com
 eth-pocket.de
@@ -471,12 +470,10 @@ ohac.github.io
 oinkinns.tk
 okexysylgzo.ru
 okeyletsgo.ml
-oload.info
 onlinereserchstatistics.online
 open-hive-server-1.pp.ua
 openkatalog.com
 oxwwoeukjispema.ru
-p.estream.to
 p1.assetscdn.stream
 p1.gnrdomimplementation.com
 p1.interestingz.pw
@@ -513,7 +510,6 @@ pzoifaum.info
 questionfly.com
 r8nu86wg.me
 rand.com.ru
-rapidvideo.com
 realnetwrk.com
 reasedoper.pw
 red-js.github.io
@@ -565,7 +561,6 @@ static.hk.rs
 staticsfs.host
 statistic.date
 stonecalcom.com
-streamplay.top
 subloader.cf
 sunhd.info
 svivqrhrh.ru
@@ -619,8 +614,6 @@ vg02h8z1ul.me
 video.stream.vidzi.tv
 video.streaming.estream.to
 video.videos.vidto.me
-vidfile.net
-vidzi.tv
 vjcyehtqm9.me
 vl8c4g7tmo.me
 vpzccwpyilvoyg.ru

@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 15 04 2018 16:49
+# Last modified: 15 04 2018 17:53
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0x1f4b0.com
@@ -154,6 +154,7 @@
 0.0.0.0 altavista.ovh
 0.0.0.0 altcom.coin-miners.info
 0.0.0.0 altpool.pro
+0.0.0.0 alwayshashing.com
 0.0.0.0 am9ozs.xyz
 0.0.0.0 amber.coin-miners.info
 0.0.0.0 amber.suprnova.cc
@@ -1333,7 +1334,6 @@
 0.0.0.0 esc.thecoin.pw
 0.0.0.0 escobar.pr0gramm.com
 0.0.0.0 esp.suprnova.cc
-0.0.0.0 estream.to
 0.0.0.0 et-code.ru
 0.0.0.0 etacontent.com
 0.0.0.0 etc-api.semipool.com
@@ -2941,7 +2941,6 @@
 0.0.0.0 old.uupool.cn
 0.0.0.0 oldsupport.prohashing.com
 0.0.0.0 oldtips.poolto.be
-0.0.0.0 oload.info
 0.0.0.0 omega.suprnova.cc
 0.0.0.0 omfg.pw
 0.0.0.0 onixcoin.multipool.es
@@ -2967,7 +2966,6 @@
 0.0.0.0 oxmr-us-east1.nanopool.org
 0.0.0.0 oxmr-us-west1.nanopool.org
 0.0.0.0 oxwwoeukjispema.ru
-0.0.0.0 p.estream.to
 0.0.0.0 p.hemnes.win
 0.0.0.0 p.sunnyjuly.gq
 0.0.0.0 p.tidafors.xyz
@@ -3300,7 +3298,6 @@
 0.0.0.0 rain.suprnova.cc
 0.0.0.0 rainpool.io
 0.0.0.0 rand.com.ru
-0.0.0.0 rapidvideo.com
 0.0.0.0 ratchetcoins.nl
 0.0.0.0 ratchetmining.com
 0.0.0.0 ratingtoplist.com
@@ -3410,6 +3407,8 @@
 0.0.0.0 sbk.extremepool.org
 0.0.0.0 sc.f2pool.com
 0.0.0.0 scaleway.ovh
+0.0.0.0 scanner1.alwayshashing.com
+0.0.0.0 scanner2.alwayshashing.com
 0.0.0.0 score.coin-miners.info
 0.0.0.0 score.thecoin.pw
 0.0.0.0 script.nimiqpool.com
@@ -3780,7 +3779,6 @@
 0.0.0.0 stratun.bitcoin.cz
 0.0.0.0 straum.bitcoin.cz
 0.0.0.0 stream.nullrefexcep.com
-0.0.0.0 streamplay.top
 0.0.0.0 stringengines.com
 0.0.0.0 su.mining.eligius.st
 0.0.0.0 subloader.cf
@@ -4144,8 +4142,6 @@
 0.0.0.0 video.stream.vidzi.tv
 0.0.0.0 video.streaming.estream.to
 0.0.0.0 video.videos.vidto.me
-0.0.0.0 vidfile.net
-0.0.0.0 vidzi.tv
 0.0.0.0 viewyng.com
 0.0.0.0 vip.antpool.com
 0.0.0.0 vip.btcchina.com
@@ -4173,6 +4169,7 @@
 0.0.0.0 vtc.poolmining.org
 0.0.0.0 vtc.suprnova.cc
 0.0.0.0 vtc.thecoin.pw
+0.0.0.0 vtc2.alwayshashing.com
 0.0.0.0 vxelkrhl.info
 0.0.0.0 vzhjnorkudcxbiy.com
 0.0.0.0 vzzexalcirfgrf.ru
@@ -4760,6 +4757,7 @@
 0.0.0.0 www.aikapool.com
 0.0.0.0 www.ajcryptominer.com
 0.0.0.0 www.altpool.pro
+0.0.0.0 www.alwayshashing.com
 0.0.0.0 www.analytics.blue
 0.0.0.0 www.antpool.com
 0.0.0.0 www.api.bitaccess.co

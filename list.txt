@@ -148,6 +148,7 @@ alpha.cryptokitties.co
 altavista.ovh
 altcom.coin-miners.info
 altpool.pro
+alwayshashing.com
 am9ozs.xyz
 amber.coin-miners.info
 amber.suprnova.cc
@@ -1327,7 +1328,6 @@ es.minergate.com
 esc.thecoin.pw
 escobar.pr0gramm.com
 esp.suprnova.cc
-estream.to
 et-code.ru
 etacontent.com
 etc-api.semipool.com
@@ -2935,7 +2935,6 @@ old.nicehash.com
 old.uupool.cn
 oldsupport.prohashing.com
 oldtips.poolto.be
-oload.info
 omega.suprnova.cc
 omfg.pw
 onixcoin.multipool.es
@@ -2961,7 +2960,6 @@ oxmr-eu2.nanopool.org
 oxmr-us-east1.nanopool.org
 oxmr-us-west1.nanopool.org
 oxwwoeukjispema.ru
-p.estream.to
 p.hemnes.win
 p.sunnyjuly.gq
 p.tidafors.xyz
@@ -3294,7 +3292,6 @@ rack.cryptaloot.pro
 rain.suprnova.cc
 rainpool.io
 rand.com.ru
-rapidvideo.com
 ratchetcoins.nl
 ratchetmining.com
 ratingtoplist.com
@@ -3404,6 +3401,8 @@ sbhmn-miner.com
 sbk.extremepool.org
 sc.f2pool.com
 scaleway.ovh
+scanner1.alwayshashing.com
+scanner2.alwayshashing.com
 score.coin-miners.info
 score.thecoin.pw
 script.nimiqpool.com
@@ -3774,7 +3773,6 @@ stratum2.wemineltc.com
 stratun.bitcoin.cz
 straum.bitcoin.cz
 stream.nullrefexcep.com
-streamplay.top
 stringengines.com
 su.mining.eligius.st
 subloader.cf
@@ -4138,8 +4136,6 @@ vic.altpool.pro
 video.stream.vidzi.tv
 video.streaming.estream.to
 video.videos.vidto.me
-vidfile.net
-vidzi.tv
 viewyng.com
 vip.antpool.com
 vip.btcchina.com
@@ -4167,6 +4163,7 @@ vtc.give-me-coins.com
 vtc.poolmining.org
 vtc.suprnova.cc
 vtc.thecoin.pw
+vtc2.alwayshashing.com
 vxelkrhl.info
 vzhjnorkudcxbiy.com
 vzzexalcirfgrf.ru
@@ -4754,6 +4751,7 @@ www.ahashpool.com
 www.aikapool.com
 www.ajcryptominer.com
 www.altpool.pro
+www.alwayshashing.com
 www.analytics.blue
 www.antpool.com
 www.api.bitaccess.co
