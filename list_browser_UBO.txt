@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 15 04 2018 00:01
+! Last modified: 15 04 2018 14:16
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -18,7 +18,7 @@
 1q2w3.me
 1q2w3.top
 1q2w3.website
-2giga.dowload
+2giga.download
 2ledhenone.com
 300ca0d0.space
 310ca263.space
@@ -470,7 +470,6 @@ oinkinns.tk
 okexysylgzo.ru
 okeyletsgo.ml
 oload.info
-onion.top
 onlinereserchstatistics.online
 open-hive-server-1.pp.ua
 openkatalog.com
