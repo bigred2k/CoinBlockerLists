@@ -1799,6 +1799,7 @@ gdax.mobi
 gdax.team
 gdaxbtc.com
 gdaxibtc.com
+gekko.coinnebula.com
 gemini.click
 gemini.express
 gemini.immobilien
@@ -4603,6 +4604,7 @@ ws2.bmnr.pw
 ws2.bmst.pw
 ws2.coin-have.com
 ws2.g-content.bid
+ws2.minr.pw
 ws2.stati.bid
 ws2.statistic.date
 ws20.crypto-loot.com
@@ -4631,6 +4633,7 @@ ws3.bitcoin.de
 ws3.bmnr.pw
 ws3.coin-have.com
 ws3.g-content.bid
+ws3.minr.pw
 ws3.statistic.date
 ws30.crypto-loot.com
 ws31.crypto-loot.com
@@ -4828,6 +4831,7 @@ www.coinhub.win
 www.coinimp.com
 www.coinlab.biz
 www.coinmine.pl
+www.coinnebula.com
 www.coinone.co.kr
 www.coinotron.com
 www.coinpot.co

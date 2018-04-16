@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 15 04 2018 17:53
+# Last modified: 16 04 2018 13:21
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0x1f4b0.com
@@ -1805,6 +1805,7 @@
 0.0.0.0 gdax.team
 0.0.0.0 gdaxbtc.com
 0.0.0.0 gdaxibtc.com
+0.0.0.0 gekko.coinnebula.com
 0.0.0.0 gemini.click
 0.0.0.0 gemini.express
 0.0.0.0 gemini.immobilien
@@ -4609,6 +4610,7 @@
 0.0.0.0 ws2.bmst.pw
 0.0.0.0 ws2.coin-have.com
 0.0.0.0 ws2.g-content.bid
+0.0.0.0 ws2.minr.pw
 0.0.0.0 ws2.stati.bid
 0.0.0.0 ws2.statistic.date
 0.0.0.0 ws20.crypto-loot.com
@@ -4637,6 +4639,7 @@
 0.0.0.0 ws3.bmnr.pw
 0.0.0.0 ws3.coin-have.com
 0.0.0.0 ws3.g-content.bid
+0.0.0.0 ws3.minr.pw
 0.0.0.0 ws3.statistic.date
 0.0.0.0 ws30.crypto-loot.com
 0.0.0.0 ws31.crypto-loot.com
@@ -4834,6 +4837,7 @@
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.coinlab.biz
 0.0.0.0 www.coinmine.pl
+0.0.0.0 www.coinnebula.com
 0.0.0.0 www.coinone.co.kr
 0.0.0.0 www.coinotron.com
 0.0.0.0 www.coinpot.co
