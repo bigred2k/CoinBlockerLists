@@ -397,6 +397,7 @@ bablace.com
 back4.2giga.link
 backends.bid
 baiduccdn1.com
+bandaomodel.com
 banner.boostbox.com.br
 basepush.com
 bauersagtnein.myeffect.net
@@ -940,6 +941,7 @@ cpufan.club
 cqfnvznw.info
 crds.suprnova.cc
 crevacoin.miningpoolhub.com
+crm-jurine.com
 cross.coinone.co.kr
 crosspush.coinone.co.kr
 crs.suprnova.cc
@@ -2092,6 +2094,7 @@ jcmi5n4c3mvgtyt5.onion
 jhondi33.duckdns.org
 jhshxbv.com
 jira.prohashing.com
+jixiangrong.com
 jmqapf3nflatei35.onion.link
 joincrypro.ml
 joinslack.binance.com
@@ -2440,6 +2443,8 @@ metrika.ron.si
 mewapi.epool.io
 mgt.suprnova.cc
 mhiobjnirs.gq
+minanagency.com
+minanmedia.com
 mine-for.us
 mine-us.miningspeed.com
 mine-zel.miningspeed.com
@@ -2664,6 +2669,7 @@ mp2pzq.xyz
 mqnvhg6lht7lc3nc.onion
 mr-us-west1.nanopool.org
 mr-usa.dwarfpool.com
+mr.bandaomodel.com
 mro.extremeool.org
 mro.extremepool.org
 mro.pool.minergate.com
