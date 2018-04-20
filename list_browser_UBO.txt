@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 16 04 2018 13:21
+! Last modified: 20 04 2018 16:42
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -109,6 +109,7 @@ becanium.com
 befirstcdn.com
 berateveng.ru
 berserkpl.net.pl
+bestcoinsignals.com
 bestsecurepractice.com
 bewaslac.com
 bewhoyouare.gq
@@ -261,6 +262,7 @@ et-code.ru
 etacontent.com
 eth-pocket.de
 etzbnfuigipwvs.ru
+eucsoft.com
 evengparme.com
 ewtuyytdf45.com
 exdynsrv.com
@@ -597,6 +599,7 @@ traffic-optical-service.info
 traffic-service.info
 traffic-tech-service.info
 traumasister.tk
+traviilo.com
 tubetitties.com
 tulip18.com
 turnsocial.com
@@ -620,6 +623,7 @@ vpzccwpyilvoyg.ru
 vxelkrhl.info
 vzhjnorkudcxbiy.com
 vzzexalcirfgrf.ru
+wasm24.ru
 web.dle-news.pw
 webassembly.stream
 webmine.cz
@@ -635,6 +639,7 @@ wemine.pro
 whathyx.com
 whchsvlxch.site
 whereismommy.gq
+whysoserius.club
 wildianing.ru
 willacrit.com
 witthethim.com
@@ -655,8 +660,10 @@ wty46.com
 www.assetscdn.stream
 xbasfbno.info
 xgmc6lu8fs.me
+xmr.cool
 xmrm.pw
 xmrminingproxy.com
+xvideosharing.site
 yrdrtzmsmt.com
 yuyyio.com
 zavzlen.ru

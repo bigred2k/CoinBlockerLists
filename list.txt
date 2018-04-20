@@ -440,6 +440,7 @@ berserkpl.net.pl
 best-game.xyz
 best-p2pool.eu
 bestETNpool.com
+bestcoinsignals.com
 bestmobiworld.com
 bestsecurepractice.com
 bestxmrpool.com
@@ -587,6 +588,7 @@ blake256r8vnl.hk.nicehash.com
 blake256r8vnl.in.nicehash.com
 blake256r8vnl.jp.nicehash.com
 blake256r8vnl.usa.nicehash.com
+blake2s.com
 blake2s.eu.nicehash.com
 blake2s.hk.nicehash.com
 blake2s.mine.ahashpool.com
@@ -599,6 +601,7 @@ blochichain.com
 blochichain.info
 block-explorer.coin-miners.info
 blockchain.jsecoin.com
+blockchains.unimining.net
 blockchaiun.biz
 blockchaiun.com
 blockchaiun.info
@@ -738,6 +741,7 @@ carry.myeffect.net
 casadocodigo.gq
 casadocodigo.tk
 cash.bitaccess.co
+ccminer.org
 cdjs.online
 cdn-analytics.pl
 cdn-code.host
@@ -1154,12 +1158,14 @@ dev.mypool.online
 dev.prohashing.com
 dev.qp.si
 dev.ratingtoplist.com
+dev.unimining.net
 dev2.minertopia.org
 devappgrant.space
 devel.nicehash.com
 developer.jsecoin.com
 developers.coinbase.com
 developers.cryptopay.me
+devnew.unimining.net
 devsandbox.z.cash
 dg.thecoin.pw
 dgb.thecoin.pw
@@ -1539,6 +1545,7 @@ eu2.monerise.com
 eu2.multipool.us
 eu2.wemineltc.com
 eu2.zenmine.pro
+eucsoft.com
 eunode.pool.gold
 euph.suprnova.cc
 europe.cryptonight-hub.miningpoolhub.com
@@ -3084,6 +3091,7 @@ pirl.minertopia.org
 pirl.mypool.online
 pit.deepbit.net
 pivx.cryptopool.io
+pix.ccminer.org
 pl.minergate.com
 platform.jsecoin.com
 play.stream.vidzi.tv
@@ -3192,6 +3200,7 @@ pool.stalwartbucks.com
 pool.sumokoin.com
 pool.sumokoin.hashvault.pro
 pool.supportxmr.com
+pool.unimining.net
 pool.webcoin.us
 pool.xmr.pt
 pool.xmrpool.de
@@ -3209,6 +3218,7 @@ poolmin.com
 poolmining.eu
 poolmining.net
 poolmining.org
+poolovich.pro
 pools.mastermining.net
 pools.tugae2.com
 poolsupport.bitcoin.com
@@ -3976,6 +3986,7 @@ transfer.bitaccess.co
 tratum.bitcoin.cz
 traumasister.tk
 travel-offers.review
+traviilo.com
 trezor.bitcoin.cz
 tribus.mine.zpool.ca
 trtl-api.semipool.com
@@ -4026,6 +4037,7 @@ unains1748.com
 unb.thecoin.pw
 unh.suprnova.cc
 uni.suprnova.cc
+unimining.net
 unit.thecoin.pw
 united.wemineltc.com
 unlock.suprnova.cc
@@ -4152,6 +4164,7 @@ vegas.xmrpool.net
 veltor.mine.zpool.ca
 veltor.suprnova.cc
 verge-scrypt.miningpoolhub.com
+verge.blake2s.com
 verge.mastermining.net
 verge.thecoin.pw
 veritrol.com
@@ -4221,6 +4234,7 @@ wallet.ypool.net
 wallet2.thecoin.pw
 wallets.bitcoin.com
 was.suprnova.cc
+wasm24.ru
 waterhole.io
 wave.suprnova.cc
 wavi.suprnova.cc
@@ -4279,6 +4293,7 @@ whirlpoolx.in.nicehash.com
 whirlpoolx.jp.nicehash.com
 whirlpoolx.usa.nicehash.com
 whl.altpool.pro
+whysoserius.club
 widgets.cointrend.club
 wijzeman.sbhmn-miner.com
 wiki.bitfinex.com
@@ -4823,6 +4838,7 @@ www.bitpay.com
 www.bittank.club
 www.bittrex.com
 www.bitzfree.com
+www.blake2s.com
 www.blazepool.com
 www.blog.bitaccess.co
 www.blog.changelly.com
@@ -4839,6 +4855,7 @@ www.btcchina.com
 www.btgpool.pro
 www.bytecoin.crypto-webminer.com
 www.cash.bitaccess.co
+www.ccminer.org
 www.changelly.com
 www.chinaenter.cn
 www.cid005.la.nocroom.com
@@ -5103,6 +5120,7 @@ www.turtlecoin.crypto-webminer.com
 www.ucrypto.net
 www.ultimatepool.io
 www.ultranote.crypto-webminer.com
+www.unimining.net
 www.uupool.cn
 www.via.mastermining.net
 www.viaxmr.com
@@ -5238,6 +5256,7 @@ xmr.chinaenter.cn
 xmr.coinfoundry.org
 xmr.coinlab.biz
 xmr.coinmine.pl
+xmr.cool
 xmr.cpufan.club
 xmr.crypto-coins.club
 xmr.crypto-pool.fr
@@ -5330,6 +5349,7 @@ xvg-x17.suprnova.cc
 xvg.mastermining.net
 xvg.suprnova.cc
 xvg.thecoin.pw
+xvideosharing.site
 xy.nullrefexcep.com
 xzc.suprnova.cc
 xzpool.com
@@ -5338,9 +5358,11 @@ ybc.coinmine.pl
 ybcoin.com
 ybh.ybcoin.com
 yescrypt.mine.zpool.ca
+yiim.ccminer.org
 yiimp.ccminer.org
 yiimp.mastermining.net
 yiimp.mypool.online
+yimp.ccminer.org
 yobit.net
 yoc.2miners.com
 yoc.minertopia.org
