@@ -89,6 +89,7 @@ adobeflashplayerc.xyz
 adobeflashplayerq.xyz
 adobflashplayerx.xyz
 adolfcoin.camp
+adplusplus.fr
 adrenali.gq
 ads.bitcoin.com
 ads.locationforexpert.com
@@ -377,6 +378,7 @@ autoconfig.cryptominingpool.eu
 autoconfig.ditcoin.io
 autodiscover.cryptominingpool.eu
 autodiscover.ditcoin.io
+autologica.ga
 avatar.pr0gramm.com
 averoconnector.com
 avualrhg9p.bid
@@ -2535,6 +2537,7 @@ miner.pr0gramm.com
 miner2.sighash.info
 minercircle.com
 minerclaim.net
+minercry.pt
 minergate.com
 minerhills.com
 minerjet.com
@@ -3836,6 +3839,7 @@ sumokoin.multipool.es
 sunhd.info
 sunnyjuly.gq
 superiorcoin.crypto-webminer.com
+support.2giga.link
 support.binance.com
 support.bitcoin.cz
 support.bitfinex.com

@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 20 04 2018 16:42
+! Last modified: 26 04 2018 04:57
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -19,6 +19,7 @@
 1q2w3.top
 1q2w3.website
 2giga.download
+2giga.link
 2ledhenone.com
 300ca0d0.space
 310ca263.space
@@ -54,6 +55,7 @@ adbtc.top
 adfreetv.ch
 adless.io
 adminer.com
+adplusplus.fr
 adrenali.gq
 adzjzewsma.cf
 aeros01.tk
@@ -95,6 +97,7 @@ auroramine.com
 authedmine.com
 authedmine.eu
 authedwebmine.cz
+autologica.ga
 averoconnector.com
 avualrhg9p.bid
 avualrhg9p0.bid
@@ -409,6 +412,7 @@ minecrunch.co
 minemytraffic.com
 miner.pr0gramm.com
 minerclaim.net
+minercry.pt
 minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
