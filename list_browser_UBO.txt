@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 26 04 2018 04:57
+! Last modified: 27 04 2018 19:36
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -273,6 +273,7 @@ fatisin.ru
 ffinwwfpqi.gq
 ffjk.space
 fge9vbrzwt.bid
+fili.cc
 fili.tv
 firmware.center
 flare-analytics.com
@@ -321,6 +322,7 @@ hatcalter.com
 hatevery.info
 hegrinhar.com
 hemnes.win
+herphemiste.com
 hhb123.tk
 hide.ovh
 hive.tubetitties.com
@@ -335,6 +337,7 @@ hzsod71wov.me
 igrid.org
 ihdvilappuxpgiv.ru
 iisl7wpf.me
+imhvlhaelvvbrq.ru
 ingorob.com
 ininmacerad.pro
 inmu-kun.github.io
@@ -413,6 +416,7 @@ minemytraffic.com
 miner.pr0gramm.com
 minerclaim.net
 minercry.pt
+minergate.com
 minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
@@ -476,6 +480,7 @@ ohac.github.io
 oinkinns.tk
 okexysylgzo.ru
 okeyletsgo.ml
+one-jj.github.io
 onlinereserchstatistics.online
 open-hive-server-1.pp.ua
 openkatalog.com
@@ -500,6 +505,7 @@ pertholin.com
 play.stream.vidzi.tv
 play.streaming.estream.to
 play.video.estream.nu
+play.video.estream.nu/
 player.h-cdn.com
 playerassets.info
 plexcoin.info
@@ -567,6 +573,9 @@ static.hk.rs
 staticsfs.host
 statistic.date
 stonecalcom.com
+streamdream.ws
+streamplay.me
+streamplay.to
 subloader.cf
 sunhd.info
 svivqrhrh.ru
@@ -593,6 +602,7 @@ thelifeisbinary.netlify.com
 thewhizmarketing.com
 thewhizproducts.com
 thewise.com
+three-jj.github.io
 tidafors.xyz
 todogecoin.biz
 toftofcal.com
@@ -608,10 +618,12 @@ tubetitties.com
 tulip18.com
 turnsocial.com
 turnsocial.now.sh
+two-jj.github.io
 uebawtz7.me
 ullnot.download
 ulnawoyyzbljc.ru
 unrummaged.com
+uoldid.ru
 v90327ux.beget.tech
 vcfs6ip5h6.bid
 vcrypt.net
