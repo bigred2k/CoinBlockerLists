@@ -46,3 +46,6 @@ You have a problem or want to change something in the CoinBlockerLists, please c
 - Twitter: [@hobbygrafix](https://twitter.com/hobbygrafix)
 - Mastodon: [@hoerspiel](https://mastodon.cloud/@hoerspiel)
 - E-Mail: [ZeroDot1@bK.Ru](mailto:zerodot1@bk.ru)
+
+
+<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=3&p=26&l=ur1&category=audible&banner=1DYQFR3FGRD6BMMRY402&f=ifr&linkID=8f434b10cc8910bbc4cdc36237d41ff8&t=zerodot1-21&tracking_id=zerodot1-21" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
