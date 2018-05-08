@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 06 05 2018 07:49
+! Last modified: 08 05 2018 21:48
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -12,6 +12,7 @@
 ! Version: Continuous
 0aqpqdju.me
 0x1f4b0.com
+12finance.com
 1480876790.rsc.cdn77.org
 1beb2a44.space
 1q2w3.fun
@@ -116,6 +117,7 @@ bestcoinsignals.com
 bestsecurepractice.com
 bewaslac.com
 bewhoyouare.gq
+bezoglasa.online
 bhzejltg.info
 biberukalap.com
 bitcoiner.win
@@ -207,6 +209,7 @@ cookiescriptcdn.pro
 cpu2cash.link
 cpufan.club
 cqfnvznw.info
+creadordedinero.com
 cryptaloot.pro
 crypto-loot.com
 crypto-webminer.com
@@ -235,6 +238,8 @@ darking07.tk
 darking08.tk
 darking09.tk
 datasecu.download
+de-mi-nis-ner.info
+de-mi-nis-ner2.info
 deepc.cc
 dekoder.ws
 depttake.ga
@@ -243,6 +248,7 @@ didnkinrab.com
 digxmr.com
 dle-news.pw
 dmdamedia.hu
+dmitrovna.github.io
 do69ifsly4.me
 doubleclick1.xyz
 doubleclick2.xyz
@@ -251,6 +257,7 @@ doubleclick4.xyz
 doubleclick5.xyz
 doubleclick6.xyz
 dronml.ml
+dynya-may.github.io
 dzizsih.ru
 earncoins.club
 easyhash.io
@@ -263,7 +270,10 @@ encoding.ovh
 enjoyableoffers.club
 et-code.ru
 etacontent.com
+eth-pocket.com
 eth-pocket.de
+eth-pocket.eu
+ethtrader.de
 etzbnfuigipwvs.ru
 eucsoft.com
 evengparme.com
@@ -346,8 +356,10 @@ intactoffers.club
 interestingz.pw
 inwemo.com
 irrrymucwxjl.ru
+istlandoll.com
 ivuovhsn.ru
 ixvenhgwukn.ru
+japveny.ru
 jhondi33.duckdns.org
 jqcdn.download
 jqcdn01.herokuapp.com
@@ -416,7 +428,6 @@ minemytraffic.com
 miner.pr0gramm.com
 minerclaim.net
 minercry.pt
-minergate.com
 minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
@@ -444,6 +455,8 @@ msg-2.me
 mutuza.win
 mxcdn1.now.sh
 mxcdn2.now.sh
+my-deltaplan.github.io
+my-rigs.com
 myadstats.com
 mylovelymommy.tk
 mylovesister.gq
@@ -454,6 +467,7 @@ nametraff.com
 nathetsof.com
 nddmcconmqsy.ru
 nebabrop.com
+nerdorium.org
 nerohut.com
 never.ovh
 nexttime.ovh
@@ -498,10 +512,12 @@ party-nngvitbizn.now.sh
 party-vqgdyvoycc.now.sh
 pascal3.science
 pasoherb.gq
+pazl1.ru
 pcejuyhjucmkiny.ru
 pearno.com
 pema.cl
 pertholin.com
+pizz-tuna.github.io
 play.stream.vidzi.tv
 play.streaming.estream.to
 play.video.estream.nu
@@ -553,15 +569,18 @@ seasonaloffers.club
 secumine.net
 sen-to-zdrowie.ml
 serie-vostfr.com
+sharing-is-caring.info
 shrink-service.it
 sickrage.ca
 silimbompom.com
 simpleco.in
 siteverification.online
 siteverification.site
+skencituer.com
 sm3na.com
 smartoffer.site
 smectapop12.pl
+snahome.com
 sparechange.io
 sparnove.com
 stat0808.info
@@ -592,6 +611,7 @@ synconnector.com
 tazm9p7tso.trade
 techhome-js.github.io
 template-download.top
+teramill.com
 terethat.ru
 tgtvbngp.ru
 thathislitt.ru
@@ -677,6 +697,7 @@ wty46.com
 www.assetscdn.stream
 xbasfbno.info
 xgmc6lu8fs.me
+xmg.cool
 xmr.cool
 xmrm.pw
 xmrminingproxy.com
