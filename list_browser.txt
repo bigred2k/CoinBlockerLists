@@ -158,6 +158,7 @@ befirstcdn.com
 berateveng.ru
 berserkpl.net.pl
 bestcoinsignals.com
+besti.ga
 bestmobiworld.com
 bestsecurepractice.com
 beta.coinblind.com
@@ -301,6 +302,7 @@ cryptown.netlify.com
 cryweb.github.io
 crywebber.github.io
 csgocpu.com
+ctlrnwbv.ru
 ctrb.jscdndel.com
 cvp1.asvoxod.ru
 cvp2.asvoxod.ru
@@ -379,6 +381,7 @@ email.moneroocean.stream
 en.cookiescript.info
 encoding.ovh
 enjoyableoffers.club
+ermaseuc.ru
 es.cookiescript.info
 escobar.pr0gramm.com
 et-code.ru
@@ -456,6 +459,7 @@ gnrdomimplementation.com
 go.bestmobiworld.com
 go.megabanners.cf
 go2.mercy.ga
+gobba.myeffect.net
 goldnova.crypto.csgocpu.com
 goldoffer.online
 goodkino.biz
@@ -525,6 +529,7 @@ jqcdn.download
 jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
+jqrcdn.download
 jquery-cdn.download
 jquery-uim.download
 jqwww.download
@@ -534,10 +539,13 @@ js.coinhive.com
 jsccnn.com
 jscdndel.com
 jsecoin.com
+jurty.ml
+jurtym.cf
 jwduahujge.ru
 jyhfuqoh.info
 kalipasindra.online
 karbowanec.crypto-webminer.com
+kdmkauchahynhrs.ru
 kdowqlpt.info
 kedtise.com
 kho3au7l4z.me
@@ -611,6 +619,7 @@ megabanners.cf
 mepirtedic.com
 mercy.ga
 metrika.ron.si
+mfio.cf
 mhiobjnirs.gq
 mine.nahnoji.cz
 mine.torrent.pw
@@ -670,6 +679,7 @@ msg-2.me
 msr.cpufan.club
 mutuza.win
 mwnodes.viaxmr.com
+mwor.gq
 mxcdn1.now.sh
 mxcdn2.now.sh
 my-deltaplan.github.io
@@ -723,6 +733,7 @@ oc.monerise.com
 ocean.cryptaloot.pro
 ocean.cryptoloot.pro
 ocean.webmine.pro
+oei1.gq
 offerreality.com
 ogondkskyahxa.ru
 ogrid.org
@@ -763,6 +774,7 @@ phx-3.xmrpool.net
 phx-4.xmrpool.net
 pizz-tuna.github.io
 platform.jsecoin.com
+play.site.flashx.cc
 play.stream.vidzi.tv
 play.streaming.estream.to
 play.video.estream.nu
@@ -885,6 +897,7 @@ silver.crypto.csgocpu.com
 simpleco.in
 singapore01.monero.hashvault.pro
 site.coinnebula.com
+site.flashx.cc
 siteverification.online
 siteverification.site
 skencituer.com
@@ -1068,6 +1081,7 @@ wmemsnhgldd.ru
 wmwmwwfmkvucbln.ru
 wo15.coinhive.com
 woork.sbhmn-miner.com
+wordc.ga
 worker.minero.cc
 worker.salon.com
 worker0.minero.cc
@@ -1559,7 +1573,12 @@ www.hemnes.win
 www.infamylists.com
 www.interestingz.pw
 www.inwemo.com
+www.jqassets.download
+www.jqcdn.download
+www.jqrcdn.download
+www.jquerrycdn.download
 www.jquery-cdn.download
+www.jqwww.download
 www.jsccnn.com
 www.jscdndel.com
 www.jsecoin.com

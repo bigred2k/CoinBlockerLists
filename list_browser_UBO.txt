@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 08 05 2018 21:48
+! Last modified: 15 05 2018 15:18
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -114,6 +114,7 @@ befirstcdn.com
 berateveng.ru
 berserkpl.net.pl
 bestcoinsignals.com
+besti.ga
 bestsecurepractice.com
 bewaslac.com
 bewhoyouare.gq
@@ -223,6 +224,7 @@ cryptown.netlify.com
 cryweb.github.io
 crywebber.github.io
 csgocpu.com
+ctlrnwbv.ru
 d-ns.ga
 d1e1rbybdt265x.cloudfront.net
 d3ahinqqx1dy5v.cloudfront.net
@@ -268,6 +270,7 @@ eeme7j.win
 elthamely.com
 encoding.ovh
 enjoyableoffers.club
+ermaseuc.ru
 et-code.ru
 etacontent.com
 eth-pocket.com
@@ -287,6 +290,7 @@ fili.cc
 fili.tv
 firmware.center
 flare-analytics.com
+flashx.cc
 flnqmin.org
 flophous.cf
 formulawire.com
@@ -361,10 +365,13 @@ ivuovhsn.ru
 ixvenhgwukn.ru
 japveny.ru
 jhondi33.duckdns.org
+jqassets.download
 jqcdn.download
 jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 jqcdn2.herokuapp.com
+jqrcdn.download
+jquerrycdn.download
 jquery-cdn.download
 jquery-uim.download
 jqwww.download
@@ -373,9 +380,12 @@ jroqvbvw.info
 jsccnn.com
 jscdndel.com
 jsecoin.com
+jurty.ml
+jurtym.cf
 jwduahujge.ru
 jyhfuqoh.info
 kalipasindra.online
+kdmkauchahynhrs.ru
 kdowqlpt.info
 kedtise.com
 kho3au7l4z.me
@@ -420,6 +430,7 @@ mebablo.com
 megabanners.cf
 mepirtedic.com
 mercy.ga
+mfio.cf
 mhiobjnirs.gq
 mine.nahnoji.cz
 mine.torrent.pw
@@ -453,11 +464,13 @@ morningdigit.com
 msdns.online
 msg-2.me
 mutuza.win
+mwor.gq
 mxcdn1.now.sh
 mxcdn2.now.sh
 my-deltaplan.github.io
 my-rigs.com
 myadstats.com
+myeffect.net
 mylovelymommy.tk
 mylovesister.gq
 myoffers.bid
@@ -487,6 +500,7 @@ npdaqy6x1j.me
 nullrefexcep.com
 nunu-001.now.sh
 ny7f6goy.bid
+oei1.gq
 offerreality.com
 ogondkskyahxa.ru
 ogrid.org
@@ -683,6 +697,7 @@ witthethim.com
 wittyoffers.club
 wmemsnhgldd.ru
 wmwmwwfmkvucbln.ru
+wordc.ga
 worker.salon.com
 wp-monero-miner.de
 wpcdn1.herokuapp.com
