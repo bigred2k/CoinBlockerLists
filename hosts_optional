@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 01 04 2018 18:02
+# Last modified: 16 05 2018 00:58
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
 0.0.0.0 803mine.com
@@ -126,6 +126,8 @@
 0.0.0.0 hashcoins.ru
 0.0.0.0 headers.electrum.org
 0.0.0.0 i2p.emercoin.com
+0.0.0.0 icerockmining.io
+0.0.0.0 ico.icerockmining.io
 0.0.0.0 imperiumminer.com
 0.0.0.0 in.cur.lv
 0.0.0.0 inwemo.com
@@ -254,6 +256,7 @@
 0.0.0.0 www.hashcoins.com
 0.0.0.0 www.hashcoins.ee
 0.0.0.0 www.hashcoins.ru
+0.0.0.0 www.icerockmining.io
 0.0.0.0 www.imperiumminer.com
 0.0.0.0 www.inwemo.com
 0.0.0.0 www.jaxx.io

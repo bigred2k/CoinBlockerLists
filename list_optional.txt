@@ -120,6 +120,8 @@ hashcoins.ee
 hashcoins.ru
 headers.electrum.org
 i2p.emercoin.com
+icerockmining.io
+ico.icerockmining.io
 imperiumminer.com
 in.cur.lv
 inwemo.com
@@ -248,6 +250,7 @@ www.files.cointraffic.io
 www.hashcoins.com
 www.hashcoins.ee
 www.hashcoins.ru
+www.icerockmining.io
 www.imperiumminer.com
 www.inwemo.com
 www.jaxx.io
