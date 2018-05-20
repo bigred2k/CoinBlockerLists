@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 16 05 2018 00:58
+! Last modified: 20 05 2018 17:35
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -409,7 +409,6 @@ livelyoffers.club
 lmodr.biz
 losital.ru
 ltstyov.ru
-lọgrhythm.com
 m.anyfiles.ovh
 m1.stream.vidzi.tv
 m1.streaming.estream.to
@@ -536,7 +535,6 @@ pizz-tuna.github.io
 play.stream.vidzi.tv
 play.streaming.estream.to
 play.video.estream.nu
-play.video.estream.nu/
 player.h-cdn.com
 playerassets.info
 plexcoin.info

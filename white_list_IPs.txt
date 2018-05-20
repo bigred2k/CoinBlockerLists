@@ -2,7 +2,7 @@
 # Description: This list contains all entries wrongly listed in the CoinBlockerLists.
 # Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 05 04 2018 17:31
+# Last modified: 20 05 2018 17:35
 # We cannot guarantee the accuracy and completeness of the information contained in this document.
 # [CoinBlocker List by ZeroDot1]
 104.27.128.113

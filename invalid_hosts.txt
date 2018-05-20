@@ -2,7 +2,7 @@
 # Description: This list contains broken or incorrect URLs.
 # Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 01 04 2018 18:02
+# Last modified: 20 05 2018 17:35
 # This file contains all invalid hosts
 8jd2lfsq.me
 abc.pema.cl
@@ -20,6 +20,7 @@ jroqvbvw.info
 jyhfuqoh.info
 kdowqlpt.info
 latimes-graphics-media.s3.amazonaws.com/js/leaflet.fullscreen-master/Control.FullScreen.js
+lọgrhythm.com
 m.pr0gramm.com
 marta-js.github.io
 mas-onjs.github.io
