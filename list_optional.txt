@@ -33,12 +33,14 @@ ad302.a-ads.com
 alpha.myetherwallet.com
 antminer-store.com
 api.binance.com
+api.bitfinex.com
 api.inwemo.com
 api.jaxx.io
 api.ledgerwallet.com
 api.mymonero.com
 api01.ledgerwallet.com
 api02.ledgerwallet.com
+api2.bitfinex.com
 api2.jaxx.io
 app0.a-ads.com
 apps.cointraffic.io
@@ -49,12 +51,14 @@ awesomeminer.com
 basicdemo.emercoin.com
 bch-bitcore2.trezor.io
 beta-wallet.trezor.io
+beta.bitfinex.com
 bfgminer.org
 binance.com
 bit.cur.lv
 bitcoin.org
 bitcore1.trezor.io
 bitcore3.trezor.io
+bitfinex.com
 blocked.mymonero.com
 blog.a-ads.com
 blog.jaxx.io
@@ -89,6 +93,7 @@ dash-bitcore1.trezor.io
 dashboard.inwemo.com
 dev.a-ads.com
 dev.cointraffic.io
+docs.bitfinex.com
 docs.electrum.org
 download.electrum.org
 download.emercoin.com
@@ -120,12 +125,15 @@ hashcoins.com
 hashcoins.ee
 hashcoins.ru
 headers.electrum.org
+helpdesk.bitfinex.com
+helpdesk2.bitfinex.com
 i2p.emercoin.com
 icerockmining.io
 ico.icerockmining.io
 imperiumminer.com
 in.cur.lv
 inwemo.com
+iota.bitfinex.com
 jaxx.io
 joinslack.binance.com
 jump.cur.lv
@@ -169,6 +177,7 @@ name.cur.lv
 node.jwallet.network
 nodes1.cryptopia.co.nz
 nodes2.cryptopia.co.nz
+nostalgia.bitfinex.com
 ns2.a-ads.com
 old-wallet.trezor.io
 old.coinad.com
@@ -205,6 +214,7 @@ stream2.binance.com
 superbitcoiner.com
 support.a-ads.com
 support.binance.com
+support.bitfinex.com
 support.evergreencoin.org
 support.ledgerwallet.com
 test.ledgerwallet.com
@@ -227,6 +237,7 @@ webmail.uclick.in
 wiki.emercoin.com
 wiki.evergreencoin.org
 wiki.trezor.io
+ws.bitfinex.com
 ws.ledgerwallet.com
 www.803mine.com
 www.a-ads.com
@@ -238,6 +249,7 @@ www.awesomeminer.com
 www.bfgminer.org
 www.binance.com
 www.bitcoin.org
+www.bitfinex.com
 www.blog.trezor.io
 www.coinadnet.com
 www.cointraffic.io

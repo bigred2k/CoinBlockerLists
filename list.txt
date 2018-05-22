@@ -199,7 +199,6 @@ api.bhzejltg.info
 api.bitaccess.co
 api.bitcoin.cz
 api.bitcoin.de
-api.bitfinex.com
 api.bitgrail.com
 api.bithumb.com
 api.blazepool.com
@@ -295,7 +294,6 @@ api.youbit.co.kr
 api.zec.spacepools.org
 api.zergpool.com
 api2.bitcoin.cz
-api2.bitfinex.com
 api2.moriaxmr.com
 api2.poloniex.com
 apib.monerise.com
@@ -459,7 +457,6 @@ bestxmrpool.com
 bet.webcoin.us
 beta-mining.bitcoin.cz
 beta-zcash.flypool.org
-beta.bitfinex.com
 beta.coinbase.com
 beta.coinblind.com
 beta.coinrail.io
@@ -554,7 +551,6 @@ bitconnectpool.co
 bitcore.io
 bitcore.mine.zpool.ca
 bitcrush.info
-bitfinex.com
 bitgrail.com
 bithumb.com
 bitin.us
@@ -625,7 +621,6 @@ blocks.z.cash
 blog.bitaccess.co
 blog.bitcoin.cz
 blog.bitcoin.de
-blog.bitfinex.com
 blog.bitpay.com
 blog.changelly.com
 blog.coinbase.com
@@ -935,7 +930,6 @@ colnhive.com
 com-http.us
 commercium.lambomoon.club
 commercium.miningspeed.com
-community.bitfinex.com
 community.coinbase.com
 community.monerise.com
 comp.minertopia.org
@@ -1238,7 +1232,6 @@ dnsseed.z.cash
 do69ifsly4.me
 doc.coinone.co.kr
 docker.f2pool.com
-docs.bitfinex.com
 docs.exchange.coinbase.com
 doge.coinsprofit.com
 doge.mastermining.net
@@ -1991,8 +1984,6 @@ help.bitpay.com
 help.cryptopay.me
 help.minergate.com
 help.multiminerapp.com
-helpdesk.bitfinex.com
-helpdesk2.bitfinex.com
 helperprotectionext.biz
 helperprotectionff.biz
 hemnes.win
@@ -2109,7 +2100,6 @@ inviteme.z.cash
 io.bitpay.com
 io.litecoinpool.org
 iop.thecoin.pw
-iota.bitfinex.com
 iota.moriaxmr.com
 iotaseed.io
 ipbc.bohemianpool.com
@@ -2964,7 +2954,6 @@ nomoreransom.coin
 nomp.mastermining.net
 nord.adr.com.ua
 norespar.ru
-nostalgia.bitfinex.com
 note.thecoin.pw
 notices.miningrigrentals.com
 nova.mastermining.net
@@ -3923,7 +3912,6 @@ superiorcoin.crypto-webminer.com
 support.2giga.link
 support.binance.com
 support.bitcoin.cz
-support.bitfinex.com
 support.bitpay.com
 support.bittrex.com
 support.coinbase.com
@@ -4391,7 +4379,6 @@ whl.altpool.pro
 whysoserius.club
 widgets.cointrend.club
 wijzeman.sbhmn-miner.com
-wiki.bitfinex.com
 wiki.multipool.us
 wildianing.ru
 willacrit.com
@@ -4455,7 +4442,6 @@ ws-fr-02.rocks.io
 ws-fr-03.rocks.io
 ws.bhzejltg.info
 ws.bitcoin.de
-ws.bitfinex.com
 ws.bitgrail.com
 ws.coinbase.com
 ws.coincheck.com
@@ -4929,7 +4915,6 @@ www.bitcoiner.win
 www.bitcoinzguiding.ovh
 www.bitconnect.co
 www.bitcore.io
-www.bitfinex.com
 www.bitgrail.com
 www.bithumb.com
 www.bitminter.com
