@@ -105,6 +105,7 @@ ether.cards
 ethereumproject.github.io
 evergreencoin.org
 faucet.evergreencoin.org
+faucethub.io
 files.a-ads.com
 files.cointraffic.io
 forum.bitcoin.org

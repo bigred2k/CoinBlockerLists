@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 23 05 2018 20:00
+# Last modified: 23 05 2018 23:11
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0x1f4b0.com
@@ -314,6 +314,7 @@
 0.0.0.0 app.bitaccess.co
 0.0.0.0 app.btcchina.com
 0.0.0.0 app.coinsprofit.com
+0.0.0.0 app.multimining.org
 0.0.0.0 app.pr0gramm.com
 0.0.0.0 app.slushpool.com
 0.0.0.0 app.youbit.co.kr
@@ -1333,6 +1334,7 @@
 0.0.0.0 ella.altpool.pro
 0.0.0.0 ella.epool.io
 0.0.0.0 ella.mypool.online
+0.0.0.0 ella.soyminero.es
 0.0.0.0 elthamely.com
 0.0.0.0 email.bitaccess.co
 0.0.0.0 email.bitpay.com
@@ -1403,6 +1405,7 @@
 0.0.0.0 etc.coinmine.pl
 0.0.0.0 etc.epool.io
 0.0.0.0 etc.ethermine.org
+0.0.0.0 etc.ethertrench.com
 0.0.0.0 etc.f2pool.com
 0.0.0.0 etc.fairpool.cloud
 0.0.0.0 etc.fairpool.xyz
@@ -1453,6 +1456,7 @@
 0.0.0.0 eth.coinfoundry.org
 0.0.0.0 eth.coinmine.pl
 0.0.0.0 eth.cryptokitties.co
+0.0.0.0 eth.ethertrench.com
 0.0.0.0 eth.ethfans.org
 0.0.0.0 eth.f2pool.com
 0.0.0.0 eth.fairpool.xyz
@@ -1464,6 +1468,7 @@
 0.0.0.0 eth.poolmining.eu
 0.0.0.0 eth.poolto.be
 0.0.0.0 eth.pp.ua
+0.0.0.0 eth.soyminero.es
 0.0.0.0 eth.stage.ethfans.org
 0.0.0.0 eth.staging.cryptokitties.co
 0.0.0.0 eth.suprnova.cc
@@ -1485,8 +1490,10 @@
 0.0.0.0 ethereum.miningpoolhub.com
 0.0.0.0 ethereumpool.club
 0.0.0.0 ethermine.org
+0.0.0.0 ethertrench.com
 0.0.0.0 etherum.mastermining.net
 0.0.0.0 ethfans.org
+0.0.0.0 ethpool.maxhash.org
 0.0.0.0 ethpool.org
 0.0.0.0 ethteam.com
 0.0.0.0 ethtrader.de
@@ -1627,6 +1634,7 @@
 0.0.0.0 exp.clona.ru
 0.0.0.0 exp.coinmine.pl
 0.0.0.0 exp.epool.io
+0.0.0.0 exp.ethertrench.com
 0.0.0.0 exp.fairpool.xyz
 0.0.0.0 exp.mypool.online
 0.0.0.0 exp.nanopool.org
@@ -1647,6 +1655,7 @@
 0.0.0.0 explorer.zenmine.pro
 0.0.0.0 explorersconvayencing.com.au
 0.0.0.0 expmine.pro
+0.0.0.0 exppool.maxhash.org
 0.0.0.0 exrno.biz
 0.0.0.0 exrno.com
 0.0.0.0 exrno.org
@@ -1969,6 +1978,7 @@
 0.0.0.0 halacostminer.000webhostapp.com
 0.0.0.0 halibut.multipool.us
 0.0.0.0 hallaert.online
+0.0.0.0 halopool.maxhash.org
 0.0.0.0 ham.thecoin.pw
 0.0.0.0 hash-to-coins.com
 0.0.0.0 hash.rigpool.com
@@ -1995,6 +2005,7 @@
 0.0.0.0 hashzone.io
 0.0.0.0 hatcalter.com
 0.0.0.0 hatevery.info
+0.0.0.0 haven.pool.nocroom.com
 0.0.0.0 havio.pl
 0.0.0.0 hbc.coin-miners.info
 0.0.0.0 hbeuwgqt.ru
@@ -2253,6 +2264,7 @@
 0.0.0.0 krb.mypool.name
 0.0.0.0 krb.mypool.online
 0.0.0.0 krb.semipool.com
+0.0.0.0 krb.soyminero.es
 0.0.0.0 krb.suprnova.cc
 0.0.0.0 kreds.suprnova.cc
 0.0.0.0 kryptex.info
@@ -2492,6 +2504,7 @@
 0.0.0.0 max.suprnova.cc
 0.0.0.0 max.thecoin.pw
 0.0.0.0 maxcoin.miningpoolhub.com
+0.0.0.0 maxhash.org
 0.0.0.0 may-js.github.io
 0.0.0.0 maz.thecoin.pw
 0.0.0.0 maza.thecoin.pw
@@ -2502,6 +2515,7 @@
 0.0.0.0 mcn-mro.pool.minergate.com
 0.0.0.0 mcn-qcn.pool.minergate.com
 0.0.0.0 mcn.pool.minergate.com
+0.0.0.0 mcpool.maxhash.org
 0.0.0.0 mcz.thecoin.pw
 0.0.0.0 mdm.hashcoins.com
 0.0.0.0 mdwnte.com
@@ -2650,6 +2664,7 @@
 0.0.0.0 mining4.co.uk
 0.0.0.0 miningmania.net
 0.0.0.0 miningpool.africa
+0.0.0.0 miningpool.at
 0.0.0.0 miningpool.io
 0.0.0.0 miningpool.thruhere.net
 0.0.0.0 miningpoolhub.com
@@ -2685,6 +2700,7 @@
 0.0.0.0 mlcros0ft.tk
 0.0.0.0 mlcrosolt.tk
 0.0.0.0 mlib.browsermine.com
+0.0.0.0 mm.ucrypto.net
 0.0.0.0 mmc.center
 0.0.0.0 mmpool.org
 0.0.0.0 mmsubtitles.co
@@ -2773,6 +2789,7 @@
 0.0.0.0 msg-2.me
 0.0.0.0 msk.etc-poolcrypto.org
 0.0.0.0 msr.cpufan.club
+0.0.0.0 msr.soyminero.es
 0.0.0.0 mtp101.minertopia.org
 0.0.0.0 mue.minertopia.org
 0.0.0.0 mue.suprnova.cc
@@ -2780,6 +2797,7 @@
 0.0.0.0 multi.ghash.io
 0.0.0.0 multicoin.eu
 0.0.0.0 multiminerapp.com
+0.0.0.0 multimining.org
 0.0.0.0 multipool.es
 0.0.0.0 multipool.us
 0.0.0.0 mun.suprnova.cc
@@ -3288,6 +3306,7 @@
 0.0.0.0 pool.moneropro.com
 0.0.0.0 pool.moriaxmr.com
 0.0.0.0 pool.nimiq.watch
+0.0.0.0 pool.nocroom.com
 0.0.0.0 pool.paycoinalt.com
 0.0.0.0 pool.pcmining.xyz
 0.0.0.0 pool.pm
@@ -3429,6 +3448,7 @@
 0.0.0.0 rain.suprnova.cc
 0.0.0.0 rainpool.io
 0.0.0.0 rand.com.ru
+0.0.0.0 randomsatoshi.win
 0.0.0.0 ratchetcoins.nl
 0.0.0.0 ratchetmining.com
 0.0.0.0 ratingtoplist.com
@@ -3758,6 +3778,7 @@
 0.0.0.0 sopool.us
 0.0.0.0 sound.sighash.info
 0.0.0.0 source.multiminerapp.com
+0.0.0.0 soyminero.es
 0.0.0.0 spacepools.org
 0.0.0.0 spaincoin.miningpoolhub.com
 0.0.0.0 spamwall.nocroom.com
@@ -3787,6 +3808,7 @@
 0.0.0.0 stage.breadapp.com
 0.0.0.0 stage.cross.coinone.co.kr
 0.0.0.0 stage.hashflare.io
+0.0.0.0 stage.ucrypto.net
 0.0.0.0 staging.btcchina.com
 0.0.0.0 staging.community.coinbase.com
 0.0.0.0 staging.cryptokitties.co
@@ -3939,7 +3961,9 @@
 0.0.0.0 sumo.night-pool.de
 0.0.0.0 sumo.poolto.be
 0.0.0.0 sumo.semipool.com
+0.0.0.0 sumo.soyminero.es
 0.0.0.0 sumo.spacepools.org
+0.0.0.0 sumo.us.soyminero.es
 0.0.0.0 sumokoin.com
 0.0.0.0 sumokoin.crypto-webminer.com
 0.0.0.0 sumokoin.hashvault.pro
@@ -4129,6 +4153,7 @@
 0.0.0.0 ubiq.pool.ski
 0.0.0.0 ubiq.suprnova.cc
 0.0.0.0 ubiq.thecoin.pw
+0.0.0.0 ubiqpool.maxhash.org
 0.0.0.0 ubq.altpool.pro
 0.0.0.0 ubq.epool.io
 0.0.0.0 ubq.fairpool.xyz
@@ -4188,6 +4213,7 @@
 0.0.0.0 us-east.lyra2z-hub.miningpoolhub.com
 0.0.0.0 us-east.monero.miningpoolhub.com
 0.0.0.0 us-east.multipool.us
+0.0.0.0 us-east.soyminero.es
 0.0.0.0 us-east.startum.bitcoin.cz
 0.0.0.0 us-east.stratum.bitcoin.cz
 0.0.0.0 us-east.stratum.slushpool.com
@@ -4201,6 +4227,7 @@
 0.0.0.0 us-west.bitcoin.cz
 0.0.0.0 us-west.multipool.us
 0.0.0.0 us-west.siamining.com
+0.0.0.0 us-west.soyminero.es
 0.0.0.0 us-west1.nanopool.org
 0.0.0.0 us-west2.multipool.us
 0.0.0.0 us.bitcoin.cz
@@ -5076,11 +5103,13 @@
 0.0.0.0 www.eth.pp.ua
 0.0.0.0 www.ethermine.org
 0.0.0.0 www.ethfans.org
+0.0.0.0 www.ethpool.maxhash.org
 0.0.0.0 www.ethpool.org
 0.0.0.0 www.ethteam.com
 0.0.0.0 www.etn.spacepools.org
 0.0.0.0 www.etzbnfuigipwvs.ru
 0.0.0.0 www.expmine.pro
+0.0.0.0 www.exppool.maxhash.org
 0.0.0.0 www.extremepool.org
 0.0.0.0 www.f2pool.com
 0.0.0.0 www.faucethub.io
@@ -5106,6 +5135,7 @@
 0.0.0.0 www.globe.suprnova.cc
 0.0.0.0 www.graft.crypto-webminer.com
 0.0.0.0 www.graftpool.net
+0.0.0.0 www.halopool.maxhash.org
 0.0.0.0 www.ham.thecoin.pw
 0.0.0.0 www.hashcoin.io
 0.0.0.0 www.hashcoins.com
@@ -5151,7 +5181,9 @@
 0.0.0.0 www.map.bitaccess.co
 0.0.0.0 www.maps.bitaccess.co
 0.0.0.0 www.mastermining.net
+0.0.0.0 www.maxhash.org
 0.0.0.0 www.maz.thecoin.pw
+0.0.0.0 www.mcpool.maxhash.org
 0.0.0.0 www.mergemining.com
 0.0.0.0 www.minecraftpool.com
 0.0.0.0 www.minemonero.pro
@@ -5184,6 +5216,7 @@
 0.0.0.0 www.moonbit.co.in
 0.0.0.0 www.moriaxmr.com
 0.0.0.0 www.multiminerapp.com
+0.0.0.0 www.multimining.org
 0.0.0.0 www.multipool.es
 0.0.0.0 www.multipool.us
 0.0.0.0 www.mutuza.win
@@ -5256,6 +5289,7 @@
 0.0.0.0 www.travel-offers.review
 0.0.0.0 www.tugae2.com
 0.0.0.0 www.turtlecoin.crypto-webminer.com
+0.0.0.0 www.ubiqpool.maxhash.org
 0.0.0.0 www.ucrypto.net
 0.0.0.0 www.ultimatepool.io
 0.0.0.0 www.ultranote.crypto-webminer.com
@@ -5365,6 +5399,7 @@
 0.0.0.0 xlc.coinwire.eu
 0.0.0.0 xlc.crypto-coins.club
 0.0.0.0 xlc.cryptofriends.org
+0.0.0.0 xlc.soyminero.es
 0.0.0.0 xmd.mypool.name
 0.0.0.0 xmd.poolto.be
 0.0.0.0 xmg.cool
@@ -5505,6 +5540,7 @@
 0.0.0.0 xssrmimmnq.ru
 0.0.0.0 xst.argakiig.us
 0.0.0.0 xt917.yobit.net
+0.0.0.0 xtl.soyminero.es
 0.0.0.0 xun.coinwire.eu
 0.0.0.0 xvc.suprnova.cc
 0.0.0.0 xvg-lyra.suprnova.cc
