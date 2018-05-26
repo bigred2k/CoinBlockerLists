@@ -2,7 +2,7 @@
 # Description: This list contains IP addresses of miningservers.
 # Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 23 05 2018 23:11
+# Last modified: 26 05 2018 22:43
 # We cannot guarantee the accuracy and completeness of the information contained in this document.
 # [CoinBlocker List by ZeroDot1]
 1.31.173.33
@@ -322,6 +322,7 @@
 176.31.117.82
 176.31.125.207
 176.31.210.206
+176.31.234.173
 176.57.208.12
 176.57.217.177
 176.57.217.33
@@ -526,6 +527,7 @@
 199.188.200.149
 199.231.85.124
 199.30.241.139
+199.59.242.150
 2.21.246.10
 200.204.162.44
 200.98.201.118
@@ -723,6 +725,7 @@
 46.36.219.139
 46.4.120.155
 46.4.154.10
+46.4.205.161
 46.4.237.70
 46.47.165.202
 47.106.16.15
@@ -772,6 +775,7 @@
 51.254.219.134
 51.254.221.129
 51.254.238.27
+51.254.33.167
 51.255.163.106
 51.255.34.118
 51.255.34.79
@@ -906,6 +910,7 @@
 87.242.88.126
 87.242.88.91
 87.249.215.196
+88.198.15.41
 88.212.201.193
 88.212.201.207
 88.80.187.187
