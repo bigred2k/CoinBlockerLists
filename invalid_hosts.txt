@@ -2,7 +2,7 @@
 # Description: This list contains broken or incorrect URLs.
 # Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 20 05 2018 17:35
+# Last modified: 28 05 2018 04:58
 # This file contains all invalid hosts
 8jd2lfsq.me
 abc.pema.cl
@@ -32,3 +32,4 @@ static.hk.rs
 web.die-news.pw
 xbasfbno.info
 xy.nullrefexcep.com
+gus.host
