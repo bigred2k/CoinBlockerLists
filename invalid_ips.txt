@@ -1,0 +1,6 @@
+# Contribute: https://github.com/ZeroDot1/CoinBlockerLists/issues/new
+# Description: This list contains broken or incorrect IPs.
+# Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
+# Homepage: https://github.com/ZeroDot1/CoinBlockerLists
+# Last modified: 30 05 2018 00:41
+# This file contains all invalid ips

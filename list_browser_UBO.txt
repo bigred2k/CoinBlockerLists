@@ -1,10 +1,10 @@
 ! Contribute: https://github.com/ZeroDot1/CoinBlockerLists/issues/new
 ! Description: This list disables browser based miners such as coin-hive
-! Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
+! Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 28 05 2018 04:58
+! Last modified: 30 05 2018 00:41
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
