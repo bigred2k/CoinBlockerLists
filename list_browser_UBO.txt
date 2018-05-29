@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 30 05 2018 00:41
+! Last modified: 30 05 2018 01:26
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Many thanks to https://twitter.com/xd4rker for the good work. / https://github.com/xd4rker/MinerBlock
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
@@ -87,7 +87,6 @@ analytics.blue
 andlache.com
 api.aalbbh84.info
 appelamule.com
-april-js.github.io
 aqqgli3vle.bid
 arizona-miner.tk
 aservices.party
@@ -125,7 +124,6 @@ biberukalap.com
 bitcoiner.win
 bizoninvest.com
 bjorksta.men
-blue-js.github.io
 bmnadutub.ru
 bmnr.pw
 bmst.pw
@@ -251,7 +249,6 @@ didnkinrab.com
 digxmr.com
 dle-news.pw
 dmdamedia.hu
-dmitrovna.github.io
 do69ifsly4.me
 doubleclick1.xyz
 doubleclick2.xyz
@@ -261,7 +258,6 @@ doubleclick5.xyz
 doubleclick6.xyz
 dronml.ml
 dxmhkisurxxxhm.ru
-dynya-may.github.io
 dzizsih.ru
 earncoins.club
 easyhash.io
@@ -362,7 +358,6 @@ iisl7wpf.me
 imhvlhaelvvbrq.ru
 ingorob.com
 ininmacerad.pro
-inmu-kun.github.io
 insdrbot.com
 intactoffers.club
 interestingz.pw
@@ -430,14 +425,10 @@ m2.stream.vidzi.tv
 m2.streaming.estream.to
 m2.videos.vidto.me
 machieved.com
-march-js.github.io
 marcycoin.org
 mariuspetrescu.gq
 marketgid.com
-marta-js.github.io
-mas-onjs.github.io
 mataharirama.xyz
-may-js.github.io
 mebablo.com
 megabanners.cf
 mepirtedic.com
@@ -459,7 +450,6 @@ minero.pw
 minescripts.info
 mining.best
 minr.pw
-mjija.github.io
 mmc.center
 mmpool.org
 momwentthere.cf
@@ -480,7 +470,6 @@ mutuza.win
 mwor.gq
 mxcdn1.now.sh
 mxcdn2.now.sh
-my-deltaplan.github.io
 my-rigs.com
 myadstats.com
 myeffect.net
@@ -517,11 +506,9 @@ oei1.gq
 offerreality.com
 ogondkskyahxa.ru
 ogrid.org
-ohac.github.io
 oinkinns.tk
 okexysylgzo.ru
 okeyletsgo.ml
-one-jj.github.io
 onlinereserchstatistics.online
 open-hive-server-1.pp.ua
 openkatalog.com
@@ -545,7 +532,6 @@ pearno.com
 pema.cl
 pertholin.com
 pertosj.ru
-pizz-tuna.github.io
 play.stream.vidzi.tv
 play.streaming.estream.to
 play.video.estream.nu
@@ -570,7 +556,6 @@ r8nu86wg.me
 rand.com.ru
 realnetwrk.com
 reasedoper.pw
-red-js.github.io
 refresh-js.bitbucket.io
 refunevent.com
 rencohep.com
@@ -641,7 +626,6 @@ sxcdn5.herokuapp.com
 sxcdn6.now.sh
 synconnector.com
 tazm9p7tso.trade
-techhome-js.github.io
 template-download.top
 teramill.com
 terethat.ru
@@ -654,7 +638,6 @@ thelifeisbinary.netlify.com
 thewhizmarketing.com
 thewhizproducts.com
 thewise.com
-three-jj.github.io
 tidafors.xyz
 todogecoin.biz
 toftofcal.com
@@ -670,7 +653,6 @@ tubetitties.com
 tulip18.com
 turnsocial.com
 turnsocial.now.sh
-two-jj.github.io
 udqgbokvzbnqkf.ru
 uebawtz7.me
 ullnot.download
