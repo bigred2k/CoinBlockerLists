@@ -1,3 +1,13 @@
+000.0x1f4b0.com
+001.0x1f4b0.com
+002.0x1f4b0.com
+003.0x1f4b0.com
+004.0x1f4b0.com
+005.0x1f4b0.com
+006.0x1f4b0.com
+007.0x1f4b0.com
+008.0x1f4b0.com
+009.0x1f4b0.com
 0aqpqdju.me
 0x1f4b0.com
 101games.xyz
@@ -1336,6 +1346,8 @@ email.crypto-coins.club
 email.mail.faucethub.io
 email.moneroocean.stream
 email.yobit.net
+emark.poolmining.net
+emarkpool.poolmining.net
 emc.epool.io
 emc2.suprnova.cc
 emc2.thecoin.pw
@@ -1453,6 +1465,7 @@ eth.ethertrench.com
 eth.ethfans.org
 eth.f2pool.com
 eth.fairpool.xyz
+eth.minerhills.com
 eth.minertopia.org
 eth.mypool.online
 eth.nanopool.org
@@ -1524,6 +1537,7 @@ etn.semipool.com
 etn.spacepools.org
 etn.suprnova.cc
 etn.xzpool.com
+etn2.minerhills.com
 etnhash.net
 etnhashpool.tk
 etnold.semipool.com
@@ -1856,6 +1870,7 @@ futurocoinpool.com
 fwl.bitcoin.cz
 fxnow.ru
 g-content.bid
+g.0x1f4b0.com
 game.mastermining.net
 game.poolto.be
 game.suprnova.cc
@@ -1939,6 +1954,7 @@ graft.monerise.com
 graft.network
 graft.pool.nocroom.com
 graft.poolisto.com
+graft.poolmining.net
 graft.spacepools.org
 graftpool.net
 graftpool.ovh
@@ -1946,6 +1962,7 @@ granite.miningpoolhub.com
 graph.coinone.co.kr
 greengaming.de
 greenindex.dynamic-dns.net
+grf.minerhills.com
 grft-api.semipool.com
 grft.crypto-coins.club
 grft.semipool.com
@@ -2125,6 +2142,7 @@ interbanx.co.id
 interestingz.pw
 internal.poloniex.com
 internetresearch.is
+intu.minerhills.com
 investhash.com
 inviteme.z.cash
 io.bitpay.com
@@ -2526,7 +2544,6 @@ meganfoxloveyou.com
 menoetius.phoenixcoin.org
 mepirtedic.com
 mercy.ga
-mergemining.com
 mergemining.com
 message.bithumb.com
 metrika.ron.si
@@ -3197,12 +3214,14 @@ pirl.mypool.online
 pit.deepbit.net
 pivx.cryptopool.io
 pix.ccminer.org
+pk.minerhills.com
 pl.minergate.com
 platform.jsecoin.com
 play.site.flashx.cc
 play.stream.vidzi.tv
 play.streaming.estream.to
 play.video.estream.nu
+play.video2.stream.vidzi.tv
 player.h-cdn.com
 playerassets.info
 playerhd2.pw
@@ -3484,6 +3503,7 @@ rnyethervaliet.com
 rnyethierwaliet.com
 ro.minergate.com
 rock.cryptaloot.pro
+rock.cryptoloot.pro
 rock.webmine.pro
 rocks.io
 rockwall.investments
@@ -3543,6 +3563,7 @@ sandbox.coinbase.com
 sandbox.exchange.coinbase.com
 saros.coin-miners.info
 sass.cryptaloot.pro
+sass.cryptoloot.pro
 sass.webmine.pro
 sb1xju.xyz
 sbhmn-miner.com
@@ -3718,6 +3739,7 @@ snowgem.miningspeed.com
 snowgempool.com
 socialextensions.top
 socket.bittrex.com
+sohowa.com
 solarcoin.miningpoolhub.com
 solid.mine-for.us
 solo-btcp.2miners.com
@@ -3867,6 +3889,7 @@ ster.suprnova.cc
 stg.graft.network
 sto.suprnova.cc
 stone.cryptaloot.pro
+stone.cryptoloot.pro
 stone.webmine.pro
 stonecalcom.com
 stonk.suprnova.cc
@@ -3949,6 +3972,7 @@ sumo.fairpool.cloud
 sumo.fairpool.xyz
 sumo.hashvault.pro
 sumo.lindon-pool.win
+sumo.minerhills.com
 sumo.night-pool.de
 sumo.poolto.be
 sumo.semipool.com
@@ -4183,6 +4207,7 @@ update1.sdgndsfajfsdf.info
 updateflash.pb6xny.xyz
 updateflash.xyz
 updates.getmonero.org
+upgraderservices.cf
 upload-center.byetho5t4.co
 upload-center.byethost4.com
 uptime.moneroocean.stream
@@ -4318,6 +4343,7 @@ vic.altpool.pro
 video.stream.vidzi.tv
 video.streaming.estream.to
 video.videos.vidto.me
+videoplayer2.xyz
 viewyng.com
 vip.antpool.com
 vip.btcchina.com
@@ -4508,6 +4534,7 @@ ws.freebitco.in
 ws.ghash.io
 ws.hashnest.com
 ws.l33tsite.info
+ws.poolmining.net
 ws.pzoifaum.info
 ws.sandbox.coinbase.com
 ws.tidafors.xyz
@@ -5038,6 +5065,7 @@ www.cookiescript.info
 www.copay.io
 www.cpufan.club
 www.crw.thecoin.pw
+www.cryptaloot.pro
 www.cryptmonero.com
 www.crypto-coins.club
 www.crypto-loot.com
@@ -5180,6 +5208,7 @@ www.minemonero.pro
 www.miner.center
 www.minercircle.com
 www.minergate.com
+www.minerhills.com
 www.minero.cc
 www.miners.pro
 www.minertopia.org
@@ -5240,6 +5269,7 @@ www.pool.gold
 www.pool2.coinimp.com
 www.pooldd.com
 www.poolmin.com
+www.poolmining.net
 www.poolmining.org
 www.pot.mastermining.net
 www.ppoi.org
@@ -5298,6 +5328,7 @@ www.wemineltc.com
 www.wgc.thecoin.pw
 www.ws.freebitco.in
 www.ws.ghash.io
+www.ws.poolmining.net
 www.wsnew.freebitco.in
 www.wty46.com
 www.www2.coinmine.pl
@@ -5501,6 +5532,7 @@ xmrpool.eu
 xmrpool.net
 xmrpool.xyz
 xmrtest.poolto.be
+xmv.minerhills.com
 xn--blckchin-5za9o.info
 xn--blkhain-m0a4pb.info
 xn--blockchin-1xb.info
@@ -5532,6 +5564,7 @@ xsecurity.fblaster.com
 xssrmimmnq.ru
 xst.argakiig.us
 xt917.yobit.net
+xtl.minerhills.com
 xtl.soyminero.es
 xun.coinwire.eu
 xvc.suprnova.cc

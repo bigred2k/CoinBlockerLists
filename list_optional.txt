@@ -1,3 +1,4 @@
+p2pool.in
 1safe.link
 803mine.com
 a-ads.com
@@ -162,6 +163,7 @@ mail2.awesomeminer.com
 me.cur.lv
 mellowads.com
 minecraft.cryptopia.co.nz
+minerboard.com
 mineshop.eu
 mining-rig.de
 miningfarmasics.com
