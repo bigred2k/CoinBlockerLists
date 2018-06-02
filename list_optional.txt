@@ -1,3 +1,13 @@
+dogeminer.cc
+cryptonaut.org
+cryptoguiminer.com
+api.cryptoguiminer.com
+webdisk.api.cryptoguiminer.com
+cloud.cryptoguiminer.com
+cpanel.cryptoguiminer.com
+webdisk.cryptoguiminer.com
+bitcoinminers.eu
+
 p2pool.in
 1safe.link
 803mine.com

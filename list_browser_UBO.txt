@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! Last modified: 31 05 2018 22:22
+! LLast modified: 02 06 2018 06:50
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
 ! Title: CoinBlockerLists by ZeroDot1 uBlock / This list disables browser based miners such as coin-hive
@@ -227,6 +227,7 @@ d1e1rbybdt265x.cloudfront.net
 d3ahinqqx1dy5v.cloudfront.net
 d3ddidv77grh0f.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
+d8acddffe978b5dfcae6.date
 darking01.tk
 darking02.tk
 darking03.tk

@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 31 05 2018 22:22
+# Last modified: 02 06 2018 06:50
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
 0.0.0.0 803mine.com
@@ -40,6 +40,7 @@
 0.0.0.0 antminer-store.com
 0.0.0.0 api.binance.com
 0.0.0.0 api.bitfinex.com
+0.0.0.0 api.cryptoguiminer.com
 0.0.0.0 api.inwemo.com
 0.0.0.0 api.jaxx.io
 0.0.0.0 api.ledgerwallet.com
@@ -62,6 +63,7 @@
 0.0.0.0 binance.com
 0.0.0.0 bit.cur.lv
 0.0.0.0 bitcoin.org
+0.0.0.0 bitcoinminers.eu
 0.0.0.0 bitcore1.trezor.io
 0.0.0.0 bitcore3.trezor.io
 0.0.0.0 bitfinex.com
@@ -81,6 +83,7 @@
 0.0.0.0 chf.a-ads.com
 0.0.0.0 click.a-ads.com
 0.0.0.0 cloud.awesomeminer.com
+0.0.0.0 cloud.cryptoguiminer.com
 0.0.0.0 coinad.com
 0.0.0.0 coinadnet.com
 0.0.0.0 coincube.io
@@ -90,8 +93,11 @@
 0.0.0.0 connect.trezor.io
 0.0.0.0 cosigner.electrum.org
 0.0.0.0 cpanel.antminer-store.com
+0.0.0.0 cpanel.cryptoguiminer.com
 0.0.0.0 cpanel.imperiumminer.com
 0.0.0.0 cpanel.uclick.in
+0.0.0.0 cryptoguiminer.com
+0.0.0.0 cryptonaut.org
 0.0.0.0 cryptonotemining.org
 0.0.0.0 cryptopia.co.nz
 0.0.0.0 cur.lv
@@ -101,6 +107,7 @@
 0.0.0.0 dev.cointraffic.io
 0.0.0.0 docs.bitfinex.com
 0.0.0.0 docs.electrum.org
+0.0.0.0 dogeminer.cc
 0.0.0.0 download.electrum.org
 0.0.0.0 download.emercoin.com
 0.0.0.0 easypc.io
@@ -238,6 +245,8 @@
 0.0.0.0 utils.jaxx.io
 0.0.0.0 wallet.trezor.io
 0.0.0.0 webdisk.antminer-store.com
+0.0.0.0 webdisk.api.cryptoguiminer.com
+0.0.0.0 webdisk.cryptoguiminer.com
 0.0.0.0 webdisk.uclick.in
 0.0.0.0 webmail.antminer-store.com
 0.0.0.0 webmail.awesomeminer.com
