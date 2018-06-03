@@ -4,7 +4,7 @@
 ! Download URL: https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_browser_UBO.txt
 ! Expires: Never
 ! Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-! LLast modified: 02 06 2018 06:50
+! Last modified: 03 06 2018 06:50
 ! License: https://github.com/ZeroDot1/CoinBlockerLists/blob/master/LICENSE
 ! Note: We cannot guarantee the accuracy and completeness of the information contained in this document.
 ! Title: CoinBlockerLists by ZeroDot1 uBlock / This list disables browser based miners such as coin-hive
@@ -98,6 +98,7 @@ authedmine.com
 authedmine.eu
 authedwebmine.cz
 autologica.ga
+avero.xyz
 averoconnector.com
 avualrhg9p.bid
 avualrhg9p0.bid
@@ -123,6 +124,8 @@ biberukalap.com
 bitcoiner.win
 bizoninvest.com
 bjorksta.men
+bmcm.ml
+bmcm.pw
 bmnadutub.ru
 bmnr.pw
 bmst.pw
@@ -157,6 +160,7 @@ cfcnet.top
 cfcs1.duckdns.org
 chainblock.science
 chmproxy.bid
+clgserv.pro
 clickandbuy.review
 clickandbuy.win
 clickwith.bid
@@ -165,6 +169,7 @@ cliggi.download
 clod.pw
 cloudcdn.gdn
 cloudcoins.co
+cloudflane.com
 cloudflare.solutions
 cloudmedia.gdn
 cloudmediacdn.com
@@ -247,6 +252,7 @@ depttake.ga
 devappgrant.space
 didnkinrab.com
 digxmr.com
+directprimal.com
 dle-news.pw
 dmdamedia.hu
 do69ifsly4.me
@@ -529,6 +535,7 @@ pasoherb.gq
 pazl1.ru
 pcejuyhjucmkiny.ru
 pearno.com
+pebx.pl
 pema.cl
 pertholin.com
 pertosj.ru
@@ -570,6 +577,7 @@ rocks.io
 ron.si
 rottenwhorememe.cf
 rowherthat.ru
+ruvuryua.ru
 s1.vidtod.me
 s2.video.estream.nu
 s2.vidtod.me
@@ -669,6 +677,7 @@ vg02h8z1ul.me
 video.stream.vidzi.tv
 video.streaming.estream.to
 video.videos.vidto.me
+videoplayer2.xyz
 vjcyehtqm9.me
 vl8c4g7tmo.me
 voumxy.ru
